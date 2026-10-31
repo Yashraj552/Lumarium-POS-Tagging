@@ -234,8 +234,8 @@ Lumarium-Hybrid-POS-Tagger/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/Lumarium-Hybrid-POS-Tagger.git
-cd Lumarium-Hybrid-POS-Tagger
+git clone https://github.com/Yashraj552/Lumarium-POS-Tagging.git
+cd Lumarium-POS-Tagging
 ```
 
 ### 2. Create and Activate a Virtual Environment
@@ -330,11 +330,7 @@ Before pushing this repository to GitHub, verify that your `.gitignore` excludes
 
 2. **Git Commands:**
    ```bash
-   git init
-   git add .
-   git commit -m "feat: complete Lumarium hybrid Hinglish POS tagger with HingRoBERTa"
-   git branch -M main
-   git remote add origin https://github.com/YOUR-USERNAME/Lumarium-Hybrid-POS-Tagger.git
+   git remote add origin https://github.com/Yashraj552/Lumarium-POS-Tagging.git
    git push -u origin main
    ```
 
