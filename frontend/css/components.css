@@ -1,0 +1,782 @@
+/*
+  frontend/css/components.css — Lumarium Component Styles
+  Ivory cards, scholarly typography, and polished micro-interactions.
+*/
+
+/* 1. Hero Section */
+.hero-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-xl);
+  padding: 3rem 2.5rem 2.5rem;
+  text-align: center;
+  box-shadow: var(--shadow-sm);
+  margin-bottom: 2rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, var(--sage), var(--gold), var(--lavender));
+}
+
+.hero-title {
+  font-size: 2.75rem;
+  color: var(--text);
+  margin-bottom: 0.75rem;
+  line-height: 1.2;
+}
+
+.hero-subtitle {
+  font-size: 1.15rem;
+  color: var(--text-muted);
+  max-width: 680px;
+  margin: 0 auto 2rem;
+  line-height: 1.6;
+}
+
+/* Input Form */
+.sentence-form-wrapper {
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.sentence-input-group {
+  display: flex;
+  background: var(--surface-2);
+  border: 2px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 0.4rem;
+  transition: all 0.2s ease;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,0.02);
+}
+
+.sentence-input-group:focus-within {
+  border-color: var(--sage);
+  background: var(--surface);
+  box-shadow: 0 0 0 4px var(--sage-soft);
+}
+
+.sentence-input {
+  flex: 1;
+  border: none;
+  background: transparent;
+  padding: 0.85rem 1.25rem;
+  font-family: inherit;
+  font-size: 1.1rem;
+  color: var(--text);
+  outline: none;
+}
+
+.sentence-input::placeholder {
+  color: var(--text-light);
+}
+
+.btn-primary {
+  background: var(--sage);
+  color: #FFFFFF;
+  border: none;
+  font-family: inherit;
+  font-size: 0.95rem;
+  font-weight: 700;
+  padding: 0.85rem 1.75rem;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 6px rgba(122, 155, 118, 0.3);
+}
+
+.btn-primary:hover {
+  background: var(--sage-deep);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 10px rgba(122, 155, 118, 0.4);
+}
+
+.btn-secondary {
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--border);
+  font-family: inherit;
+  font-size: 0.9rem;
+  font-weight: 600;
+  padding: 0.55rem 1.25rem;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.btn-secondary:hover {
+  background: var(--surface-2);
+  border-color: var(--text-light);
+}
+
+/* Exemplar Chips */
+.exemplar-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 1.5rem;
+}
+
+.exemplar-label {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-right: 0.25rem;
+}
+
+.chip-btn {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 0.35rem 0.9rem;
+  font-size: 0.85rem;
+  font-family: inherit;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.chip-btn:hover {
+  border-color: var(--sage);
+  color: var(--sage-deep);
+  background: var(--sage-soft);
+  transform: translateY(-1px);
+}
+
+/* 2. Interactive Word Tiles (Token Stream) */
+.section-title-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin: 2rem 0 1rem;
+}
+
+.section-heading {
+  font-size: 1.6rem;
+  color: var(--text);
+}
+
+.section-subheading {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+.token-stream-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem;
+  margin-bottom: 1.5rem;
+}
+
+.token-tile {
+  background: var(--surface);
+  border: 2px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 0.75rem 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 90px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  user-select: none;
+  box-shadow: var(--shadow-sm);
+  position: relative;
+}
+
+.token-tile:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--border-focus);
+}
+
+.token-tile.active-token {
+  border-color: var(--sage) !important;
+  background: #FFFFFF !important;
+  box-shadow: 0 0 0 3px var(--sage-soft), var(--shadow-md) !important;
+  transform: translateY(-2px);
+}
+
+.token-tile-word {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 0.3rem;
+  letter-spacing: -0.01em;
+}
+
+.token-tile-badge {
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.2rem 0.55rem;
+  border-radius: 12px;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.25rem;
+  color: #FFFFFF;
+}
+
+.token-tile-role {
+  font-size: 0.74rem;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+
+/* POS Color Themes */
+.pos-noun .token-tile-badge, .badge-noun { background: var(--sage); }
+.pos-propn .token-tile-badge, .badge-propn { background: var(--sage-deep); }
+.pos-verb .token-tile-badge, .badge-verb { background: var(--rose); }
+.pos-aux .token-tile-badge, .badge-aux { background: #B86B6B; }
+.pos-adj .token-tile-badge, .badge-adj { background: var(--gold); }
+.pos-adv .token-tile-badge, .badge-adv { background: var(--gold-deep); }
+.pos-pron .token-tile-badge, .badge-pron { background: var(--lavender); }
+.pos-adp .token-tile-badge, .badge-adp,
+.pos-det .token-tile-badge, .badge-det,
+.pos-part .token-tile-badge, .badge-part,
+.pos-cconj .token-tile-badge, .badge-cconj,
+.pos-sconj .token-tile-badge, .badge-sconj { background: #667085; }
+.pos-num .token-tile-badge, .badge-num { background: #688D64; }
+.pos-intj .token-tile-badge, .badge-intj { background: #BD7272; }
+.pos-punct .token-tile-badge, .badge-punct,
+.pos-sym .token-tile-badge, .badge-sym,
+.pos-x .token-tile-badge, .badge-x { background: #8E98A8; }
+
+/* 3. Word Illumination Inspector */
+.inspector-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 5px solid var(--sage);
+  border-radius: var(--radius-lg);
+  padding: 1.75rem 2rem;
+  margin-bottom: 2rem;
+  box-shadow: var(--shadow-sm);
+  transition: border-left-color 0.2s ease;
+}
+
+.inspector-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.inspector-word-title {
+  font-size: 2.1rem;
+  font-weight: 700;
+  color: var(--text);
+  font-family: 'Newsreader', serif;
+  line-height: 1.1;
+}
+
+.inspector-pos-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 1rem;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #FFFFFF;
+}
+
+.inspector-definition-box {
+  background: var(--surface-2);
+  border-radius: var(--radius-md);
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.98rem;
+  line-height: 1.5;
+  color: var(--text);
+}
+
+.model-insights-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.insight-item {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 0.85rem 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.insight-label {
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  letter-spacing: 0.04em;
+  margin-bottom: 0.35rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.insight-value {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.confidence-bar-track {
+  height: 6px;
+  background: var(--surface-2);
+  border-radius: 3px;
+  overflow: hidden;
+  margin-top: 0.4rem;
+}
+
+.confidence-bar-fill {
+  height: 100%;
+  background: var(--sage);
+  border-radius: 3px;
+  transition: width 0.3s ease;
+}
+
+.details-collapsible {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px dashed var(--border);
+}
+
+.details-toggle-btn {
+  background: none;
+  border: none;
+  font-family: inherit;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--sage-deep);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0;
+}
+
+.details-toggle-btn:hover {
+  text-decoration: underline;
+}
+
+.technical-raw-box {
+  display: none;
+  background: var(--surface-2);
+  border-radius: var(--radius-sm);
+  padding: 1rem;
+  font-family: monospace;
+  font-size: 0.82rem;
+  color: #334155;
+  margin-top: 0.75rem;
+  white-space: pre-wrap;
+  word-break: break-all;
+}
+
+/* 4. Grammatical Synthesis (Summary Chips) */
+.synthesis-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.synthesis-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 0.85rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.synthesis-chips-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+
+.synthesis-chip {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 0.45rem 0.85rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--text);
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+/* 5. Triptych Translation View */
+.triptych-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.triptych-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem;
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+}
+
+.triptych-tag {
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.triptych-content {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.45;
+  font-family: 'Newsreader', serif;
+}
+
+/* 6. Morphology & Language Mix Columns */
+.analysis-columns-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.column-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.custom-table-wrapper {
+  overflow-x: auto;
+  margin-top: 1rem;
+}
+
+.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+  text-align: left;
+}
+
+.custom-table th {
+  background: var(--surface-2);
+  color: var(--text-muted);
+  font-weight: 700;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.75rem 0.85rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.custom-table td {
+  padding: 0.75rem 0.85rem;
+  border-bottom: 1px solid var(--border);
+  color: var(--text);
+}
+
+.custom-table tr:hover td {
+  background: var(--surface-2);
+}
+
+/* Language Spectrum Bar */
+.spectrum-track {
+  height: 14px;
+  background: var(--border);
+  border-radius: 8px;
+  display: flex;
+  overflow: hidden;
+  margin: 1rem 0;
+}
+
+.spectrum-seg-mr { background: var(--sage); }
+.spectrum-seg-en { background: var(--lavender); }
+.spectrum-seg-ot { background: #8E98A8; }
+
+.spectrum-legend {
+  display: flex;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+.legend-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 0.35rem;
+}
+
+/* 7. Named Entity Badges */
+.entity-badges-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.entity-badge-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 0.65rem 1rem;
+  display: flex;
+  flex-direction: column;
+  box-shadow: var(--shadow-sm);
+}
+
+.entity-type-tag {
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--gold-deep);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.entity-name-text {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--text);
+}
+
+/* 8. Practice Chamber */
+.quiz-chamber-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-xl);
+  padding: 2.5rem;
+  max-width: 800px;
+  margin: 0 auto;
+  box-shadow: var(--shadow-md);
+}
+
+.quiz-score-banner {
+  display: flex;
+  justify-content: space-around;
+  background: var(--surface-2);
+  border-radius: var(--radius-md);
+  padding: 1rem;
+  margin-bottom: 2rem;
+  border: 1px solid var(--border);
+}
+
+.quiz-score-metric {
+  text-align: center;
+}
+
+.metric-label {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.metric-value {
+  font-size: 1.45rem;
+  font-weight: 800;
+  color: var(--text);
+  font-family: 'Newsreader', serif;
+}
+
+.question-box {
+  margin-bottom: 2rem;
+}
+
+.question-badge {
+  display: inline-block;
+  background: var(--sage-soft);
+  color: var(--sage-deep);
+  font-weight: 700;
+  font-size: 0.78rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 14px;
+  margin-bottom: 0.75rem;
+}
+
+.question-title {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.4;
+  margin-bottom: 1.5rem;
+}
+
+.quiz-options-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.quiz-option-btn {
+  background: var(--surface);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 1rem 1.25rem;
+  text-align: left;
+  font-family: inherit;
+  font-size: 1rem;
+  color: var(--text);
+  cursor: pointer;
+  transition: all 0.15s ease;
+  font-weight: 500;
+}
+
+.quiz-option-btn:hover {
+  background: var(--surface-2);
+  border-color: var(--sage);
+  transform: translateX(2px);
+}
+
+.quiz-option-btn.selected {
+  border-color: var(--sage);
+  background: var(--sage-soft);
+  color: var(--sage-deep);
+  font-weight: 700;
+}
+
+.feedback-banner {
+  display: none;
+  margin-top: 1.5rem;
+  padding: 1.25rem;
+  border-radius: var(--radius-md);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.feedback-success {
+  background: var(--sage-soft);
+  color: var(--sage-deep);
+  border: 1px solid rgba(122, 155, 118, 0.4);
+}
+
+.feedback-error {
+  background: var(--rose-soft);
+  color: #A34848;
+  border: 1px solid rgba(201, 130, 130, 0.4);
+}
+
+/* 9. Grammar Compendium */
+.compendium-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.75rem;
+}
+
+.filter-btn {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  padding: 0.45rem 1rem;
+  border-radius: 20px;
+  font-family: inherit;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.filter-btn:hover, .filter-btn.active {
+  background: var(--sage);
+  color: #FFFFFF;
+  border-color: var(--sage);
+}
+
+.compendium-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 1.25rem;
+}
+
+.guide-reference-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem;
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.guide-reference-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+/* 10. NLP Observatory Lab */
+.observatory-controls-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem 2rem;
+  margin-bottom: 2rem;
+}
+
+.controls-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.control-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.control-label {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.slider-styled {
+  width: 100%;
+  accent-color: var(--sage);
+}
+
+.status-badge-healthy {
+  color: var(--sage-deep);
+  font-weight: 700;
+}

@@ -1,0 +1,239 @@
+/*
+  frontend/css/main.css — Lumarium Core Design System
+  Warm ivory, deep ink, scholarly typography, and soft natural accents.
+*/
+
+:root {
+  /* Core Palette */
+  --bg: #F8F6F0;              /* Warm ivory */
+  --surface: #FFFDF8;         /* Parchment white */
+  --surface-2: #F2F0E9;       /* Secondary parchment */
+  --surface-hover: #EBE8E0;
+  --text: #172033;            /* Deep ink */
+  --text-muted: #667085;      /* Subdued ink */
+  --text-light: #8E98A8;
+  --border: #E5E1D8;          /* Warm border */
+  --border-focus: #7A9B76;
+
+  /* Natural Scholarly Accents */
+  --sage: #7A9B76;            /* Primary interactive accent */
+  --sage-deep: #5E7E5A;
+  --sage-soft: #E8F0E4;
+  --gold: #C5A45D;            /* Secondary warm accent */
+  --gold-deep: #9F8241;
+  --gold-soft: #F5EEDB;
+  --lavender: #8B83A8;        /* Tertiary accent */
+  --lavender-soft: #EEEBF5;
+  --rose: #C98282;            /* Alert / Action accent */
+  --rose-soft: #F7E9E7;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(23, 32, 51, 0.04);
+  --shadow-md: 0 4px 12px -2px rgba(23, 32, 51, 0.06);
+  --shadow-lg: 0 12px 24px -4px rgba(23, 32, 51, 0.08);
+
+  /* Radii */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-xl: 24px;
+}
+
+/* Reset & Base */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Typography */
+h1, h2, h3, h4, .font-serif {
+  font-family: 'Newsreader', 'Lora', Georgia, serif;
+  font-weight: 600;
+  color: var(--text);
+  letter-spacing: -0.015em;
+}
+
+a {
+  color: var(--sage-deep);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+a:hover {
+  color: var(--sage);
+}
+
+/* App Container */
+.app-container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* Navigation Header */
+.site-header {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  backdrop-filter: blur(8px);
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 72px;
+}
+
+.brand-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  cursor: pointer;
+}
+
+.brand-mark {
+  width: 38px;
+  height: 38px;
+  border-radius: var(--radius-md);
+  background: var(--sage-soft);
+  color: var(--sage-deep);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  border: 1px solid rgba(122, 155, 118, 0.25);
+}
+
+.brand-text-block {
+  display: flex;
+  flex-direction: column;
+}
+
+.brand-title {
+  font-size: 1.45rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--text);
+  line-height: 1.1;
+  font-family: 'Newsreader', serif;
+}
+
+.brand-tagline {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+/* Navigation Tabs */
+.nav-menu {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: var(--surface-2);
+  padding: 0.3rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+}
+
+.nav-link {
+  border: none;
+  background: transparent;
+  color: var(--text-muted);
+  font-family: inherit;
+  font-size: 0.88rem;
+  font-weight: 600;
+  padding: 0.45rem 1rem;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.nav-link:hover {
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.nav-link.active {
+  background: var(--surface);
+  color: var(--text);
+  font-weight: 700;
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--border);
+}
+
+.header-status-badge {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--sage-deep);
+  background: var(--sage-soft);
+  padding: 0.35rem 0.85rem;
+  border-radius: 20px;
+  border: 1px solid rgba(122, 155, 118, 0.3);
+}
+
+.status-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--sage);
+  display: inline-block;
+  box-shadow: 0 0 0 2px rgba(122, 155, 118, 0.3);
+}
+
+/* Views Management */
+.view-panel {
+  display: none;
+  padding: 2.5rem 0 4rem;
+}
+
+.view-panel.active-view {
+  display: block;
+  animation: fadeIn 0.25s ease-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Footer */
+.site-footer {
+  margin-top: auto;
+  background: var(--surface);
+  border-top: 1px solid var(--border);
+  padding: 2rem 0;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  text-align: center;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+}

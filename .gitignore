@@ -1,0 +1,49 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# IDE and editor settings
+.code-review-graph/
+.vscode/
+.idea/
+
+# Logs
+*.log
+uvicorn_*.log
+streamlit.log
+streamlit_err.log
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Large pretrained model binary weights (GitHub 100MB per-file hard limit)
+# Tokenizer, configurations, and metadata are tracked; weights can be trained via finetune_hingroberta.py
+models/indicbert_pos/
+models/hingroberta_pos/*.safetensors
+models/hingroberta_pos/*.bin
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary and editor files
+*.tmp
+*.bak
+*.swp
+*.swo

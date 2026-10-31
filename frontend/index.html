@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LUMARIUM — Illuminate Every Word</title>
+  <meta name="description" content="An interactive grammar learning platform for code-mixed Hinglish and Marathi-English text powered by hybrid multi-tier NLP models.">
+  
+  <!-- Typography: Newsreader (Scholarly serif) + Plus Jakarta Sans (Crisp interface) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;0,6..72,700;1,6..72,400&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+
+  <!-- Navigation Header -->
+  <header class="site-header">
+    <div class="app-container">
+      <div class="header-inner">
+        <div class="brand-wrapper" id="brand-home-btn" title="LUMARIUM Home">
+          <div class="brand-mark">✦</div>
+          <div class="brand-text-block">
+            <span class="brand-title">LUMARIUM</span>
+            <span class="brand-tagline">Illuminate every word</span>
+          </div>
+        </div>
+
+        <nav class="nav-menu" role="tablist">
+          <button class="nav-link active" data-view="analyze" role="tab" aria-selected="true">
+            <span>🔬</span> Explore & Analyze
+          </button>
+          <button class="nav-link" data-view="practice" role="tab" aria-selected="false">
+            <span>🎮</span> Practice Chamber
+          </button>
+          <button class="nav-link" data-view="guide" role="tab" aria-selected="false">
+            <span>📖</span> Compendium
+          </button>
+          <button class="nav-link" data-view="observatory" role="tab" aria-selected="false">
+            <span>🧪</span> NLP Observatory
+          </button>
+        </nav>
+
+        <div class="header-status-badge" id="system-status-indicator" title="Model Health Status">
+          <span class="status-dot"></span>
+          <span id="system-status-text">Connecting…</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="app-container">
+
+    <!-- ============================================================ -->
+    <!-- VIEW 1: EXPLORE & ANALYZE -->
+    <!-- ============================================================ -->
+    <section id="view-analyze" class="view-panel active-view">
+      
+      <!-- Hero Card -->
+      <div class="hero-card">
+        <h1 class="hero-title">Illuminate Your Natural Speech</h1>
+        <p class="hero-subtitle">
+          Write a sentence the way you speak every day — in Hinglish or Marathi-English. Lumarium reveals how every word functions through hybrid computational linguistics.
+        </p>
+
+        <div class="sentence-form-wrapper">
+          <form id="analyze-form">
+            <div class="sentence-input-group">
+              <input 
+                type="text" 
+                id="sentence-input" 
+                class="sentence-input" 
+                placeholder="e.g. Maine kal school mein football khela." 
+                value="Maine kal school mein football khela."
+                required
+                autocomplete="off"
+              >
+              <button type="submit" id="analyze-submit-btn" class="btn-primary">
+                <span>Analyze Sentence</span> ✦
+              </button>
+            </div>
+          </form>
+
+          <div class="exemplar-container">
+            <span class="exemplar-label">Try an example:</span>
+            <button class="chip-btn" data-sentence="Maine kal school mein football khela.">"Maine kal school mein football khela."</button>
+            <button class="chip-btn" data-sentence="Tu homework complete kiya?">"Tu homework complete kiya?"</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Analysis Results Container -->
+      <div id="analysis-results-section" style="display:none;">
+        
+        <!-- Section: Word Tiles -->
+        <div class="section-title-bar">
+          <h2 class="section-heading">Word Tiles</h2>
+          <span class="section-subheading">Select any word below to illuminate its grammatical identity</span>
+        </div>
+        <div id="tokens-stream" class="token-stream-container"></div>
+
+        <!-- Section: Word Illumination Inspector -->
+        <div id="token-inspector" class="inspector-card"></div>
+
+        <!-- Section: Grammatical Synthesis -->
+        <div id="grammatical-synthesis" class="synthesis-card"></div>
+
+        <!-- Section: Triptych Translation View -->
+        <div class="section-title-bar">
+          <h2 class="section-heading">Script & Translation Triptych</h2>
+          <span class="section-subheading">From Romanized code-mixing to native Devanagari and fluent English</span>
+        </div>
+        <div id="translation-triptych" class="triptych-grid"></div>
+
+        <!-- Section: Word Anatomy (Morphology) & Language Spectrum (Code-Mixing) -->
+        <div class="analysis-columns-grid">
+          
+          <!-- Column A: Morphology -->
+          <div class="column-card">
+            <h3 class="section-heading" style="font-size:1.35rem; margin-bottom:0.25rem;">Word Anatomy (Morphology)</h3>
+            <p class="section-subheading" style="margin-bottom:1rem;">Stems, affixes, case markers, and inflections</p>
+            <div id="morphology-table-container" class="custom-table-wrapper"></div>
+          </div>
+
+          <!-- Column B: Language Spectrum -->
+          <div class="column-card">
+            <h3 class="section-heading" style="font-size:1.35rem; margin-bottom:0.25rem;">Language Spectrum</h3>
+            <p class="section-subheading" style="margin-bottom:0.5rem;">Code-mixing balance across vocabulary</p>
+            <div id="language-spectrum-container"></div>
+
+            <h3 class="section-heading" style="font-size:1.35rem; margin-top:1.5rem; margin-bottom:0.25rem;">Entity Scribe (NER)</h3>
+            <p class="section-subheading">Named individuals, places, dates, and organizations</p>
+            <div id="ner-entities-container" class="entity-badges-grid"></div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </section>
+
+    <!-- ============================================================ -->
+    <!-- VIEW 2: PRACTICE CHAMBER -->
+    <!-- ============================================================ -->
+    <section id="view-practice" class="view-panel">
+      <div class="quiz-chamber-card">
+        
+        <div class="section-title-bar" style="margin-top:0;">
+          <div>
+            <h2 class="section-heading">Practice Chamber</h2>
+            <p class="section-subheading">Challenge yourself on questions tailored to your analyzed sentence</p>
+          </div>
+          <button id="refresh-quiz-btn" class="btn-secondary">↺ New Questions</button>
+        </div>
+
+        <div class="quiz-score-banner">
+          <div class="quiz-score-metric">
+            <div class="metric-label">Mastery Score</div>
+            <div class="metric-value" id="quiz-score-display">0 pts</div>
+          </div>
+          <div class="quiz-score-metric">
+            <div class="metric-label">Accuracy</div>
+            <div class="metric-value" id="quiz-accuracy-display">100%</div>
+          </div>
+          <div class="quiz-score-metric">
+            <div class="metric-label">Answered</div>
+            <div class="metric-value" id="quiz-count-display">0</div>
+          </div>
+        </div>
+
+        <div id="quiz-active-area">
+          <div class="question-box">
+            <span class="question-badge" id="question-category-badge">Question 1</span>
+            <div class="question-title" id="question-title-text">Loading question…</div>
+            <div class="quiz-options-list" id="quiz-options-container"></div>
+          </div>
+
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-top:1.5rem;">
+            <button id="quiz-submit-btn" class="btn-primary" disabled>Check Answer ✦</button>
+            <button id="quiz-next-btn" class="btn-secondary" style="display:none;">Next Question ➔</button>
+          </div>
+
+          <div id="quiz-feedback-banner" class="feedback-banner"></div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ============================================================ -->
+    <!-- VIEW 3: GRAMMAR COMPENDIUM -->
+    <!-- ============================================================ -->
+    <section id="view-guide" class="view-panel">
+      <div class="hero-card" style="padding:2rem; margin-bottom:1.5rem;">
+        <h2 class="hero-title" style="font-size:2.2rem;">Universal Dependencies Compendium</h2>
+        <p class="hero-subtitle" style="margin-bottom:0;">
+          A reference handbook for parts of speech in English, Hinglish, and Marathi-English code-mixed language.
+        </p>
+      </div>
+
+      <div class="compendium-filters" id="compendium-filter-bar"></div>
+      <div class="compendium-cards-grid" id="compendium-cards-container"></div>
+    </section>
+
+    <!-- ============================================================ -->
+    <!-- VIEW 4: NLP OBSERVATORY -->
+    <!-- ============================================================ -->
+    <section id="view-observatory" class="view-panel">
+      <div class="hero-card" style="padding:2rem; margin-bottom:1.5rem;">
+        <h2 class="hero-title" style="font-size:2.2rem;">The NLP Observatory</h2>
+        <p class="hero-subtitle" style="margin-bottom:0;">
+          Explore how Lumarium combines linguistic rules, statistical sequence modelling, and Transformer-based contextual predictions to assign Universal Dependencies POS tags to Hindi-English code-mixed text.
+        </p>
+      </div>
+
+      <!-- Project Overview -->
+      <div class="column-card" style="margin-bottom:1.5rem;">
+        <div class="controls-grid">
+          <div>
+            <span class="control-label">Task</span>
+            <div style="font-size:0.92rem; color:var(--text-muted);">Token-level POS tagging</div>
+          </div>
+          <div>
+            <span class="control-label">Language setting</span>
+            <div style="font-size:0.92rem; color:var(--text-muted);">Hindi-English code-mixed text</div>
+          </div>
+          <div>
+            <span class="control-label">Shared tagset</span>
+            <div style="font-size:0.92rem; color:var(--text-muted);">Universal Dependencies</div>
+          </div>
+          <div>
+            <span class="control-label">Architecture</span>
+            <div style="font-size:0.92rem; color:var(--text-muted);">Rules + HMM + HingRoBERTa + Arbiter</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- How the Pipeline Works -->
+      <div class="column-card" style="margin-bottom:1.5rem;">
+        <h3 class="section-heading" style="font-size:1.3rem; margin-bottom:0.25rem;">How Lumarium Works</h3>
+        <p class="section-subheading">A shared token sequence moves through complementary linguistic and statistical analysis layers.</p>
+        <div class="controls-grid" style="margin:1rem 0 0;">
+          <div style="background:var(--surface-2); border-radius:var(--radius-sm); padding:1rem;">
+            <strong>1. Tokenization</strong>
+            <p style="font-size:0.86rem; margin:0.45rem 0 0; color:var(--text-muted);">Words, punctuation, numbers, URLs, mentions, and hashtags are identified and normalized.</p>
+          </div>
+          <div style="background:var(--surface-2); border-radius:var(--radius-sm); padding:1rem;">
+            <strong>2. Parallel tagging</strong>
+            <p style="font-size:0.86rem; margin:0.45rem 0 0; color:var(--text-muted);">Rules, a Hidden Markov Model, and a Transformer produce candidate tags.</p>
+          </div>
+          <div style="background:var(--surface-2); border-radius:var(--radius-sm); padding:1rem;">
+            <strong>3. Arbitration</strong>
+            <p style="font-size:0.86rem; margin:0.45rem 0 0; color:var(--text-muted);">The arbiter compares candidates and confidence before choosing each final tag.</p>
+          </div>
+          <div style="background:var(--surface-2); border-radius:var(--radius-sm); padding:1rem;">
+            <strong>4. Enrichment</strong>
+            <p style="font-size:0.86rem; margin:0.45rem 0 0; color:var(--text-muted);">Language, morphology, translation, entities, and WordNet evidence add context.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tagging Tiers -->
+      <div class="column-card" style="margin-bottom:1.5rem;">
+        <h3 class="section-heading" style="font-size:1.3rem; margin-bottom:0.25rem;">The Three Tagging Approaches</h3>
+        <p class="section-subheading">Each tier contributes a different kind of evidence for code-mixed POS tagging.</p>
+        <div class="analysis-columns-grid" style="margin:1rem 0 0;">
+          <div style="background:var(--surface-2); border-radius:var(--radius-sm); padding:1rem;">
+            <h4 style="font-family:'Newsreader', serif; font-size:1.15rem; margin:0 0 0.45rem;">Rule-Based Tagger</h4>
+            <p style="font-size:0.88rem; line-height:1.5; margin:0;">Uses deterministic lexical, token-shape, and morphological rules for Hindi pronouns, postpositions, particles, light verbs, temporal words, punctuation, numbers, URLs, and fused forms such as <code>dog-ne</code>.</p>
+            <p style="font-size:0.82rem; color:var(--text-muted); margin:0.65rem 0 0;">Rule confidence is calibrated from measured training-data precision.</p>
+          </div>
+          <div style="background:var(--surface-2); border-radius:var(--radius-sm); padding:1rem;">
+            <h4 style="font-family:'Newsreader', serif; font-size:1.15rem; margin:0 0 0.45rem;">First-Order HMM</h4>
+            <p style="font-size:0.88rem; line-height:1.5; margin:0;">Learns tag transitions and token emissions, uses add-k smoothing, and applies suffix evidence to rare or unseen words.</p>
+            <p style="font-size:0.82rem; color:var(--text-muted); margin:0.65rem 0 0;">Viterbi decoding selects the sentence sequence; forward-backward probabilities provide token confidence.</p>
+          </div>
+          <div style="background:var(--surface-2); border-radius:var(--radius-sm); padding:1rem;">
+            <h4 style="font-family:'Newsreader', serif; font-size:1.15rem; margin:0 0 0.45rem;">HingRoBERTa Transformer (Primary)</h4>
+            <p style="font-size:0.88rem; line-height:1.5; margin:0;">A pretrained code-mixed RoBERTa model (<code>l3cube-pune/hing-roberta</code>) fine-tuned for 17 UD tags. Uses contextual subword BPE tokenization tailored for Romanized Hindi-English code-mixing.</p>
+            <p style="font-size:0.82rem; color:var(--text-muted); margin:0.65rem 0 0;">Achieves <strong>91.94%</strong> test accuracy, <strong>0.8917 Macro-F1</strong>, and <strong>85.56%</strong> on out-of-vocabulary tokens.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Ensemble Architecture -->
+      <div class="column-card" style="margin-bottom:1.5rem;">
+        <h3 class="section-heading" style="font-size:1.3rem; margin-bottom:0.25rem;">Hybrid Ensemble Architecture</h3>
+        <p class="section-subheading">The arbiter makes a separate, explainable decision for every token.</p>
+        <div style="display:grid; grid-template-columns:1fr auto 1fr; gap:0.75rem; align-items:center; margin:1.1rem 0;">
+          <div style="background:var(--surface-2); border-radius:var(--radius-sm); padding:1rem; text-align:center;">
+            <strong>Shared token sequence</strong>
+            <div style="font-size:0.82rem; color:var(--text-muted); margin-top:0.35rem;">Same input for every tier</div>
+          </div>
+          <div style="font-size:1.4rem; color:var(--sage-deep);">→</div>
+          <div style="background:var(--surface-2); border-radius:var(--radius-sm); padding:1rem; text-align:center;">
+            <strong>Token-level arbiter</strong>
+            <div style="font-size:0.82rem; color:var(--text-muted); margin-top:0.35rem;">Final tag + source + confidence + reason</div>
+          </div>
+        </div>
+        <p style="font-size:0.9rem; line-height:1.55; margin:0;">A rule is normally trusted when it fires. When enabled, a more confident Transformer prediction may overrule it. Without a rule, the Transformer wins when it reaches the configured threshold; otherwise the selected fallback policy uses the HMM or the most confident available prediction.</p>
+      </div>
+
+      <!-- Controls Card -->
+      <div class="observatory-controls-card">
+        <h3 class="section-heading" style="font-size:1.3rem; margin-bottom:1rem;">Live Multi-Tier Arbiter Controls</h3>
+        <p class="section-subheading" style="margin-bottom:1rem;">These controls change how existing predictions are selected; they do not retrain the models. Re-analyze to compare arbitration settings.</p>
+        <div class="controls-grid">
+          
+          <div class="control-field">
+            <label class="control-label" for="slider-threshold">
+              Transformer Confidence Threshold: <span id="val-threshold-label">0.94</span>
+            </label>
+            <input type="range" id="slider-threshold" class="slider-styled" min="0.50" max="0.99" step="0.01" value="0.94">
+            <span style="font-size:0.75rem; color:var(--text-muted);">Dev-calibrated optimal threshold for HingRoBERTa (0.94)</span>
+          </div>
+
+          <div class="control-field">
+            <label class="control-label">Fallback Policy</label>
+            <div style="display:flex; gap:1rem; font-size:0.9rem;">
+              <label><input type="radio" name="observatory-fallback" value="hmm" checked> Trust HMM</label>
+              <label><input type="radio" name="observatory-fallback" value="max_conf"> Trust Max Confidence</label>
+            </div>
+            <span style="font-size:0.75rem; color:var(--text-muted);">How uncertain predictions are resolved</span>
+          </div>
+
+          <div class="control-field">
+            <label class="control-label">Rule Overrule</label>
+            <label style="font-size:0.9rem; display:flex; align-items:center; gap:0.5rem;">
+              <input type="checkbox" id="checkbox-overrule" checked> Allow confident Transformer to overrule rules
+            </label>
+            <span style="font-size:0.75rem; color:var(--text-muted);">Compare transformer softmax against calibrated precision</span>
+          </div>
+
+        </div>
+
+        <div style="margin-top:1.25rem; display:flex; justify-content:flex-end;">
+          <button id="apply-arbiter-btn" class="btn-primary">Apply & Re-analyze ✦</button>
+        </div>
+      </div>
+
+      <!-- Observatory Trace Table -->
+      <div class="column-card" style="margin-bottom:1.5rem;">
+        <h3 class="section-heading" style="font-size:1.3rem; margin-bottom:0.25rem;">Token-Level Decision Trace</h3>
+        <p class="section-subheading" style="margin-bottom:1rem;" id="observatory-attribution-summary">
+          Compare the Rule, Transformer, and HMM candidates selected for each token.
+        </p>
+        <p style="font-size:0.84rem; color:var(--text-muted);">Each row shows the candidate predictions, selected source model, associated confidence, and decision reason.</p>
+        <div id="observatory-trace-table-container" class="custom-table-wrapper"></div>
+      </div>
+
+      <!-- Linguistic Analysis Layers -->
+      <div class="column-card" style="margin-bottom:1.5rem;">
+        <h3 class="section-heading" style="font-size:1.3rem; margin-bottom:0.25rem;">Linguistic Analysis Layers</h3>
+        <p class="section-subheading">Supporting analyses help explain the grammatical and linguistic context around each prediction.</p>
+        <div class="analysis-columns-grid" style="margin:1rem 0 0;">
+          <div>
+            <h4 style="font-family:'Newsreader', serif; font-size:1.1rem; margin:0 0 0.4rem;">Tokenization & Normalization</h4>
+            <p style="font-size:0.88rem; line-height:1.5; margin:0;">Recognizes words, punctuation, numbers, URLs, mentions, hashtags, and hyphenated forms. Repeated elongations such as <code>sooooo</code> are normalized before tagging.</p>
+          </div>
+          <div>
+            <h4 style="font-family:'Newsreader', serif; font-size:1.1rem; margin:0 0 0.4rem;">Language Identification</h4>
+            <p style="font-size:0.88rem; line-height:1.5; margin:0;">Classifies tokens as Hindi, English, or Other and reports language ratios, Code-Mixing Index, dominant language, and switch points.</p>
+          </div>
+          <div>
+            <h4 style="font-family:'Newsreader', serif; font-size:1.1rem; margin:0 0 0.4rem;">Morphological Analysis</h4>
+            <p style="font-size:0.88rem; line-height:1.5; margin:0;">Uses heuristics to identify possible roots, suffixes, case markers, number, light verbs, and basic tense clues, with English lemmatization where available.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- UD Tagset and Methodology -->
+      <div class="analysis-columns-grid" style="margin-bottom:1.5rem;">
+        <div class="column-card">
+          <h3 class="section-heading" style="font-size:1.3rem; margin-bottom:0.25rem;">Universal Dependencies POS Tagset</h3>
+          <p class="section-subheading">A shared vocabulary lets every model and evaluation label be compared consistently.</p>
+          <p style="font-size:0.9rem; line-height:1.6; margin-bottom:0;">ADJ · ADP · ADV · AUX · CCONJ · DET · INTJ · NOUN · NUM · PART · PRON · PROPN · PUNCT · SCONJ · SYM · VERB · X</p>
+          <p style="font-size:0.84rem; color:var(--text-muted); margin:0;">For example, NOUN identifies naming words, VERB identifies actions, ADP identifies relational words such as <code>mein</code> or <code>ko</code>, and X covers unknown or miscellaneous forms.</p>
+        </div>
+        <div class="column-card">
+          <h3 class="section-heading" style="font-size:1.3rem; margin-bottom:0.25rem;">Dataset & Evaluation Method</h3>
+          <p style="font-size:0.88rem; line-height:1.5; margin:0 0 0.6rem;">The reported benchmark is the LinCE Hindi-English code-mixed POS dataset. Labels are normalized into the shared UD representation.</p>
+          <ol style="font-size:0.86rem; line-height:1.55; padding-left:1.25rem; margin:0;">
+            <li>Calibrate rules on training data.</li>
+            <li>Train the HMM on token sequences.</li>
+            <li>Tune arbiter settings on development data.</li>
+            <li>Evaluate on the held-out test set.</li>
+          </ol>
+        </div>
+      </div>
+
+      <!-- Performance Summary -->
+      <div class="column-card" style="margin-bottom:1.5rem;">
+        <h3 class="section-heading" style="font-size:1.3rem; margin-bottom:0.25rem;">Performance Summary</h3>
+        <p class="section-subheading">Head-to-head empirical results on the frozen test set (160 sentences, 3,476 tokens).</p>
+        <div class="custom-table-wrapper">
+          <table class="custom-table">
+            <thead>
+              <tr><th>System / Tier</th><th>Accuracy</th><th>Macro-F1</th><th>Weighted-F1</th><th>Ambiguous Sents</th><th>OOV Acc</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>HMM only</td><td>87.00%</td><td>83.92%</td><td>86.96%</td><td>86.72%</td><td>51.8%</td></tr>
+              <tr><td>Rules → HMM</td><td>86.71%</td><td>83.39%</td><td>86.68%</td><td>86.50%</td><td>51.8%</td></tr>
+              <tr><td>IndicBERT v2 (Baseline)</td><td>88.38%</td><td>85.32%</td><td>88.38%</td><td>88.28%</td><td>76.35%</td></tr>
+              <tr><td><strong>HingRoBERTa (Primary Model)</strong></td><td><strong>91.94%</strong></td><td><strong>89.17%</strong></td><td><strong>91.93%</strong></td><td><strong>91.74%</strong></td><td><strong>85.56%</strong></td></tr>
+              <tr><td>Hybrid, blueprint (th=0.85)</td><td>91.48%</td><td>88.14%</td><td>91.43%</td><td>91.26%</td><td>84.10%</td></tr>
+              <tr><td><strong>Tuned Hybrid (Arbiter th=0.94, HMM fallback)</strong></td><td><strong>91.77%</strong></td><td><strong>89.17%</strong></td><td><strong>91.77%</strong></td><td><strong>91.58%</strong></td><td><strong>85.20%</strong></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div style="background:var(--surface-2); border-radius:var(--radius-sm); padding:1rem; margin-top:1rem;">
+          <strong style="color:var(--sage-deep);">Key Architecture Highlights:</strong>
+          <ul style="font-size:0.86rem; line-height:1.6; margin:0.4rem 0 0; padding-left:1.25rem; color:var(--text-muted);">
+            <li><strong>+3.56% Accuracy Gain:</strong> HingRoBERTa improves test set accuracy from 88.38% to 91.94% over fine-tuned IndicBERT v2.</li>
+            <li><strong>+9.21% OOV Robustness:</strong> On words unseen during training, HingRoBERTa achieves 85.56% accuracy (vs 76.35% for IndicBERT).</li>
+            <li><strong>Contextual Disambiguation:</strong> Disambiguates complex code-mixed homographs including <code>he</code> (100%), <code>par</code> (80%), <code>us</code> (85.7%), <code>bola</code> (VERB), and <code>main</code> (PRON).</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- WordNet Validation Layer -->
+      <div class="column-card">
+        <h3 class="section-heading" style="font-size:1.3rem; margin-bottom:0.25rem;">English POS Validation Layer (WordNet)</h3>
+        <p class="section-subheading" style="margin-bottom:1rem;">
+          Compare translated English tokens with WordNet lexical POS evidence.
+        </p>
+        <p style="font-size:0.84rem; color:var(--text-muted);">WordNet provides supporting lexical evidence for English tokens. It does not replace the ensemble prediction or act as an independent gold-standard annotator.</p>
+        <div id="observatory-wordnet-container" class="custom-table-wrapper"></div>
+      </div>
+
+      <!-- Limitations -->
+      <div class="column-card" style="margin-top:1.5rem;">
+        <h3 class="section-heading" style="font-size:1.3rem; margin-bottom:0.5rem;">Limitations</h3>
+        <ul style="font-size:0.88rem; line-height:1.65; color:var(--text-muted); margin:0; padding-left:1.25rem;">
+          <li>The reported benchmark evaluates Hindi-English code-mixed text.</li>
+          <li>Romanized code-mixed spelling can vary significantly.</li>
+          <li>Rule coverage is intentionally partial, so rules may abstain.</li>
+          <li>HMM predictions are less reliable for unknown words.</li>
+          <li>Confidence scores come from different model mechanisms and are not directly equivalent across tiers.</li>
+          <li>WordNet evidence applies primarily to translated English tokens.</li>
+          <li>Performance varies across POS categories and ambiguous word forms.</li>
+        </ul>
+      </div>
+
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="app-container">
+      <div class="footer-content">
+        <div><strong>LUMARIUM</strong> — Illuminate Every Word · Code-Mixed NLP Hybrid System</div>
+        <div>Trained on LinCE Code-Mixed Benchmark · Universal Dependencies POS Tagset</div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Modular Scripts -->
+  <script src="js/components.js"></script>
+  <script src="js/analyze.js"></script>
+  <script src="js/practice.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

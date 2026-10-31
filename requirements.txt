@@ -1,0 +1,14 @@
+# Core (everyone)
+numpy>=1.24
+pandas>=2.0
+streamlit>=1.46
+pytest>=7.0
+requests              # translate.py: Google transliteration + translation (free, no key)
+spacy                 # translate.py: English POS tags; then: python -m spacy download en_core_web_sm
+nltk>=3.8             # morphology and wordnet validation
+fastapi>=0.110
+uvicorn>=0.30
+
+# Transformer tier (Member 3 / Colab, or any machine that runs the full UI)
+torch>=2.1
+transformers>=4.40

@@ -1,0 +1,14226 @@
+[
+[
+{
+"token": "@TimesNow",
+"tag": "X"
+},
+{
+"token": "Pakistani",
+"tag": "ADJ"
+},
+{
+"token": "terrorists",
+"tag": "NOUN"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "placement",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "hona",
+"tag": "VERB"
+},
+{
+"token": "hi",
+"tag": "PART"
+},
+{
+"token": "tha",
+"tag": "VERB"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "par",
+"tag": "ADP"
+},
+{
+"token": "Indian",
+"tag": "ADJ"
+},
+{
+"token": "army",
+"tag": "NOUN"
+},
+{
+"token": "ne",
+"tag": "ADP"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "campus",
+"tag": "NOUN"
+},
+{
+"token": "Placement",
+"tag": "NOUN"
+},
+{
+"token": "hi",
+"tag": "PART"
+},
+{
+"token": "kar",
+"tag": "VERB"
+},
+{
+"token": "diya",
+"tag": "VERB"
+},
+{
+"token": "#SurgicalStrike",
+"tag": "X"
+},
+{
+"token": "#JaiHind",
+"tag": "X"
+}
+],
+[
+{
+"token": "Subah",
+"tag": "PART"
+},
+{
+"token": "sy",
+"tag": "ADP"
+},
+{
+"token": "pait",
+"tag": "NOUN"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "halat",
+"tag": "NOUN"
+},
+{
+"token": "khrab",
+"tag": "VERB"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": "Surgical",
+"tag": "ADJ"
+},
+{
+"token": "Strikes",
+"tag": "NOUN"
+},
+{
+"token": "py",
+"tag": "NOUN"
+},
+{
+"token": "Surgical",
+"tag": "ADJ"
+},
+{
+"token": "Strikes",
+"tag": "NOUN"
+},
+{
+"token": "ho",
+"tag": "VERB"
+},
+{
+"token": "rhi",
+"tag": "VERB"
+},
+{
+"token": "hain",
+"tag": "VERB"
+},
+{
+"token": "#LooseMotions",
+"tag": "X"
+},
+{
+"token": "#OhComeOn",
+"tag": "X"
+},
+{
+"token": "#SurgicalStrike",
+"tag": "X"
+}
+],
+[
+{
+"token": "Babar",
+"tag": "PROPN"
+},
+{
+"token": "k",
+"tag": "ADP"
+},
+{
+"token": "baad",
+"tag": "ADP"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "imad",
+"tag": "PROPN"
+},
+{
+"token": "wasim",
+"tag": "PROPN"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "#SurgicalStrike",
+"tag": "X"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "khatra",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "UAE",
+"tag": "PROPN"
+},
+{
+"token": "intazamia",
+"tag": "PART"
+},
+{
+"token": "ny",
+"tag": "ADJ"
+},
+{
+"token": "lights",
+"tag": "NOUN"
+},
+{
+"token": "off",
+"tag": "PART"
+},
+{
+"token": "karny",
+"tag": "VERB"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "faisla",
+"tag": "NOUN"
+},
+{
+"token": "karlia",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "https://t.co/g1mMKtrKiG",
+"tag": "X"
+}
+],
+[
+{
+"token": "Salute",
+"tag": "VERB"
+},
+{
+"token": "Mr",
+"tag": "PROPN"
+},
+{
+"token": "PM",
+"tag": "PROPN"
+},
+{
+"token": "...",
+"tag": "X"
+},
+{
+"token": "great",
+"tag": "ADJ"
+},
+{
+"token": "move",
+"tag": "NOUN"
+},
+{
+"token": "against",
+"tag": "ADP"
+},
+{
+"token": "black",
+"tag": "ADJ"
+},
+{
+"token": "money",
+"tag": "NOUN"
+},
+{
+"token": "holder",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Kale",
+"tag": "PART"
+},
+{
+"token": "dhan",
+"tag": "PART"
+},
+{
+"token": "walo",
+"tag": "PART"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "muh",
+"tag": "NOUN"
+},
+{
+"token": "kala",
+"tag": "PART"
+},
+{
+"token": "hone",
+"tag": "VERB"
+},
+{
+"token": "wala",
+"tag": "PART"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#SurgicalStrikeOnBlackMoney",
+"tag": "X"
+},
+{
+"token": "https://t.co/dMKLy75Aou",
+"tag": "X"
+}
+],
+[
+{
+"token": "Now",
+"tag": "ADV"
+},
+{
+"token": "500",
+"tag": "NUM"
+},
+{
+"token": "and",
+"tag": "CCONJ"
+},
+{
+"token": "1000",
+"tag": "NUM"
+},
+{
+"token": "notes",
+"tag": "NOUN"
+},
+{
+"token": "have",
+"tag": "VERB"
+},
+{
+"token": "started",
+"tag": "VERB"
+},
+{
+"token": "singing",
+"tag": "VERB"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "Mera",
+"tag": "PRON"
+},
+{
+"token": "jeevan",
+"tag": "NOUN"
+},
+{
+"token": "kora",
+"tag": "PART"
+},
+{
+"token": "kagaz",
+"tag": "PART"
+},
+{
+"token": "kora",
+"tag": "PART"
+},
+{
+"token": "hi",
+"tag": "PART"
+},
+{
+"token": "reh",
+"tag": "VERB"
+},
+{
+"token": "gaya",
+"tag": "VERB"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "#SurgicalStrikeonBlackMoney",
+"tag": "X"
+}
+],
+[
+{
+"token": "@nishantchat",
+"tag": "X"
+},
+{
+"token": "@abdullah_omar",
+"tag": "X"
+},
+{
+"token": "Farooq",
+"tag": "PROPN"
+},
+{
+"token": "begging",
+"tag": "VERB"
+},
+{
+"token": "4",
+"tag": "NUM"
+},
+{
+"token": "constitution",
+"tag": "NOUN"
+},
+{
+"token": "on",
+"tag": "ADP"
+},
+{
+"token": "#TripleTalaq",
+"tag": "X"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Jb",
+"tag": "ADV"
+},
+{
+"token": "dil",
+"tag": "PROPN"
+},
+{
+"token": "kre",
+"tag": "PART"
+},
+{
+"token": "constitution",
+"tag": "NOUN"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "avhelna",
+"tag": "NOUN"
+},
+{
+"token": "kro",
+"tag": "VERB"
+},
+{
+"token": "jb",
+"tag": "ADV"
+},
+{
+"token": "dil",
+"tag": "PROPN"
+},
+{
+"token": "kre",
+"tag": "VERB"
+},
+{
+"token": "Const",
+"tag": "NOUN"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "aad",
+"tag": "NOUN"
+},
+{
+"token": "lo",
+"tag": "VERB"
+}
+],
+[
+{
+"token": "To",
+"tag": "PART"
+},
+{
+"token": "Counter",
+"tag": "PROPN"
+},
+{
+"token": "Modi",
+"tag": "PROPN"
+},
+{
+"token": "..",
+"tag": "X"
+},
+{
+"token": "Deoband",
+"tag": "PROPN"
+},
+{
+"token": "should",
+"tag": "VERB"
+},
+{
+"token": "issue",
+"tag": "NOUN"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "Fatwa",
+"tag": "NOUN"
+},
+{
+"token": "...",
+"tag": "X"
+},
+{
+"token": "Har",
+"tag": "ADJ"
+},
+{
+"token": "muslman",
+"tag": "PROPN"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "yeh",
+"tag": "DET"
+},
+{
+"token": "Farz",
+"tag": "PART"
+},
+{
+"token": "hoga",
+"tag": "VERB"
+},
+{
+"token": "k",
+"tag": "ADP"
+},
+{
+"token": "zindgi",
+"tag": "PART"
+},
+{
+"token": "mai",
+"tag": "ADP"
+},
+{
+"token": "kumSeKum",
+"tag": "PART"
+},
+{
+"token": "3",
+"tag": "NUM"
+},
+{
+"token": "bar",
+"tag": "NOUN"
+},
+{
+"token": "#TripleTalaq",
+"tag": "X"
+},
+{
+"token": "kah",
+"tag": "VERB"
+},
+{
+"token": "3Auroto",
+"tag": "ADJ"
+},
+{
+"token": "koTalaqDe",
+"tag": "NOUN"
+},
+{
+"token": "https://t.co/bIvMcHacIz",
+"tag": "X"
+}
+],
+[
+{
+"token": "Dont",
+"tag": "VERB"
+},
+{
+"token": "be",
+"tag": "VERB"
+},
+{
+"token": "Intolerant",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "Men",
+"tag": "NOUN"
+},
+{
+"token": "with",
+"tag": "ADP"
+},
+{
+"token": "5",
+"tag": "NUM"
+},
+{
+"token": "wives",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Demolish",
+"tag": "NOUN"
+},
+{
+"token": "tripleTalaq",
+"tag": "X"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "allow",
+"tag": "VERB"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "Single",
+"tag": "ADJ"
+},
+{
+"token": "Talaq",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Ek",
+"tag": "NUM"
+},
+{
+"token": "baar",
+"tag": "NOUN"
+},
+{
+"token": "bolna",
+"tag": "VERB"
+},
+{
+"token": "hi",
+"tag": "PART"
+},
+{
+"token": "kaafi",
+"tag": "VERB"
+},
+{
+"token": "hona",
+"tag": "VERB"
+},
+{
+"token": "chaiye",
+"tag": "VERB"
+},
+{
+"token": "#UCC4India",
+"tag": "X"
+}
+],
+[
+{
+"token": "India",
+"tag": "PROPN"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "#consititution",
+"tag": "X"
+},
+{
+"token": "sirf",
+"tag": "ADV"
+},
+{
+"token": "hindu",
+"tag": "NOUN"
+},
+{
+"token": "ke",
+"tag": "ADP"
+},
+{
+"token": "liye",
+"tag": "ADP"
+},
+{
+"token": "bana",
+"tag": "VERB"
+},
+{
+"token": "h",
+"tag": "VERB"
+},
+{
+"token": "or",
+"tag": "CCONJ"
+},
+{
+"token": "dusre",
+"tag": "NUM"
+},
+{
+"token": "religion",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "thode",
+"tag": "NOUN"
+},
+{
+"token": "me",
+"tag": "ADP"
+},
+{
+"token": "hi",
+"tag": "PART"
+},
+{
+"token": "khatre",
+"tag": "NOUN"
+},
+{
+"token": "me",
+"tag": "ADP"
+},
+{
+"token": "pad",
+"tag": "NOUN"
+},
+{
+"token": "jAta",
+"tag": "VERB"
+},
+{
+"token": "h",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#uniformcivilcode",
+"tag": "X"
+},
+{
+"token": "#tripletalaq",
+"tag": "X"
+},
+{
+"token": ".",
+"tag": "X"
+}
+],
+[
+{
+"token": "#TripleTalaq",
+"tag": "X"
+},
+{
+"token": "they",
+"tag": "PRON"
+},
+{
+"token": "should",
+"tag": "VERB"
+},
+{
+"token": "not",
+"tag": "PART"
+},
+{
+"token": "receive",
+"tag": "VERB"
+},
+{
+"token": "any",
+"tag": "DET"
+},
+{
+"token": "interest",
+"tag": "NOUN"
+},
+{
+"token": "on",
+"tag": "ADP"
+},
+{
+"token": "deposits",
+"tag": "NOUN"
+},
+{
+"token": "according",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "sharia",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "haj",
+"tag": "PROPN"
+},
+{
+"token": "subsidies",
+"tag": "NOUN"
+},
+{
+"token": "should",
+"tag": "VERB"
+},
+{
+"token": "be",
+"tag": "VERB"
+},
+{
+"token": "abolished",
+"tag": "VERB"
+},
+{
+"token": "according",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "sharia",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "1/9",
+"tag": "NUM"
+}
+],
+[
+{
+"token": "Mufti",
+"tag": "PROPN"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Ek",
+"tag": "NUM"
+},
+{
+"token": "baar",
+"tag": "NOUN"
+},
+{
+"token": "#TripleTalaq",
+"tag": "X"
+},
+{
+"token": "bola",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "wo",
+"tag": "PRON"
+},
+{
+"token": "wapas",
+"tag": "ADV"
+},
+{
+"token": "nahi",
+"tag": "PART"
+},
+{
+"token": "le",
+"tag": "VERB"
+},
+{
+"token": "sakte",
+"tag": "VERB"
+},
+{
+"token": "!",
+"tag": "X"
+},
+{
+"token": "Arey",
+"tag": "PART"
+},
+{
+"token": "duffer",
+"tag": "NOUN"
+},
+{
+"token": "isn't",
+"tag": "VERB"
+},
+{
+"token": "that",
+"tag": "PRON"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "whole",
+"tag": "ADJ"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "opposition's",
+"tag": "NOUN"
+},
+{
+"token": "argument",
+"tag": "NOUN"
+},
+{
+"token": "!",
+"tag": "X"
+},
+{
+"token": "#EndTripleTalaq",
+"tag": "X"
+}
+],
+[
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "#Muslim",
+"tag": "X"
+},
+{
+"token": "law",
+"tag": "NOUN"
+},
+{
+"token": "board",
+"tag": "NOUN"
+},
+{
+"token": "won't",
+"tag": "VERB"
+},
+{
+"token": "let",
+"tag": "VERB"
+},
+{
+"token": "go",
+"tag": "VERB"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "#TripleTalaq",
+"tag": "X"
+},
+{
+"token": "asks",
+"tag": "VERB"
+},
+{
+"token": "#Modi",
+"tag": "X"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "take",
+"tag": "VERB"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "walk",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "-",
+"tag": "X"
+},
+{
+"token": "@dbpostnews",
+"tag": "X"
+},
+{
+"token": "https://t.co/KaNOzU4O6G",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@byajaysingh",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "An",
+"tag": "DET"
+},
+{
+"token": "excellent",
+"tag": "ADJ"
+},
+{
+"token": "interview",
+"tag": "NOUN"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "Arif",
+"tag": "PROPN"
+},
+{
+"token": "Mohammad",
+"tag": "PROPN"
+},
+{
+"token": "Khan",
+"tag": "PROPN"
+},
+{
+"token": "on",
+"tag": "ADP"
+},
+{
+"token": "#TripleTalaq",
+"tag": "X"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Arif",
+"tag": "PROPN"
+},
+{
+"token": "Saab",
+"tag": "NOUN"
+},
+{
+"token": "is",
+"tag": "VERB"
+},
+{
+"token": "original",
+"tag": "ADJ"
+},
+{
+"token": "proponent",
+"tag": "NOUN"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "reforms",
+"tag": "NOUN"
+},
+{
+"token": "within",
+"tag": "ADP"
+},
+{
+"token": "muslim",
+"tag": "ADJ"
+},
+{
+"token": "com",
+"tag": "NOUN"
+}
+],
+[
+{
+"token": "PM",
+"tag": "PROPN"
+},
+{
+"token": "@NarendraModi",
+"tag": "X"
+},
+{
+"token": "ji",
+"tag": "PART"
+},
+{
+"token": "talks",
+"tag": "NOUN"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "equality",
+"tag": "NOUN"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "women",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "End",
+"tag": "NOUN"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "days",
+"tag": "NOUN"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "#TripleTalaq",
+"tag": "X"
+},
+{
+"token": "#DayoftheGirl",
+"tag": "X"
+},
+{
+"token": "#HappyDussehra",
+"tag": "X"
+},
+{
+"token": "#SpecialVijayaDashami",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@AwakenBuddha",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "BREAKING",
+"tag": "VERB"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "PM",
+"tag": "PROPN"
+},
+{
+"token": "Modi",
+"tag": "PROPN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "launch",
+"tag": "VERB"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "new",
+"tag": "ADJ"
+},
+{
+"token": "Strong",
+"tag": "ADJ"
+},
+{
+"token": "Condemnation",
+"tag": "NOUN"
+},
+{
+"token": "mobile",
+"tag": "ADJ"
+},
+{
+"token": "app",
+"tag": "NOUN"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "ease",
+"tag": "NOUN"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "doing",
+"tag": "VERB"
+},
+{
+"token": "condemnation",
+"tag": "NOUN"
+},
+{
+"token": "after",
+"tag": "ADP"
+},
+{
+"token": "repeated",
+"tag": "VERB"
+},
+{
+"token": "attacks",
+"tag": "NOUN"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@RubikaLiyaquat",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Mehr",
+"tag": "PROPN"
+},
+{
+"token": "we",
+"tag": "PRON"
+},
+{
+"token": "have",
+"tag": "VERB"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "saying",
+"tag": "NOUN"
+},
+{
+"token": "in",
+"tag": "ADP"
+},
+{
+"token": "India",
+"tag": "PROPN"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "kathni",
+"tag": "NOUN"
+},
+{
+"token": "aur",
+"tag": "CCONJ"
+},
+{
+"token": "karni",
+"tag": "NOUN"
+},
+{
+"token": "mai",
+"tag": "ADP"
+},
+{
+"token": "Antar",
+"tag": "NOUN"
+},
+{
+"token": "\"",
+"tag": "X"
+}
+],
+[
+{
+"token": "Inki",
+"tag": "PRON"
+},
+{
+"token": "tooti",
+"tag": "NOUN"
+},
+{
+"token": "hamare",
+"tag": "PRON"
+},
+{
+"token": "haath",
+"tag": "NOUN"
+},
+{
+"token": "mein",
+"tag": "ADP"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": "?",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@KapilSibalteam",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "#IndiaWithForces",
+"tag": "X"
+},
+{
+"token": "jawan's",
+"tag": "NOUN"
+},
+{
+"token": "Message",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "ADP"
+},
+{
+"token": "Pakis",
+"tag": "PROPN"
+},
+{
+"token": "on",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Kashmir",
+"tag": "PROPN"
+},
+{
+"token": "toh",
+"tag": "PART"
+},
+{
+"token": "hoga",
+"tag": "VERB"
+},
+{
+"token": "lekin",
+"tag": "CCONJ"
+},
+{
+"token": "Pakistan",
+"tag": "PROPN"
+},
+{
+"token": "nahi",
+"tag": "PART"
+},
+{
+"token": "hoga",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#JaiHind",
+"tag": "X"
+},
+{
+"token": "https://t",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@nselrevenge",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "NSEL",
+"tag": "PROPN"
+},
+{
+"token": "-",
+"tag": "X"
+},
+{
+"token": "Jignesh",
+"tag": "PROPN"
+},
+{
+"token": "shah's",
+"tag": "PROPN"
+},
+{
+"token": "hawala",
+"tag": "ADJ"
+},
+{
+"token": "links",
+"tag": "NOUN"
+},
+{
+"token": "covered",
+"tag": "VERB"
+},
+{
+"token": "up",
+"tag": "PART"
+},
+{
+"token": "by",
+"tag": "ADP"
+},
+{
+"token": "@dir_ed",
+"tag": "X"
+},
+{
+"token": "https://t.co/15B6BRb3oA",
+"tag": "X"
+},
+{
+"token": "@adhia03",
+"tag": "X"
+},
+{
+"token": "@FinMinIndia",
+"tag": "X"
+},
+{
+"token": "hawala",
+"tag": "ADJ"
+},
+{
+"token": "=",
+"tag": "X"
+},
+{
+"token": "terror",
+"tag": "NOUN"
+},
+{
+"token": "funding",
+"tag": "NOUN"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@_anujsinghal",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "This",
+"tag": "DET"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "shows",
+"tag": "VERB"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "futility",
+"tag": "NOUN"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "Aman",
+"tag": "PROPN"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "Asha",
+"tag": "PROPN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "You",
+"tag": "PRON"
+},
+{
+"token": "can",
+"tag": "VERB"
+},
+{
+"token": "hope",
+"tag": "VERB"
+},
+{
+"token": "peace",
+"tag": "NOUN"
+},
+{
+"token": "with",
+"tag": "ADP"
+},
+{
+"token": "sane",
+"tag": "ADJ"
+},
+{
+"token": "humans",
+"tag": "NOUN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "not",
+"tag": "PART"
+},
+{
+"token": "rabid",
+"tag": "ADJ"
+},
+{
+"token": "animals",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+}
+],
+[
+{
+"token": "If",
+"tag": "CCONJ"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "Aman",
+"tag": "PROPN"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "Asha",
+"tag": "PROPN"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "Gang",
+"tag": "NOUN"
+},
+{
+"token": "in",
+"tag": "ADP"
+},
+{
+"token": "Pakistan",
+"tag": "PROPN"
+},
+{
+"token": "didn't",
+"tag": "VERB"
+},
+{
+"token": "criticise",
+"tag": "VERB"
+},
+{
+"token": "their",
+"tag": "PRON"
+},
+{
+"token": "govt",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "they",
+"tag": "PRON"
+},
+{
+"token": "are",
+"tag": "VERB"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "biggest",
+"tag": "ADJ"
+},
+{
+"token": "Hypocrite",
+"tag": "NOUN"
+},
+{
+"token": "Assholes",
+"tag": "NOUN"
+},
+{
+"token": "!",
+"tag": "X"
+}
+],
+[
+{
+"token": "Modi",
+"tag": "PROPN"
+},
+{
+"token": "ji",
+"tag": "PART"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "conspiracy",
+"tag": "NOUN"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "se",
+"tag": "ADP"
+},
+{
+"token": "Dhyan",
+"tag": "NOUN"
+},
+{
+"token": "hatane",
+"tag": "VERB"
+},
+{
+"token": "ke",
+"tag": "ADP"
+},
+{
+"token": "like",
+"tag": "ADP"
+},
+{
+"token": "#bradExit",
+"tag": "X"
+},
+{
+"token": "karva",
+"tag": "VERB"
+},
+{
+"token": "diya",
+"tag": "VERB"
+}
+],
+[
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "aub",
+"tag": "ADV"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "ankh",
+"tag": "NOUN"
+},
+{
+"token": "se",
+"tag": "ADP"
+},
+{
+"token": "ankh",
+"tag": "NOUN"
+},
+{
+"token": "milao",
+"tag": "VERB"
+},
+{
+"token": "kub",
+"tag": "PRON"
+},
+{
+"token": "milaoge",
+"tag": "VERB"
+},
+{
+"token": "2019",
+"tag": "NUM"
+},
+{
+"token": "election",
+"tag": "NOUN"
+},
+{
+"token": "ke",
+"tag": "ADP"
+},
+{
+"token": "pahele",
+"tag": "ADV"
+},
+{
+"token": "pahele",
+"tag": "ADV"
+},
+{
+"token": "drama",
+"tag": "NOUN"
+},
+{
+"token": "karoge",
+"tag": "VERB"
+},
+{
+"token": "kya",
+"tag": "PRON"
+},
+{
+"token": "?",
+"tag": "X"
+}
+],
+[
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Its",
+"tag": "VERB"
+},
+{
+"token": "time",
+"tag": "NOUN"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "US",
+"tag": "PROPN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "take",
+"tag": "VERB"
+},
+{
+"token": "one",
+"tag": "NUM"
+},
+{
+"token": "side",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+}
+],
+[
+{
+"token": "Obama",
+"tag": "PROPN"
+},
+{
+"token": "Sir",
+"tag": "NOUN"
+},
+{
+"token": "Look",
+"tag": "VERB"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "HotaHai",
+"tag": "VERB"
+},
+{
+"token": "aur",
+"tag": "CCONJ"
+},
+{
+"token": "Modiji",
+"tag": "PROPN"
+},
+{
+"token": "poori",
+"tag": "NOUN"
+},
+{
+"token": "Kharahe",
+"tag": "VERB"
+},
+{
+"token": "HAIN",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#CMModi2PMModi",
+"tag": "X"
+},
+{
+"token": "#ModiShamesIndia",
+"tag": "X"
+},
+{
+"token": "#DontFoolThePeople",
+"tag": "X"
+},
+{
+"token": "https://t.co/SvLmCtvmED",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@surya12mati",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Dear",
+"tag": "ADJ"
+},
+{
+"token": "@PMOIndia",
+"tag": "X"
+},
+{
+"token": "Humse",
+"tag": "PRON"
+},
+{
+"token": "tax",
+"tag": "NOUN"
+},
+{
+"token": "dugna",
+"tag": "DET"
+},
+{
+"token": "lo",
+"tag": "VERB"
+},
+{
+"token": "par",
+"tag": "CCONJ"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "#pak",
+"tag": "X"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "hamle",
+"tag": "NOUN"
+},
+{
+"token": "se",
+"tag": "ADP"
+},
+{
+"token": "hi",
+"tag": "PART"
+},
+{
+"token": "jawab",
+"tag": "VERB"
+},
+{
+"token": "do",
+"tag": "VERB"
+},
+{
+"token": "..",
+"tag": "X"
+},
+{
+"token": "unhone",
+"tag": "PRON"
+},
+{
+"token": "30",
+"tag": "NUM"
+},
+{
+"token": "mare",
+"tag": "VERB"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "unke",
+"tag": "PRON"
+},
+{
+"token": "30,000",
+"tag": "NUM"
+},
+{
+"token": "maro",
+"tag": "VERB"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@RareHistorical",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "27Jan1963",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Lata",
+"tag": "PROPN"
+},
+{
+"token": "Mangeshkar",
+"tag": "PROPN"
+},
+{
+"token": "singing",
+"tag": "VERB"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "Aye",
+"tag": "PART"
+},
+{
+"token": "Mere",
+"tag": "PRON"
+},
+{
+"token": "Watan",
+"tag": "NOUN"
+},
+{
+"token": "ke",
+"tag": "ADP"
+},
+{
+"token": "Logon",
+"tag": "NOUN"
+},
+{
+"token": "Jara",
+"tag": "ADV"
+},
+{
+"token": "Aankh",
+"tag": "NOUN"
+},
+{
+"token": "mein",
+"tag": "ADP"
+},
+{
+"token": "bhar",
+"tag": "VERB"
+},
+{
+"token": "lo",
+"tag": "VERB"
+},
+{
+"token": "Pani",
+"tag": "NOUN"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "#IndiaWithForces",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "#Brave",
+"tag": "X"
+},
+{
+"token": "#Soldiers",
+"tag": "X"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "#IndianArmy",
+"tag": "X"
+},
+{
+"token": "-",
+"tag": "X"
+},
+{
+"token": "#Kashmir",
+"tag": "X"
+},
+{
+"token": "toh",
+"tag": "PART"
+},
+{
+"token": "hoga",
+"tag": "VERB"
+},
+{
+"token": "par",
+"tag": "CCONJ"
+},
+{
+"token": "#Pakistan",
+"tag": "X"
+},
+{
+"token": "nahi",
+"tag": "PART"
+},
+{
+"token": "hoga",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "https://t.co/kzwCw01XFK",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@DOCTORATLARGE",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Only",
+"tag": "ADJ"
+},
+{
+"token": "solution",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "ADP"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "Kashmir",
+"tag": "ADJ"
+},
+{
+"token": "problem",
+"tag": "NOUN"
+},
+{
+"token": "is",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "treat",
+"tag": "VERB"
+},
+{
+"token": "Kashmir",
+"tag": "PROPN"
+},
+{
+"token": "not",
+"tag": "PART"
+},
+{
+"token": "as",
+"tag": "ADP"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "state",
+"tag": "NOUN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "but",
+"tag": "CCONJ"
+},
+{
+"token": "as",
+"tag": "ADP"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "permanent",
+"tag": "ADJ"
+},
+{
+"token": "military",
+"tag": "ADJ"
+},
+{
+"token": "garrison",
+"tag": "NOUN"
+}
+],
+[
+{
+"token": "@foranuj",
+"tag": "X"
+},
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "oil",
+"tag": "ADJ"
+},
+{
+"token": "depot",
+"tag": "NOUN"
+},
+{
+"token": "men",
+"tag": "ADP"
+},
+{
+"token": "aag",
+"tag": "VERB"
+},
+{
+"token": "lagi",
+"tag": "VERB"
+},
+{
+"token": "us",
+"tag": "DET"
+},
+{
+"token": "aag",
+"tag": "NOUN"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "waja",
+"tag": "NOUN"
+},
+{
+"token": "se",
+"tag": "ADP"
+},
+{
+"token": "indian",
+"tag": "ADJ"
+},
+{
+"token": "soldiers",
+"tag": "NOUN"
+},
+{
+"token": "mar",
+"tag": "VERB"
+},
+{
+"token": "gae",
+"tag": "VERB"
+},
+{
+"token": "hen",
+"tag": "VERB"
+},
+{
+"token": "sach",
+"tag": "VERB"
+},
+{
+"token": "bolo",
+"tag": "VERB"
+},
+{
+"token": "modi",
+"tag": "PROPN"
+},
+{
+"token": "sharam",
+"tag": "VERB"
+},
+{
+"token": "kro",
+"tag": "VERB"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "ab",
+"tag": "ADV"
+},
+{
+"token": "no",
+"tag": "PART"
+},
+{
+"token": "baat",
+"tag": "NOUN"
+},
+{
+"token": "sirf",
+"tag": "ADV"
+},
+{
+"token": "do",
+"tag": "VERB"
+},
+{
+"token": "pakistan",
+"tag": "PROPN"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "laat",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "othrwise",
+"tag": "CCONJ"
+},
+{
+"token": "ur",
+"tag": "PRON"
+},
+{
+"token": "govrnmnt",
+"tag": "NOUN"
+},
+{
+"token": "totly",
+"tag": "ADV"
+},
+{
+"token": "bakwas",
+"tag": "ADJ"
+},
+{
+"token": "..",
+"tag": "X"
+},
+{
+"token": "want",
+"tag": "VERB"
+},
+{
+"token": "badla",
+"tag": "NOUN"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@HulashChouhan",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "17",
+"tag": "NUM"
+},
+{
+"token": "Dead",
+"tag": "VERB"
+},
+{
+"token": "..",
+"tag": "X"
+},
+{
+"token": "Dear",
+"tag": "ADJ"
+},
+{
+"token": "BJP",
+"tag": "PROPN"
+},
+{
+"token": "as",
+"tag": "CCONJ"
+},
+{
+"token": "you",
+"tag": "PRON"
+},
+{
+"token": "have",
+"tag": "VERB"
+},
+{
+"token": "told",
+"tag": "VERB"
+},
+{
+"token": "please",
+"tag": "ADV"
+},
+{
+"token": "bring",
+"tag": "VERB"
+},
+{
+"token": "170",
+"tag": "NUM"
+},
+{
+"token": "head",
+"tag": "NOUN"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "terrorists",
+"tag": "NOUN"
+},
+{
+"token": "..",
+"tag": "X"
+},
+{
+"token": "1",
+"tag": "NUM"
+},
+{
+"token": "ke",
+"tag": "ADP"
+},
+{
+"token": "badle",
+"tag": "ADP"
+},
+{
+"token": "10",
+"tag": "NUM"
+},
+{
+"token": "sar",
+"tag": "NOUN"
+},
+{
+"token": "..",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "@NarendraModi",
+"tag": "X"
+},
+{
+"token": "ji",
+"tag": "PART"
+},
+{
+"token": "there",
+"tag": "DET"
+},
+{
+"token": "must",
+"tag": "VERB"
+},
+{
+"token": "be",
+"tag": "VERB"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "strike",
+"tag": "NOUN"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "6",
+"tag": "NUM"
+},
+{
+"token": "rivers",
+"tag": "NOUN"
+},
+{
+"token": "from",
+"tag": "ADP"
+},
+{
+"token": "India",
+"tag": "PROPN"
+},
+{
+"token": "..",
+"tag": "X"
+},
+{
+"token": "lets",
+"tag": "VERB"
+},
+{
+"token": "do",
+"tag": "VERB"
+},
+{
+"token": "it",
+"tag": "PRON"
+},
+{
+"token": "pyaase",
+"tag": "VERB"
+},
+{
+"token": "rahege",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "ADV"
+},
+{
+"token": "marege",
+"tag": "VERB"
+},
+{
+"token": "ye",
+"tag": "PRON"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": ">_>",
+"tag": "X"
+}
+],
+[
+{
+"token": "Wo",
+"tag": "DET"
+},
+{
+"token": "kia",
+"tag": "PRON"
+},
+{
+"token": "jawab",
+"tag": "NOUN"
+},
+{
+"token": "de",
+"tag": "VERB"
+},
+{
+"token": "ga",
+"tag": "VERB"
+},
+{
+"token": "usy",
+"tag": "PRON"
+},
+{
+"token": "pta",
+"tag": "VERB"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": "lions",
+"tag": "NOUN"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "mukbla",
+"tag": "NOUN"
+},
+{
+"token": "kuty",
+"tag": "NOUN"
+},
+{
+"token": "nhi",
+"tag": "PART"
+},
+{
+"token": "kr",
+"tag": "VERB"
+},
+{
+"token": "skty",
+"tag": "VERB"
+},
+{
+"token": "pakistan",
+"tag": "PROPN"
+},
+{
+"token": "bap",
+"tag": "NOUN"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": "tum",
+"tag": "PRON"
+},
+{
+"token": "logo",
+"tag": "NOUN"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "https://t.co/7hV9jXXres",
+"tag": "X"
+}
+],
+[
+{
+"token": "#uriattack",
+"tag": "X"
+},
+{
+"token": "let",
+"tag": "VERB"
+},
+{
+"token": "us",
+"tag": "PRON"
+},
+{
+"token": "kick",
+"tag": "VERB"
+},
+{
+"token": "out",
+"tag": "PART"
+},
+{
+"token": "all",
+"tag": "DET"
+},
+{
+"token": "pak",
+"tag": "ADJ"
+},
+{
+"token": "artists",
+"tag": "NOUN"
+},
+{
+"token": "and",
+"tag": "CCONJ"
+},
+{
+"token": "pak",
+"tag": "ADJ"
+},
+{
+"token": "sympathisers",
+"tag": "CCONJ"
+},
+{
+"token": "like",
+"tag": "ADP"
+},
+{
+"token": "arun",
+"tag": "PROPN"
+},
+{
+"token": "dhoti",
+"tag": "PROPN"
+},
+{
+"token": "roi",
+"tag": "PROPN"
+},
+{
+"token": ":)",
+"tag": "X"
+}
+],
+[
+{
+"token": "People",
+"tag": "NOUN"
+},
+{
+"token": "not",
+"tag": "PART"
+},
+{
+"token": "voted",
+"tag": "VERB"
+},
+{
+"token": "you",
+"tag": "PRON"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "statements",
+"tag": "NOUN"
+},
+{
+"token": "like",
+"tag": "ADP"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "kadi",
+"tag": "ADJ"
+},
+{
+"token": "ninda",
+"tag": "NOUN"
+},
+{
+"token": "karte",
+"tag": "VERB"
+},
+{
+"token": "he",
+"tag": "VERB"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "they",
+"tag": "PRON"
+},
+{
+"token": "voted",
+"tag": "VERB"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "56",
+"tag": "NUM"
+},
+{
+"token": "inch",
+"tag": "NOUN"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "sina",
+"tag": "NOUN"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "!!",
+"tag": "X"
+}
+],
+[
+{
+"token": "'",
+"tag": "X"
+},
+{
+"token": "Iss",
+"tag": "DET"
+},
+{
+"token": "Indian",
+"tag": "NOUN"
+},
+{
+"token": "Ko",
+"tag": "ADP"
+},
+{
+"token": "Bahar",
+"tag": "VERB"
+},
+{
+"token": "Nikalo",
+"tag": "VERB"
+},
+{
+"token": "'",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "NDTV",
+"tag": "PROPN"
+},
+{
+"token": "Journalist",
+"tag": "NOUN"
+},
+{
+"token": "@namratabrar",
+"tag": "X"
+},
+{
+"token": "kicked",
+"tag": "VERB"
+},
+{
+"token": "out",
+"tag": "PART"
+},
+{
+"token": "from",
+"tag": "ADP"
+},
+{
+"token": "from",
+"tag": "ADP"
+},
+{
+"token": "Pakistan",
+"tag": "PROPN"
+},
+{
+"token": "Briefing",
+"tag": "NOUN"
+},
+{
+"token": "In",
+"tag": "ADP"
+},
+{
+"token": "New",
+"tag": "PROPN"
+},
+{
+"token": "York",
+"tag": "PROPN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#Kashmir",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "@officofrg",
+"tag": "X"
+},
+{
+"token": "@bdutt",
+"tag": "X"
+},
+{
+"token": "#rahulsinhazee",
+"tag": "X"
+},
+{
+"token": "ab",
+"tag": "ADV"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "baar",
+"tag": "NOUN"
+},
+{
+"token": "no",
+"tag": "PART"
+},
+{
+"token": "tolerance",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "ADP"
+},
+{
+"token": "this",
+"tag": "DET"
+},
+{
+"token": "bastards",
+"tag": "NOUN"
+},
+{
+"token": "paki",
+"tag": "NOUN"
+},
+{
+"token": ",,,",
+"tag": "X"
+},
+{
+"token": "#intolerance",
+"tag": "X"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "#uriattack",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@myindmakers",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "We",
+"tag": "PRON"
+},
+{
+"token": "salute",
+"tag": "VERB"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "Bravehearts",
+"tag": "NOUN"
+},
+{
+"token": "who",
+"tag": "PRON"
+},
+{
+"token": "made",
+"tag": "VERB"
+},
+{
+"token": "ultimate",
+"tag": "ADJ"
+},
+{
+"token": "sacrifice",
+"tag": "NOUN"
+},
+{
+"token": "in",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "Jai",
+"tag": "VERB"
+},
+{
+"token": "Hind",
+"tag": "PROPN"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "Sena",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Pic",
+"tag": "NOUN"
+},
+{
+"token": "Credit",
+"tag": "NOUN"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "@adgpi",
+"tag": "X"
+},
+{
+"token": "https://t.co/e7hQ",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@amittrivedi81",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "Sir",
+"tag": "NOUN"
+},
+{
+"token": "#AttackOnIndia",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "kab",
+"tag": "PRON"
+},
+{
+"token": "tak",
+"tag": "ADV"
+},
+{
+"token": "?",
+"tag": "X"
+},
+{
+"token": "It's",
+"tag": "VERB"
+},
+{
+"token": "time",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "take",
+"tag": "VERB"
+},
+{
+"token": "hard",
+"tag": "ADJ"
+},
+{
+"token": "action",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Aap",
+"tag": "PRON"
+},
+{
+"token": "hi",
+"tag": "PART"
+},
+{
+"token": "ab",
+"tag": "ADV"
+},
+{
+"token": "ek",
+"tag": "NUM"
+},
+{
+"token": "ummid",
+"tag": "VERB"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@Category5Moron",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Hijron",
+"tag": "NOUN"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "desh",
+"tag": "NOUN"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": "yeh",
+"tag": "DET"
+}
+],
+[
+{
+"token": "Umeed",
+"tag": "NOUN"
+},
+{
+"token": "Rab",
+"tag": "NOUN"
+},
+{
+"token": "se",
+"tag": "ADP"
+},
+{
+"token": "rakho",
+"tag": "VERB"
+},
+{
+"token": "..",
+"tag": "X"
+},
+{
+"token": "sab",
+"tag": "NOUN"
+},
+{
+"token": "se",
+"tag": "ADP"
+},
+{
+"token": "Nahi",
+"tag": "PART"
+},
+{
+"token": "...",
+"tag": "X"
+},
+{
+"token": "India",
+"tag": "PROPN"
+},
+{
+"token": "ne",
+"tag": "ADP"
+},
+{
+"token": "hath",
+"tag": "VERB"
+},
+{
+"token": "badhaya",
+"tag": "VERB"
+},
+{
+"token": "tha",
+"tag": "VERB"
+},
+{
+"token": "bc",
+"tag": "X"
+},
+{
+"token": "..",
+"tag": "X"
+},
+{
+"token": "ab",
+"tag": "ADV"
+},
+{
+"token": "marengey",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "sahi",
+"tag": "ADJ"
+},
+{
+"token": ".",
+"tag": "X"
+}
+],
+[
+{
+"token": "@SitaramYechury",
+"tag": "X"
+},
+{
+"token": "leaders",
+"tag": "NOUN"
+},
+{
+"token": "who",
+"tag": "PRON"
+},
+{
+"token": "went",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "ADP"
+},
+{
+"token": "JNU",
+"tag": "PROPN"
+},
+{
+"token": "&",
+"tag": "CCONJ"
+},
+{
+"token": "supported",
+"tag": "VERB"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "Bharat",
+"tag": "PROPN"
+},
+{
+"token": "Tere",
+"tag": "PRON"
+},
+{
+"token": "Tukade",
+"tag": "VERB"
+},
+{
+"token": "Honge",
+"tag": "VERB"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "brigade",
+"tag": "NOUN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "nw",
+"tag": "ADV"
+},
+{
+"token": "abusing",
+"tag": "VERB"
+},
+{
+"token": "PM",
+"tag": "PROPN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "asking",
+"tag": "VERB"
+},
+{
+"token": "him",
+"tag": "PRON"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "ACT",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Hypocrites",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "May",
+"tag": "VERB"
+},
+{
+"token": "ur",
+"tag": "PRON"
+},
+{
+"token": "Strength",
+"tag": "NOUN"
+},
+{
+"token": "n",
+"tag": "CCONJ"
+},
+{
+"token": "bravery",
+"tag": "NOUN"
+},
+{
+"token": "pass",
+"tag": "VERB"
+},
+{
+"token": "on",
+"tag": "PART"
+},
+{
+"token": "2",
+"tag": "NUM"
+},
+{
+"token": "othr",
+"tag": "ADJ"
+},
+{
+"token": "Jawans",
+"tag": "NOUN"
+},
+{
+"token": "SALUTE",
+"tag": "VERB"
+},
+{
+"token": "ur",
+"tag": "PRON"
+},
+{
+"token": "Might",
+"tag": "NOUN"
+},
+{
+"token": "n",
+"tag": "CCONJ"
+},
+{
+"token": "May",
+"tag": "VERB"
+},
+{
+"token": "u",
+"tag": "PRON"
+},
+{
+"token": "RIP",
+"tag": "PROPN"
+},
+{
+"token": "4",
+"tag": "NUM"
+},
+{
+"token": "u",
+"tag": "PRON"
+},
+{
+"token": "hv",
+"tag": "VERB"
+},
+{
+"token": "won",
+"tag": "VERB"
+},
+{
+"token": "heart",
+"tag": "NOUN"
+},
+{
+"token": "f",
+"tag": "ADP"
+},
+{
+"token": "Bharat",
+"tag": "PROPN"
+},
+{
+"token": "Jai",
+"tag": "VERB"
+},
+{
+"token": "Jawan",
+"tag": "NOUN"
+},
+{
+"token": "!",
+"tag": "X"
+},
+{
+"token": "JAI",
+"tag": "VERB"
+},
+{
+"token": "HIND",
+"tag": "PROPN"
+},
+{
+"token": "!",
+"tag": "X"
+}
+],
+[
+{
+"token": "Shukar",
+"tag": "VERB"
+},
+{
+"token": "ha",
+"tag": "VERB"
+},
+{
+"token": "India",
+"tag": "PROPN"
+},
+{
+"token": "main",
+"tag": "ADP"
+},
+{
+"token": "buchy",
+"tag": "X"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "paidaish",
+"tag": "NOUN"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "ilzaam",
+"tag": "NOUN"
+},
+{
+"token": "Pakistan",
+"tag": "PROPN"
+},
+{
+"token": "par",
+"tag": "ADP"
+},
+{
+"token": "nahi",
+"tag": "PART"
+},
+{
+"token": "laga",
+"tag": "VERB"
+},
+{
+"token": "daty",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@ndtv",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "National",
+"tag": "PROPN"
+},
+{
+"token": "Investigation",
+"tag": "PROPN"
+},
+{
+"token": "Agency",
+"tag": "PROPN"
+},
+{
+"token": "(",
+"tag": "X"
+},
+{
+"token": "NIA",
+"tag": "PROPN"
+},
+{
+"token": ")",
+"tag": "X"
+},
+{
+"token": "registers",
+"tag": "VERB"
+},
+{
+"token": "case",
+"tag": "NOUN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "team",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "take",
+"tag": "VERB"
+},
+{
+"token": "DNA",
+"tag": "PROPN"
+},
+{
+"token": "samples",
+"tag": "NOUN"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "four",
+"tag": "NUM"
+},
+{
+"token": "Jaish-e-Mohammad",
+"tag": "PROPN"
+},
+{
+"token": "terrorists",
+"tag": "NOUN"
+}
+],
+[
+{
+"token": "Every",
+"tag": "DET"
+},
+{
+"token": "rhetoric",
+"tag": "NOUN"
+},
+{
+"token": "by",
+"tag": "ADP"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "Govt",
+"tag": "NOUN"
+},
+{
+"token": "and",
+"tag": "CCONJ"
+},
+{
+"token": "it's",
+"tag": "VERB"
+},
+{
+"token": "pet",
+"tag": "ADJ"
+},
+{
+"token": "media",
+"tag": "ADJ"
+},
+{
+"token": "houses",
+"tag": "NOUN"
+},
+{
+"token": "after",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "are",
+"tag": "VERB"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "repeat",
+"tag": "NOUN"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "what",
+"tag": "PRON"
+},
+{
+"token": "they",
+"tag": "PRON"
+},
+{
+"token": "said",
+"tag": "VERB"
+},
+{
+"token": "after",
+"tag": "ADP"
+},
+{
+"token": "Pathankot",
+"tag": "PROPN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Kiya",
+"tag": "VERB"
+},
+{
+"token": "toh",
+"tag": "PART"
+},
+{
+"token": "ghanta",
+"tag": "NOUN"
+},
+{
+"token": "!",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@Dattaamit11Amit",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "#suicides",
+"tag": "X"
+},
+{
+"token": "by",
+"tag": "ADP"
+},
+{
+"token": "#kisan",
+"tag": "X"
+},
+{
+"token": "n",
+"tag": "CCONJ"
+},
+{
+"token": "#kiilings",
+"tag": "X"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "#jawan",
+"tag": "X"
+},
+{
+"token": "?",
+"tag": "X"
+},
+{
+"token": "Kya",
+"tag": "PRON"
+},
+{
+"token": "yeh",
+"tag": "DET"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": "#AcheDin",
+"tag": "X"
+},
+{
+"token": "?",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "#pakistanmurdabad",
+"tag": "X"
+},
+{
+"token": "#vote",
+"tag": "X"
+},
+{
+"token": "now",
+"tag": "ADV"
+},
+{
+"token": "!",
+"tag": "X"
+},
+{
+"token": "#ModiGovt",
+"tag": "X"
+}
+],
+[
+{
+"token": "Modi",
+"tag": "PROPN"
+},
+{
+"token": "ji",
+"tag": "PART"
+},
+{
+"token": "ab",
+"tag": "ADV"
+},
+{
+"token": "56",
+"tag": "NUM"
+},
+{
+"token": "inch",
+"tag": "NOUN"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "seena",
+"tag": "NOUN"
+},
+{
+"token": "dikhane",
+"tag": "VERB"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "waqt",
+"tag": "NOUN"
+},
+{
+"token": "aa",
+"tag": "VERB"
+},
+{
+"token": "gya",
+"tag": "VERB"
+},
+{
+"token": "hai",
+"tag": "VERB"
+}
+],
+[
+{
+"token": "PM",
+"tag": "PROPN"
+},
+{
+"token": "Modi",
+"tag": "PROPN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "launch",
+"tag": "VERB"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "new",
+"tag": "ADJ"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "Strong",
+"tag": "ADJ"
+},
+{
+"token": "Condemnation",
+"tag": "NOUN"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "mobile",
+"tag": "ADJ"
+},
+{
+"token": "app",
+"tag": "NOUN"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "ease",
+"tag": "NOUN"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "doing",
+"tag": "VERB"
+},
+{
+"token": "condemnation",
+"tag": "NOUN"
+},
+{
+"token": "after",
+"tag": "ADP"
+},
+{
+"token": "repeated",
+"tag": "ADJ"
+},
+{
+"token": "attacks",
+"tag": "NOUN"
+},
+{
+"token": "by",
+"tag": "ADP"
+},
+{
+"token": "Pakistan",
+"tag": "PROPN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@brajhindu",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "@iSirArnab",
+"tag": "X"
+},
+{
+"token": "#AttackOnIndia",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "Now",
+"tag": "ADV"
+},
+{
+"token": "it's",
+"tag": "VERB"
+},
+{
+"token": "time",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "get",
+"tag": "VERB"
+},
+{
+"token": "back",
+"tag": "VERB"
+},
+{
+"token": "POK",
+"tag": "PROPN"
+},
+{
+"token": "...",
+"tag": "X"
+},
+{
+"token": "Bheegi",
+"tag": "ADJ"
+},
+{
+"token": "billi",
+"tag": "NOUN"
+},
+{
+"token": "banne",
+"tag": "VERB"
+},
+{
+"token": "ke",
+"tag": "ADP"
+},
+{
+"token": "liye",
+"tag": "ADP"
+},
+{
+"token": "ye",
+"tag": "DET"
+},
+{
+"token": "Sarkar",
+"tag": "NOUN"
+},
+{
+"token": "Nahi",
+"tag": "PART"
+},
+{
+"token": "chuni",
+"tag": "VERB"
+},
+{
+"token": "Ser",
+"tag": "X"
+}
+],
+[
+{
+"token": "Very",
+"tag": "ADV"
+},
+{
+"token": "sad",
+"tag": "ADJ"
+},
+{
+"token": "modi",
+"tag": "PROPN"
+},
+{
+"token": "ji",
+"tag": "PART"
+},
+{
+"token": "ye",
+"tag": "DET"
+},
+{
+"token": "kya",
+"tag": "PRON"
+},
+{
+"token": "horha",
+"tag": "VERB"
+},
+{
+"token": "he",
+"tag": "VERB"
+},
+{
+"token": "dedo",
+"tag": "VERB"
+},
+{
+"token": "aajadi",
+"tag": "NOUN"
+},
+{
+"token": "jnta",
+"tag": "NOUN"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "ab",
+"tag": "ADV"
+},
+{
+"token": "time",
+"tag": "NOUN"
+},
+{
+"token": "aagya",
+"tag": "VERB"
+},
+{
+"token": "he",
+"tag": "VERB"
+},
+{
+"token": "pak",
+"tag": "PROPN"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "dhul",
+"tag": "VERB"
+},
+{
+"token": "chtane",
+"tag": "VERB"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "Call",
+"tag": "VERB"
+},
+{
+"token": "me",
+"tag": "PRON"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "war",
+"tag": "ADJ"
+},
+{
+"token": "monger",
+"tag": "NOUN"
+},
+{
+"token": "...",
+"tag": "X"
+},
+{
+"token": "We",
+"tag": "PRON"
+},
+{
+"token": "got",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "nuke",
+"tag": "VERB"
+},
+{
+"token": "these",
+"tag": "DET"
+},
+{
+"token": "Pindi",
+"tag": "ADJ"
+},
+{
+"token": "generals",
+"tag": "NOUN"
+},
+{
+"token": "and",
+"tag": "CCONJ"
+},
+{
+"token": "their",
+"tag": "PRON"
+},
+{
+"token": "terrorists",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Period",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "@PMOIndia",
+"tag": "X"
+},
+{
+"token": "@rajnathsingh",
+"tag": "X"
+},
+{
+"token": "@manoharparrikar",
+"tag": "X"
+},
+{
+"token": "ab",
+"tag": "ADV"
+},
+{
+"token": "isbar",
+"tag": "ADV"
+},
+{
+"token": "koi",
+"tag": "DET"
+},
+{
+"token": "result",
+"tag": "NOUN"
+},
+{
+"token": "nhi",
+"tag": "PART"
+},
+{
+"token": "mila",
+"tag": "VERB"
+},
+{
+"token": "#uriattack",
+"tag": "X"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "dn",
+"tag": "PRON"
+},
+{
+"token": "soch",
+"tag": "VERB"
+},
+{
+"token": "lijie",
+"tag": "VERB"
+},
+{
+"token": "modiji",
+"tag": "PROPN"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "ek",
+"tag": "NUM"
+},
+{
+"token": "sprtr",
+"tag": "X"
+},
+{
+"token": "ghat",
+"tag": "VERB"
+},
+{
+"token": "gaya",
+"tag": "VERB"
+}
+],
+[
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "how",
+"tag": "PRON"
+},
+{
+"token": "many",
+"tag": "DET"
+},
+{
+"token": "times",
+"tag": "NOUN"
+},
+{
+"token": "do",
+"tag": "VERB"
+},
+{
+"token": "Pakistan",
+"tag": "PROPN"
+},
+{
+"token": "has",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "prove",
+"tag": "VERB"
+},
+{
+"token": "that",
+"tag": "PRON"
+},
+{
+"token": "these",
+"tag": "DET"
+},
+{
+"token": "incidents",
+"tag": "NOUN"
+},
+{
+"token": "are",
+"tag": "VERB"
+},
+{
+"token": "done",
+"tag": "VERB"
+},
+{
+"token": "by",
+"tag": "ADP"
+},
+{
+"token": "them",
+"tag": "PRON"
+},
+{
+"token": ".",
+"tag": "X"
+}
+],
+[
+{
+"token": "She",
+"tag": "PRON"
+},
+{
+"token": "must",
+"tag": "VERB"
+},
+{
+"token": "be",
+"tag": "VERB"
+},
+{
+"token": "waiting",
+"tag": "VERB"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "praises",
+"tag": "NOUN"
+},
+{
+"token": "and",
+"tag": "CCONJ"
+},
+{
+"token": "accolades",
+"tag": "NOUN"
+},
+{
+"token": "from",
+"tag": "ADP"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "Shri",
+"tag": "PROPN"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "Hafiz",
+"tag": "PROPN"
+},
+{
+"token": "Sayeed",
+"tag": "PROPN"
+},
+{
+"token": "ji",
+"tag": "PART"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "https://t.co/CcAbLns0yI",
+"tag": "X"
+}
+],
+[
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "der",
+"tag": "DET"
+},
+{
+"token": "is",
+"tag": "VERB"
+},
+{
+"token": "no",
+"tag": "PART"
+},
+{
+"token": "meaning",
+"tag": "NOUN"
+},
+{
+"token": "in",
+"tag": "ADP"
+},
+{
+"token": "shouting",
+"tag": "VERB"
+},
+{
+"token": "da",
+"tag": "DET"
+},
+{
+"token": "slogon",
+"tag": "NOUN"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "Mera",
+"tag": "PRON"
+},
+{
+"token": "Bharath",
+"tag": "PROPN"
+},
+{
+"token": "Mahan",
+"tag": "ADJ"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "till",
+"tag": "ADV"
+},
+{
+"token": "v",
+"tag": "PRON"
+},
+{
+"token": "avenge",
+"tag": "VERB"
+},
+{
+"token": "da",
+"tag": "DET"
+},
+{
+"token": "killings",
+"tag": "NOUN"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "our",
+"tag": "PRON"
+},
+{
+"token": "brave",
+"tag": "ADJ"
+},
+{
+"token": "soldiers",
+"tag": "NOUN"
+}
+],
+[
+{
+"token": "Somnath",
+"tag": "PROPN"
+},
+{
+"token": "Bharti",
+"tag": "PROPN"
+},
+{
+"token": "bhi",
+"tag": "PART"
+},
+{
+"token": "gya",
+"tag": "VERB"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "ab",
+"tag": "ADV"
+},
+{
+"token": "kitne",
+"tag": "PRON"
+},
+{
+"token": "bache",
+"tag": "VERB"
+},
+{
+"token": "hain",
+"tag": "VERB"
+},
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "ji",
+"tag": "PART"
+},
+{
+"token": "?",
+"tag": "X"
+},
+{
+"token": "Ab",
+"tag": "ADV"
+},
+{
+"token": "kuchh",
+"tag": "DET"
+},
+{
+"token": "aisa",
+"tag": "ADJ"
+},
+{
+"token": "karein",
+"tag": "VERB"
+},
+{
+"token": "k",
+"tag": "PRON"
+},
+{
+"token": "Kejriwal",
+"tag": "PROPN"
+},
+{
+"token": "bhi",
+"tag": "PART"
+},
+{
+"token": "andar",
+"tag": "ADV"
+},
+{
+"token": "jaye",
+"tag": "VERB"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "mastermind",
+"tag": "NOUN"
+},
+{
+"token": "bta",
+"tag": "VERB"
+},
+{
+"token": "do",
+"tag": "VERB"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@ShahmozG",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "@AskAnshul",
+"tag": "X"
+},
+{
+"token": "aid",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "ADP"
+},
+{
+"token": "Baloch",
+"tag": "ADJ"
+},
+{
+"token": "struggle",
+"tag": "NOUN"
+},
+{
+"token": "and",
+"tag": "CCONJ"
+},
+{
+"token": "off",
+"tag": "PART"
+},
+{
+"token": "Indus",
+"tag": "ADJ"
+},
+{
+"token": "water",
+"tag": "ADJ"
+},
+{
+"token": "treaty",
+"tag": "NOUN"
+},
+{
+"token": "is",
+"tag": "VERB"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "best",
+"tag": "ADJ"
+},
+{
+"token": "revenge",
+"tag": "NOUN"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "4m",
+"tag": "ADP"
+},
+{
+"token": "Pakistan",
+"tag": "PROPN"
+},
+{
+"token": "@Salamsabr",
+"tag": "X"
+},
+{
+"token": "@Mdevvra",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@Rajput_Ramesh",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Dear",
+"tag": "ADJ"
+},
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "ji",
+"tag": "PART"
+},
+{
+"token": "only",
+"tag": "ADJ"
+},
+{
+"token": "solution",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "ADP"
+},
+{
+"token": "Pakistan's",
+"tag": "PROPN"
+},
+{
+"token": "nuisance",
+"tag": "NOUN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "samajdaar",
+"tag": "NOUN"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "ishaara",
+"tag": "NOUN"
+},
+{
+"token": "hi",
+"tag": "PART"
+},
+{
+"token": "kaafi",
+"tag": "VERB"
+},
+{
+"token": "hota",
+"tag": "VERB"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": "@adgpi",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@hjsrtn",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "#uriattack",
+"tag": "X"
+},
+{
+"token": "Shri",
+"tag": "PROPN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Modi",
+"tag": "PROPN"
+},
+{
+"token": "has",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "listen",
+"tag": "VERB"
+},
+{
+"token": "his",
+"tag": "PRON"
+},
+{
+"token": "words",
+"tag": "NOUN"
+},
+{
+"token": "himself",
+"tag": "PRON"
+},
+{
+"token": "what",
+"tag": "PRON"
+},
+{
+"token": "was",
+"tag": "VERB"
+},
+{
+"token": "his",
+"tag": "PRON"
+},
+{
+"token": "comment",
+"tag": "NOUN"
+},
+{
+"token": "on",
+"tag": "ADP"
+},
+{
+"token": "pakistan",
+"tag": "ADJ"
+},
+{
+"token": "attak",
+"tag": "NOUN"
+},
+{
+"token": "before",
+"tag": "ADP"
+},
+{
+"token": "election",
+"tag": "NOUN"
+},
+{
+"token": "in",
+"tag": "ADP"
+},
+{
+"token": "aap",
+"tag": "PROPN"
+},
+{
+"token": "ki",
+"tag": "PROPN"
+},
+{
+"token": "adalat",
+"tag": "PROPN"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@SANDHUHARKIRAT",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "No",
+"tag": "PART"
+},
+{
+"token": "talk",
+"tag": "NOUN"
+},
+{
+"token": "show",
+"tag": "VERB"
+},
+{
+"token": "action",
+"tag": "NOUN"
+},
+{
+"token": "raat",
+"tag": "NOUN"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "War",
+"tag": "ADJ"
+},
+{
+"token": "planes",
+"tag": "NOUN"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "awaaz",
+"tag": "NOUN"
+},
+{
+"token": "unke",
+"tag": "PRON"
+},
+{
+"token": "Kano",
+"tag": "NOUN"
+},
+{
+"token": "mein",
+"tag": "ADP"
+},
+{
+"token": "ghoonjni",
+"tag": "VERB"
+},
+{
+"token": "cahiyea",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "https://t.co/StQgmKzyQg",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@TheDesiLord",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "@RanaAyyub",
+"tag": "X"
+},
+{
+"token": "bibi",
+"tag": "NOUN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "panga",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "tumhare",
+"tag": "PRON"
+},
+{
+"token": "Walid",
+"tag": "NOUN"
+},
+{
+"token": "ne",
+"tag": "ADP"
+},
+{
+"token": "le",
+"tag": "VERB"
+},
+{
+"token": "liya",
+"tag": "VERB"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "ab",
+"tag": "ADV"
+},
+{
+"token": "dekhna",
+"tag": "VERB"
+},
+{
+"token": "anjaam-e-Pakistan",
+"tag": "PROPN"
+},
+{
+"token": "kya",
+"tag": "PRON"
+},
+{
+"token": "hoga",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+}
+],
+[
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "All",
+"tag": "DET"
+},
+{
+"token": "Pakistanii",
+"tag": "ADJ"
+},
+{
+"token": "actor/actress/bureaucrats/supporters",
+"tag": "NOUN"
+},
+{
+"token": "Leave",
+"tag": "VERB"
+},
+{
+"token": "India",
+"tag": "PROPN"
+},
+{
+"token": "asap",
+"tag": "X"
+},
+{
+"token": "..",
+"tag": "X"
+},
+{
+"token": "Porkistan",
+"tag": "PROPN"
+},
+{
+"token": "Terrorist",
+"tag": "ADJ"
+},
+{
+"token": "Country",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Fawad",
+"tag": "PROPN"
+},
+{
+"token": "Khan",
+"tag": "PROPN"
+},
+{
+"token": "aana",
+"tag": "VERB"
+},
+{
+"token": "na",
+"tag": "PART"
+},
+{
+"token": "is",
+"tag": "DET"
+},
+{
+"token": "desh",
+"tag": "NOUN"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@boneexpert",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "@RealHistoryPic",
+"tag": "X"
+},
+{
+"token": "Isme",
+"tag": "DET"
+},
+{
+"token": "bhi",
+"tag": "PART"
+},
+{
+"token": "AAPIYO",
+"tag": "NOUN"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "DEAL",
+"tag": "NOUN"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "dikh",
+"tag": "VERB"
+},
+{
+"token": "gayee",
+"tag": "VERB"
+},
+{
+"token": "?",
+"tag": "X"
+},
+{
+"token": "Obsessed",
+"tag": "VERB"
+},
+{
+"token": "with",
+"tag": "ADP"
+},
+{
+"token": "DEALS",
+"tag": "NOUN"
+},
+{
+"token": "?",
+"tag": "X"
+},
+{
+"token": "It's",
+"tag": "VERB"
+},
+{
+"token": "called",
+"tag": "VERB"
+},
+{
+"token": "Agreement",
+"tag": "NOUN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "FOOL",
+"tag": "ADJ"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "Kya",
+"tag": "PRON"
+},
+{
+"token": "Sir",
+"tag": "NOUN"
+},
+{
+"token": "sara",
+"tag": "DET"
+},
+{
+"token": "desh",
+"tag": "NOUN"
+},
+{
+"token": "wait",
+"tag": "VERB"
+},
+{
+"token": "kar",
+"tag": "VERB"
+},
+{
+"token": "raha",
+"tag": "VERB"
+},
+{
+"token": "tha",
+"tag": "VERB"
+},
+{
+"token": "2",
+"tag": "NUM"
+},
+{
+"token": "din",
+"tag": "NOUN"
+},
+{
+"token": "se",
+"tag": "ADP"
+},
+{
+"token": "ki",
+"tag": "PRON"
+},
+{
+"token": "aap",
+"tag": "PRON"
+},
+{
+"token": "#URIAttack",
+"tag": "X"
+},
+{
+"token": "pe",
+"tag": "ADP"
+},
+{
+"token": "kya",
+"tag": "PRON"
+},
+{
+"token": "decision",
+"tag": "VERB"
+},
+{
+"token": "loge",
+"tag": "VERB"
+},
+{
+"token": "but",
+"tag": "CCONJ"
+},
+{
+"token": "aapne",
+"tag": "PRON"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "topic",
+"tag": "NOUN"
+},
+{
+"token": "ignore",
+"tag": "VERB"
+},
+{
+"token": "hi",
+"tag": "PART"
+},
+{
+"token": "kar",
+"tag": "VERB"
+},
+{
+"token": "diya",
+"tag": "VERB"
+}
+],
+[
+{
+"token": "Maharashtra",
+"tag": "PROPN"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Mortals",
+"tag": "ADJ"
+},
+{
+"token": "remains",
+"tag": "NOUN"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "Lance",
+"tag": "PROPN"
+},
+{
+"token": "Naik",
+"tag": "PROPN"
+},
+{
+"token": "G",
+"tag": "PROPN"
+},
+{
+"token": "Shankar",
+"tag": "PROPN"
+},
+{
+"token": "who",
+"tag": "PRON"
+},
+{
+"token": "lost",
+"tag": "VERB"
+},
+{
+"token": "his",
+"tag": "PRON"
+},
+{
+"token": "life",
+"tag": "NOUN"
+},
+{
+"token": "in",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "brought",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "ADP"
+},
+{
+"token": "Satara",
+"tag": "PROPN"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "last",
+"tag": "ADJ"
+},
+{
+"token": "rit",
+"tag": "NOUN"
+},
+{
+"token": "https://t.co/mtVPa50Uoi",
+"tag": "X"
+}
+],
+[
+{
+"token": "Wt",
+"tag": "PRON"
+},
+{
+"token": "@humasqureshi",
+"tag": "X"
+},
+{
+"token": "fawadkhan",
+"tag": "PROPN"
+},
+{
+"token": "adnan",
+"tag": "PROPN"
+},
+{
+"token": "sami",
+"tag": "PROPN"
+},
+{
+"token": "&",
+"tag": "CCONJ"
+},
+{
+"token": "other",
+"tag": "ADJ"
+},
+{
+"token": "pakis",
+"tag": "NOUN"
+},
+{
+"token": "earning",
+"tag": "VERB"
+},
+{
+"token": "der",
+"tag": "PRON"
+},
+{
+"token": "bread",
+"tag": "NOUN"
+},
+{
+"token": "here",
+"tag": "ADV"
+},
+{
+"token": "hv",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "say",
+"tag": "VERB"
+},
+{
+"token": "abt",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "??",
+"tag": "X"
+}
+],
+[
+{
+"token": "@parthusoni",
+"tag": "X"
+},
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "Farzi",
+"tag": "ADJ"
+},
+{
+"token": "Bhashan",
+"tag": "NOUN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "Dramebaaz",
+"tag": "ADJ"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "U",
+"tag": "PRON"
+},
+{
+"token": "ghus",
+"tag": "VERB"
+},
+{
+"token": "k",
+"tag": "VERB"
+},
+{
+"token": "marte",
+"tag": "VERB"
+},
+{
+"token": "hain",
+"tag": "VERB"
+},
+{
+"token": "&",
+"tag": "CCONJ"
+},
+{
+"token": "hum",
+"tag": "PRON"
+},
+{
+"token": "Bhashan",
+"tag": "NOUN"
+},
+{
+"token": "dete",
+"tag": "VERB"
+},
+{
+"token": "hai",
+"tag": "VERB"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@jatingandhi",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Time",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "raise",
+"tag": "VERB"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "#swayamsewak",
+"tag": "X"
+},
+{
+"token": "regiment",
+"tag": "NOUN"
+},
+{
+"token": "in",
+"tag": "ADP"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "Indian",
+"tag": "ADJ"
+},
+{
+"token": "Army",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "protect",
+"tag": "VERB"
+},
+{
+"token": "us",
+"tag": "PRON"
+},
+{
+"token": "outside",
+"tag": "ADV"
+},
+{
+"token": "Twitter",
+"tag": "PROPN"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "SIR",
+"tag": "NOUN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "Aap",
+"tag": "PRON"
+},
+{
+"token": "kisi",
+"tag": "PRON"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "mat",
+"tag": "PART"
+},
+{
+"token": "sunna",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Bas",
+"tag": "PART"
+},
+{
+"token": "redio",
+"tag": "NOUN"
+},
+{
+"token": "pe",
+"tag": "ADP"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "mann",
+"tag": "PROPN"
+},
+{
+"token": "ki",
+"tag": "PROPN"
+},
+{
+"token": "baat",
+"tag": "PROPN"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "karte",
+"tag": "VERB"
+},
+{
+"token": "rehena",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "#___",
+"tag": "X"
+}
+],
+[
+{
+"token": "MNS",
+"tag": "PROPN"
+},
+{
+"token": "Walo",
+"tag": "PART"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "Chinese",
+"tag": "ADJ"
+},
+{
+"token": "chije",
+"tag": "NOUN"
+},
+{
+"token": "lena",
+"tag": "VERB"
+},
+{
+"token": "bandh",
+"tag": "VERB"
+},
+{
+"token": "karo-",
+"tag": "VERB"
+},
+{
+"token": "galat",
+"tag": "ADJ"
+},
+{
+"token": "nishana",
+"tag": "NOUN"
+},
+{
+"token": "saadh",
+"tag": "VERB"
+},
+{
+"token": "rahe",
+"tag": "VERB"
+},
+{
+"token": "ho",
+"tag": "VERB"
+},
+{
+"token": "!",
+"tag": "X"
+},
+{
+"token": "#MNS",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "https://t.co/n7hojSEXMo",
+"tag": "X"
+}
+],
+[
+{
+"token": "NSEL",
+"tag": "PROPN"
+},
+{
+"token": "-",
+"tag": "X"
+},
+{
+"token": "Jignesh",
+"tag": "PROPN"
+},
+{
+"token": "shah's",
+"tag": "PROPN"
+},
+{
+"token": "hawala",
+"tag": "ADJ"
+},
+{
+"token": "links",
+"tag": "NOUN"
+},
+{
+"token": "covered",
+"tag": "VERB"
+},
+{
+"token": "up",
+"tag": "PART"
+},
+{
+"token": "by",
+"tag": "ADP"
+},
+{
+"token": "@dir_ed",
+"tag": "X"
+},
+{
+"token": "https://t.co/15B6BRb3oA",
+"tag": "X"
+},
+{
+"token": "@adhia03",
+"tag": "X"
+},
+{
+"token": "@FinMinIndia",
+"tag": "X"
+},
+{
+"token": "hawala",
+"tag": "NOUN"
+},
+{
+"token": "=",
+"tag": "X"
+},
+{
+"token": "terror",
+"tag": "ADJ"
+},
+{
+"token": "funding",
+"tag": "NOUN"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@manishkinhikar",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "@ndtv",
+"tag": "X"
+},
+{
+"token": "why",
+"tag": "PRON"
+},
+{
+"token": "did",
+"tag": "VERB"
+},
+{
+"token": "you",
+"tag": "PRON"
+},
+{
+"token": "go",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "seek",
+"tag": "VERB"
+},
+{
+"token": "Pak",
+"tag": "ADJ"
+},
+{
+"token": "opinion",
+"tag": "NOUN"
+},
+{
+"token": "?",
+"tag": "X"
+},
+{
+"token": "do",
+"tag": "VERB"
+},
+{
+"token": "you",
+"tag": "PRON"
+},
+{
+"token": "have",
+"tag": "VERB"
+},
+{
+"token": "any",
+"tag": "DET"
+},
+{
+"token": "doubts",
+"tag": "NOUN"
+},
+{
+"token": "over",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "or",
+"tag": "CCONJ"
+},
+{
+"token": "hold",
+"tag": "VERB"
+},
+{
+"token": "Barkha's",
+"tag": "PROPN"
+},
+{
+"token": "view",
+"tag": "NOUN"
+},
+{
+"token": "that",
+"tag": "PRON"
+},
+{
+"token": "its",
+"tag": "VERB"
+},
+{
+"token": "India's",
+"tag": "PROPN"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@buzzindelhi",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Today's",
+"tag": "ADV"
+},
+{
+"token": "response",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "reminds",
+"tag": "VERB"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "this",
+"tag": "DET"
+},
+{
+"token": "-->",
+"tag": "X"
+},
+{
+"token": "\"",
+"tag": "X"
+},
+{
+"token": "Saugandh",
+"tag": "NOUN"
+},
+{
+"token": "Mujhe",
+"tag": "PRON"
+},
+{
+"token": "Is",
+"tag": "DET"
+},
+{
+"token": "Mitti",
+"tag": "NOUN"
+},
+{
+"token": "Ki",
+"tag": "ADP"
+},
+{
+"token": "Mai",
+"tag": "PRON"
+},
+{
+"token": "Desh",
+"tag": "NOUN"
+},
+{
+"token": "Nahi",
+"tag": "PART"
+},
+{
+"token": "Mitne",
+"tag": "VERB"
+},
+{
+"token": "Dunga",
+"tag": "VERB"
+},
+{
+"token": "\"",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@glimmer318",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "@ANI_news",
+"tag": "X"
+},
+{
+"token": "this",
+"tag": "DET"
+},
+{
+"token": "is",
+"tag": "VERB"
+},
+{
+"token": "best",
+"tag": "ADJ"
+},
+{
+"token": "thing",
+"tag": "NOUN"
+},
+{
+"token": "I've",
+"tag": "VERB"
+},
+{
+"token": "heard",
+"tag": "VERB"
+},
+{
+"token": "since",
+"tag": "ADV"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "Bharat",
+"tag": "PROPN"
+},
+{
+"token": "Mata",
+"tag": "NOUN"
+},
+{
+"token": "Ki",
+"tag": "ADP"
+},
+{
+"token": "Jai",
+"tag": "VERB"
+},
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "@SushmaSwaraj",
+"tag": "X"
+},
+{
+"token": "@Dev_Fadnavis",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@swetapadma07",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Odia",
+"tag": "ADJ"
+},
+{
+"token": "#BSF",
+"tag": "X"
+},
+{
+"token": "jawan",
+"tag": "NOUN"
+},
+{
+"token": "Pitabas",
+"tag": "PROPN"
+},
+{
+"token": "Majhi",
+"tag": "PROPN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "who",
+"tag": "PRON"
+},
+{
+"token": "was",
+"tag": "VERB"
+},
+{
+"token": "injured",
+"tag": "VERB"
+},
+{
+"token": "during",
+"tag": "ADP"
+},
+{
+"token": "combing",
+"tag": "ADJ"
+},
+{
+"token": "operation",
+"tag": "NOUN"
+},
+{
+"token": "after",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": ";",
+"tag": "X"
+},
+{
+"token": "martyred",
+"tag": "VERB"
+},
+{
+"token": "at",
+"tag": "ADP"
+},
+{
+"token": "hospital",
+"tag": "NOUN"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@roy5ankar",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "@iAawara",
+"tag": "X"
+},
+{
+"token": "war",
+"tag": "NOUN"
+},
+{
+"token": "is",
+"tag": "VERB"
+},
+{
+"token": "not",
+"tag": "PART"
+},
+{
+"token": "an",
+"tag": "DET"
+},
+{
+"token": "option",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "But",
+"tag": "CCONJ"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "least",
+"tag": "ADJ"
+},
+{
+"token": "Modi",
+"tag": "PROPN"
+},
+{
+"token": "can",
+"tag": "VERB"
+},
+{
+"token": "do",
+"tag": "VERB"
+},
+{
+"token": "is",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "fire",
+"tag": "PART"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "people",
+"tag": "NOUN"
+},
+{
+"token": "whose",
+"tag": "PRON"
+},
+{
+"token": "incompetence",
+"tag": "NOUN"
+},
+{
+"token": "led",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#SackP",
+"tag": "X"
+}
+],
+[
+{
+"token": "Mr.",
+"tag": "PROPN"
+},
+{
+"token": "PM",
+"tag": "PROPN"
+},
+{
+"token": "Narender",
+"tag": "PROPN"
+},
+{
+"token": "modi",
+"tag": "PROPN"
+},
+{
+"token": "ji",
+"tag": "PART"
+},
+{
+"token": "now",
+"tag": "ADV"
+},
+{
+"token": "u",
+"tag": "PRON"
+},
+{
+"token": "r",
+"tag": "VERB"
+},
+{
+"token": "in",
+"tag": "ADP"
+},
+{
+"token": "centre",
+"tag": "NOUN"
+},
+{
+"token": "&",
+"tag": "CCONJ"
+},
+{
+"token": "that",
+"tag": "DET"
+},
+{
+"token": "too",
+"tag": "PART"
+},
+{
+"token": "with",
+"tag": "ADP"
+},
+{
+"token": "majority",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Lagta",
+"tag": "VERB"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": "PM",
+"tag": "PROPN"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "kursi",
+"tag": "NOUN"
+},
+{
+"token": "me",
+"tag": "ADP"
+},
+{
+"token": "hi",
+"tag": "PART"
+},
+{
+"token": "locha",
+"tag": "VERB"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+}
+],
+[
+{
+"token": "Abhi",
+"tag": "ADV"
+},
+{
+"token": "bhi",
+"tag": "PART"
+},
+{
+"token": "hm",
+"tag": "PRON"
+},
+{
+"token": "ye",
+"tag": "DET"
+},
+{
+"token": "hi",
+"tag": "PART"
+},
+{
+"token": "khojj",
+"tag": "VERB"
+},
+{
+"token": "rhe",
+"tag": "VERB"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": "ki",
+"tag": "PRON"
+},
+{
+"token": "terrorist",
+"tag": "NOUN"
+},
+{
+"token": "kha",
+"tag": "PRON"
+},
+{
+"token": "se",
+"tag": "ADP"
+},
+{
+"token": "aye",
+"tag": "VERB"
+},
+{
+"token": "the",
+"tag": "VERB"
+},
+{
+"token": "!!",
+"tag": "X"
+},
+{
+"token": "RIP",
+"tag": "PROPN"
+}
+],
+[
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "jawab",
+"tag": "NOUN"
+},
+{
+"token": "#KadiNinda",
+"tag": "X"
+},
+{
+"token": "nahi",
+"tag": "PART"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": "!",
+"tag": "X"
+},
+{
+"token": "Aise",
+"tag": "ADV"
+},
+{
+"token": "maaro",
+"tag": "VERB"
+},
+{
+"token": "ke",
+"tag": "PRON"
+},
+{
+"token": "aage",
+"tag": "ADV"
+},
+{
+"token": "kabhi",
+"tag": "ADV"
+},
+{
+"token": "uth",
+"tag": "VERB"
+},
+{
+"token": "na",
+"tag": "PART"
+},
+{
+"token": "paaye",
+"tag": "VERB"
+},
+{
+"token": "!",
+"tag": "X"
+},
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "@BJP4India",
+"tag": "X"
+},
+{
+"token": "u",
+"tag": "PRON"
+},
+{
+"token": "were",
+"tag": "VERB"
+},
+{
+"token": "voted",
+"tag": "VERB"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "ur",
+"tag": "PRON"
+},
+{
+"token": "patriotism",
+"tag": "NOUN"
+},
+{
+"token": "!",
+"tag": "X"
+}
+],
+[
+{
+"token": "respected",
+"tag": "ADJ"
+},
+{
+"token": "@SrBachchan",
+"tag": "PROPN"
+},
+{
+"token": "!",
+"tag": "X"
+},
+{
+"token": "sir",
+"tag": "NOUN"
+},
+{
+"token": "i",
+"tag": "PRON"
+},
+{
+"token": "m",
+"tag": "VERB"
+},
+{
+"token": "ur",
+"tag": "PRON"
+},
+{
+"token": "fan",
+"tag": "NOUN"
+},
+{
+"token": "...",
+"tag": "X"
+},
+{
+"token": "sir",
+"tag": "NOUN"
+},
+{
+"token": "i",
+"tag": "PRON"
+},
+{
+"token": "expect",
+"tag": "VERB"
+},
+{
+"token": "atleast",
+"tag": "ADV"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "tweet",
+"tag": "NOUN"
+},
+{
+"token": "on",
+"tag": "ADP"
+},
+{
+"token": "#uriattack",
+"tag": "X"
+},
+{
+"token": "..",
+"tag": "X"
+},
+{
+"token": "it",
+"tag": "PRON"
+},
+{
+"token": "mi8",
+"tag": "VERB"
+},
+{
+"token": "b",
+"tag": "VERB"
+},
+{
+"token": "without",
+"tag": "ADP"
+},
+{
+"token": "mentioning",
+"tag": "VERB"
+},
+{
+"token": "naPAK",
+"tag": "ADJ"
+},
+{
+"token": "...",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@IndianExpress",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Here's",
+"tag": "VERB"
+},
+{
+"token": "what",
+"tag": "PRON"
+},
+{
+"token": "Pakistani",
+"tag": "ADJ"
+},
+{
+"token": "media",
+"tag": "NOUN"
+},
+{
+"token": "had",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "say",
+"tag": "VERB"
+},
+{
+"token": "about",
+"tag": "ADP"
+},
+{
+"token": "Sunday's",
+"tag": "PROPN"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "https://t.co/1eQxLwMyyz",
+"tag": "X"
+},
+{
+"token": "https://t.co/MB0O6zq55Q",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@sanamspti",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "sahi",
+"tag": "ADV"
+},
+{
+"token": "kaha",
+"tag": "VERB"
+},
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@waheedgul",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Very",
+"tag": "ADV"
+},
+{
+"token": "Bad",
+"tag": "ADJ"
+},
+{
+"token": "shame",
+"tag": "VERB"
+},
+{
+"token": "on",
+"tag": "ADP"
+},
+{
+"token": "RAW",
+"tag": "PROPN"
+},
+{
+"token": "killing",
+"tag": "VERB"
+},
+{
+"token": "own",
+"tag": "ADJ"
+},
+{
+"token": "soldiers",
+"tag": "NOUN"
+}
+],
+[
+{
+"token": "Is",
+"tag": "VERB"
+},
+{
+"token": "still",
+"tag": "ADV"
+},
+{
+"token": "somebody",
+"tag": "PRON"
+},
+{
+"token": "going",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "ask",
+"tag": "VERB"
+},
+{
+"token": "me",
+"tag": "PRON"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "be",
+"tag": "VERB"
+},
+{
+"token": "respectful",
+"tag": "ADJ"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "that",
+"tag": "DET"
+},
+{
+"token": "country",
+"tag": "NOUN"
+},
+{
+"token": "and",
+"tag": "CCONJ"
+},
+{
+"token": "that",
+"tag": "PRON"
+},
+{
+"token": "we",
+"tag": "PRON"
+},
+{
+"token": "should",
+"tag": "VERB"
+},
+{
+"token": "try",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "make",
+"tag": "VERB"
+},
+{
+"token": "peace",
+"tag": "NOUN"
+},
+{
+"token": "with",
+"tag": "ADP"
+},
+{
+"token": "them",
+"tag": "PRON"
+},
+{
+"token": "?",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "Sukar",
+"tag": "VERB"
+},
+{
+"token": "he",
+"tag": "VERB"
+},
+{
+"token": "India",
+"tag": "PROPN"
+},
+{
+"token": "me",
+"tag": "ADP"
+},
+{
+"token": "bacha",
+"tag": "NOUN"
+},
+{
+"token": "paida",
+"tag": "VERB"
+},
+{
+"token": "ho",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PRON"
+},
+{
+"token": "Pakistan",
+"tag": "PROPN"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "name",
+"tag": "NOUN"
+},
+{
+"token": "nahi",
+"tag": "PART"
+},
+{
+"token": "lagate",
+"tag": "VERB"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@inder786man",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "modi",
+"tag": "PROPN"
+},
+{
+"token": "ji",
+"tag": "PART"
+},
+{
+"token": "ab",
+"tag": "ADV"
+},
+{
+"token": "aap",
+"tag": "PRON"
+},
+{
+"token": "mauni",
+"tag": "ADJ"
+},
+{
+"token": "baba",
+"tag": "NOUN"
+},
+{
+"token": "(",
+"tag": "X"
+},
+{
+"token": "manmohan",
+"tag": "PROPN"
+},
+{
+"token": "sing",
+"tag": "PROPN"
+},
+{
+"token": ")",
+"tag": "X"
+},
+{
+"token": "q",
+"tag": "PRON"
+},
+{
+"token": "ban",
+"tag": "VERB"
+},
+{
+"token": "gye",
+"tag": "VERB"
+},
+{
+"token": "aap",
+"tag": "PRON"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "chest",
+"tag": "NOUN"
+},
+{
+"token": "56inch",
+"tag": "X"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": "pakistan",
+"tag": "PROPN"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "pakistan",
+"tag": "PROPN"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "bhasha",
+"tag": "NOUN"
+}
+],
+[
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "..",
+"tag": "X"
+},
+{
+"token": "my",
+"tag": "PRON"
+},
+{
+"token": "people",
+"tag": "NOUN"
+},
+{
+"token": "are",
+"tag": "VERB"
+},
+{
+"token": "murdered",
+"tag": "VERB"
+},
+{
+"token": "by",
+"tag": "ADP"
+},
+{
+"token": "these",
+"tag": "DET"
+},
+{
+"token": "Pakistani",
+"tag": "ADJ"
+},
+{
+"token": "murders",
+"tag": "NOUN"
+},
+{
+"token": "ohh",
+"tag": "PART"
+},
+{
+"token": "God",
+"tag": "NOUN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "Allah",
+"tag": "NOUN"
+},
+{
+"token": "or",
+"tag": "CCONJ"
+},
+{
+"token": "jejus",
+"tag": "NOUN"
+},
+{
+"token": "y",
+"tag": "PRON"
+},
+{
+"token": "u",
+"tag": "PRON"
+},
+{
+"token": "r",
+"tag": "VERB"
+},
+{
+"token": "watching",
+"tag": "VERB"
+},
+{
+"token": "this",
+"tag": "DET"
+},
+{
+"token": "...",
+"tag": "X"
+},
+{
+"token": "I",
+"tag": "PRON"
+},
+{
+"token": "think",
+"tag": "VERB"
+},
+{
+"token": "u",
+"tag": "PRON"
+},
+{
+"token": "don't",
+"tag": "VERB"
+},
+{
+"token": "exit",
+"tag": "VERB"
+},
+{
+"token": "anymore",
+"tag": "ADV"
+}
+],
+[
+{
+"token": "Mulla",
+"tag": "ADJ"
+},
+{
+"token": "Modi",
+"tag": "PROPN"
+},
+{
+"token": "kutte",
+"tag": "NOUN"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "tarah",
+"tag": "ADP"
+},
+{
+"token": "Twitter",
+"tag": "PROPN"
+},
+{
+"token": "pe",
+"tag": "ADP"
+},
+{
+"token": "hi",
+"tag": "PART"
+},
+{
+"token": "bhokta",
+"tag": "VERB"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@AmitShahArmy",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Jo",
+"tag": "PRON"
+},
+{
+"token": "log",
+"tag": "NOUN"
+},
+{
+"token": "pellet",
+"tag": "ADJ"
+},
+{
+"token": "gun",
+"tag": "NOUN"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "ban",
+"tag": "VERB"
+},
+{
+"token": "karne",
+"tag": "VERB"
+},
+{
+"token": "ke",
+"tag": "ADP"
+},
+{
+"token": "liye",
+"tag": "ADP"
+},
+{
+"token": "mare",
+"tag": "VERB"
+},
+{
+"token": "jaa",
+"tag": "VERB"
+},
+{
+"token": "rahe",
+"tag": "VERB"
+},
+{
+"token": "te",
+"tag": "VERB"
+},
+{
+"token": "aaj",
+"tag": "ADV"
+},
+{
+"token": "sarkar",
+"tag": "NOUN"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "terrorist",
+"tag": "ADJ"
+},
+{
+"token": "attack",
+"tag": "NOUN"
+},
+{
+"token": "par",
+"tag": "ADP"
+},
+{
+"token": "lecture",
+"tag": "NOUN"
+},
+{
+"token": "de",
+"tag": "VERB"
+},
+{
+"token": "rahe",
+"tag": "VERB"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": "..",
+"tag": "X"
+},
+{
+"token": "#UriAtta",
+"tag": "X"
+}
+],
+[
+{
+"token": "@AnupamPkher",
+"tag": "X"
+},
+{
+"token": "@Narendragupt",
+"tag": "X"
+},
+{
+"token": "sir",
+"tag": "NOUN"
+},
+{
+"token": "now",
+"tag": "ADV"
+},
+{
+"token": "no",
+"tag": "PART"
+},
+{
+"token": "Sorry",
+"tag": "ADJ"
+},
+{
+"token": "nthg",
+"tag": "PART"
+},
+{
+"token": "goli",
+"tag": "NOUN"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "jaavab",
+"tag": "NOUN"
+},
+{
+"token": "goli",
+"tag": "NOUN"
+},
+{
+"token": "se",
+"tag": "ADP"
+},
+{
+"token": "gush",
+"tag": "VERB"
+},
+{
+"token": "ke",
+"tag": "VERB"
+},
+{
+"token": "maaro",
+"tag": "VERB"
+},
+{
+"token": "saalo",
+"tag": "NOUN"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "dardnak",
+"tag": "ADJ"
+},
+{
+"token": "maut",
+"tag": "NOUN"
+},
+{
+"token": "deni",
+"tag": "VERB"
+},
+{
+"token": "chayie",
+"tag": "VERB"
+}
+],
+[
+{
+"token": "@lav_darshu",
+"tag": "X"
+},
+{
+"token": "to",
+"tag": "CCONJ"
+},
+{
+"token": "tere",
+"tag": "PRON"
+},
+{
+"token": "ye",
+"tag": "DET"
+},
+{
+"token": "paki",
+"tag": "ADJ"
+},
+{
+"token": "Artists",
+"tag": "NOUN"
+},
+{
+"token": "ne",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "condemn",
+"tag": "VERB"
+},
+{
+"token": "kiya",
+"tag": "VERB"
+},
+{
+"token": "?",
+"tag": "X"
+},
+{
+"token": "Paris",
+"tag": "PROPN"
+},
+{
+"token": "ke",
+"tag": "ADP"
+},
+{
+"token": "waqt",
+"tag": "ADP"
+},
+{
+"token": "ye",
+"tag": "DET"
+},
+{
+"token": "kamine",
+"tag": "ADJ"
+},
+{
+"token": "bahot",
+"tag": "ADV"
+},
+{
+"token": "uchhal",
+"tag": "VERB"
+},
+{
+"token": "rahe",
+"tag": "VERB"
+},
+{
+"token": "the",
+"tag": "VERB"
+}
+],
+[
+{
+"token": "The",
+"tag": "DET"
+},
+{
+"token": "terrorists",
+"tag": "NOUN"
+},
+{
+"token": "(",
+"tag": "X"
+},
+{
+"token": "Jaish-e-Mohammed",
+"tag": "PROPN"
+},
+{
+"token": ")",
+"tag": "X"
+},
+{
+"token": "set",
+"tag": "VERB"
+},
+{
+"token": "fire",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "ADP"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "camps",
+"tag": "NOUN"
+},
+{
+"token": "in",
+"tag": "ADP"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "very",
+"tag": "ADV"
+},
+{
+"token": "early",
+"tag": "ADV"
+},
+{
+"token": "morning",
+"tag": "NOUN"
+},
+{
+"token": "when",
+"tag": "ADV"
+},
+{
+"token": "most",
+"tag": "ADJ"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "soldiers",
+"tag": "NOUN"
+},
+{
+"token": "were",
+"tag": "VERB"
+},
+{
+"token": "sleeping",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "India",
+"tag": "PROPN"
+},
+{
+"token": "shld",
+"tag": "VERB"
+},
+{
+"token": "make",
+"tag": "VERB"
+},
+{
+"token": "use",
+"tag": "VERB"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "its",
+"tag": "VERB"
+},
+{
+"token": "new",
+"tag": "ADJ"
+},
+{
+"token": "relationship",
+"tag": "NOUN"
+},
+{
+"token": "with",
+"tag": "ADP"
+},
+{
+"token": "Saudi",
+"tag": "PROPN"
+},
+{
+"token": "Arabia",
+"tag": "PROPN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "block",
+"tag": "VERB"
+},
+{
+"token": "funds",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "ADP"
+},
+{
+"token": "Pak",
+"tag": "PROPN"
+},
+{
+"token": "-",
+"tag": "X"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "only",
+"tag": "ADJ"
+},
+{
+"token": "way",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "stop",
+"tag": "VERB"
+},
+{
+"token": "mischief",
+"tag": "ADJ"
+},
+{
+"token": "mongering",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "Sir",
+"tag": "NOUN"
+},
+{
+"token": "PM",
+"tag": "PROPN"
+},
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "sir",
+"tag": "NOUN"
+},
+{
+"token": "do",
+"tag": "VERB"
+},
+{
+"token": "not",
+"tag": "PART"
+},
+{
+"token": "tweet",
+"tag": "VERB"
+},
+{
+"token": "something",
+"tag": "PRON"
+},
+{
+"token": "like",
+"tag": "ADP"
+},
+{
+"token": "we",
+"tag": "PRON"
+},
+{
+"token": "condemn",
+"tag": "VERB"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "It's",
+"tag": "VERB"
+},
+{
+"token": "time",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "take",
+"tag": "VERB"
+},
+{
+"token": "action",
+"tag": "NOUN"
+},
+{
+"token": "right",
+"tag": "ADV"
+},
+{
+"token": "now",
+"tag": "ADV"
+},
+{
+"token": "Sir",
+"tag": "NOUN"
+},
+{
+"token": "!",
+"tag": "X"
+}
+],
+[
+{
+"token": "@matifsyed",
+"tag": "X"
+},
+{
+"token": "..",
+"tag": "X"
+},
+{
+"token": "sudhar",
+"tag": "VERB"
+},
+{
+"token": "jao",
+"tag": "VERB"
+},
+{
+"token": "abhi",
+"tag": "ADV"
+},
+{
+"token": "bhi",
+"tag": "PART"
+},
+{
+"token": "waqt",
+"tag": "NOUN"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Desh",
+"tag": "NOUN"
+},
+{
+"token": "sudharo",
+"tag": "VERB"
+},
+{
+"token": "apana",
+"tag": "PRON"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "avenged",
+"tag": "VERB"
+},
+{
+"token": "#IndiaStrikesBack",
+"tag": "X"
+},
+{
+"token": ".",
+"tag": "X"
+}
+],
+[
+{
+"token": "@PMOIndia",
+"tag": "X"
+},
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "kch",
+"tag": "PRON"
+},
+{
+"token": "kariye",
+"tag": "VERB"
+},
+{
+"token": "PM",
+"tag": "PROPN"
+},
+{
+"token": "sahab",
+"tag": "PROPN"
+},
+{
+"token": "aaj",
+"tag": "ADV"
+},
+{
+"token": "k",
+"tag": "ADP"
+},
+{
+"token": "attacks",
+"tag": "NOUN"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "kab",
+"tag": "PRON"
+},
+{
+"token": "tak",
+"tag": "ADV"
+},
+{
+"token": "sirf",
+"tag": "ADV"
+},
+{
+"token": "cricket",
+"tag": "NOUN"
+},
+{
+"token": "khelna",
+"tag": "VERB"
+},
+{
+"token": "band",
+"tag": "VERB"
+},
+{
+"token": "hoga",
+"tag": "VERB"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "ab",
+"tag": "ADV"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "unhe",
+"tag": "PRON"
+},
+{
+"token": "ans",
+"tag": "NOUN"
+},
+{
+"token": "do",
+"tag": "VERB"
+},
+{
+"token": "attack",
+"tag": "NOUN"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "Thanks",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "ADP"
+},
+{
+"token": "MNS",
+"tag": "PROPN"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "there",
+"tag": "PRON"
+},
+{
+"token": "great",
+"tag": "ADJ"
+},
+{
+"token": "work",
+"tag": "NOUN"
+},
+{
+"token": "done",
+"tag": "VERB"
+},
+{
+"token": "today",
+"tag": "ADV"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Throw",
+"tag": "VERB"
+},
+{
+"token": "them",
+"tag": "PRON"
+},
+{
+"token": "out",
+"tag": "PART"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "JAI",
+"tag": "VERB"
+},
+{
+"token": "Maratha",
+"tag": "PROPN"
+},
+{
+"token": "Jai",
+"tag": "VERB"
+},
+{
+"token": "Bharat",
+"tag": "PROPN"
+}
+],
+[
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "tau",
+"tag": "NOUN"
+},
+{
+"token": "fauji",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "mar",
+"tag": "VERB"
+},
+{
+"token": "gaye",
+"tag": "VERB"
+},
+{
+"token": "aapki",
+"tag": "PRON"
+},
+{
+"token": "army",
+"tag": "NOUN"
+},
+{
+"token": "aur",
+"tag": "CCONJ"
+},
+{
+"token": "@rajnathsingh",
+"tag": "X"
+},
+{
+"token": "b",
+"tag": "PART"
+},
+{
+"token": "koi",
+"tag": "ADJ"
+},
+{
+"token": "action",
+"tag": "NOUN"
+},
+{
+"token": "lenge",
+"tag": "VERB"
+},
+{
+"token": "ya",
+"tag": "CCONJ"
+},
+{
+"token": "sirf",
+"tag": "ADV"
+},
+{
+"token": "statement",
+"tag": "NOUN"
+},
+{
+"token": "se",
+"tag": "ADP"
+},
+{
+"token": "kaam",
+"tag": "VERB"
+},
+{
+"token": "chalana",
+"tag": "VERB"
+},
+{
+"token": "padega",
+"tag": "VERB"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Defence",
+"tag": "PROPN"
+},
+{
+"token": "Minister",
+"tag": "PROPN"
+},
+{
+"token": "Parrikar",
+"tag": "PROPN"
+},
+{
+"token": "cuts",
+"tag": "VERB"
+},
+{
+"token": "short",
+"tag": "ADV"
+},
+{
+"token": "Goa",
+"tag": "PROPN"
+},
+{
+"token": "visit",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "rush",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "ADP"
+},
+{
+"token": "New",
+"tag": "PROPN"
+},
+{
+"token": "Delhi",
+"tag": "PROPN"
+},
+{
+"token": "https://t.co/69kT2Nuiap",
+"tag": "X"
+},
+{
+"token": "by",
+"tag": "ADP"
+},
+{
+"token": "@dna",
+"tag": "X"
+},
+{
+"token": "via",
+"tag": "ADP"
+},
+{
+"token": "@c0nvey",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@sabeaux",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Doctor-on",
+"tag": "NOUN"
+},
+{
+"token": "ne",
+"tag": "ADP"
+},
+{
+"token": "Kejriwal",
+"tag": "PROPN"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "zabaan",
+"tag": "NOUN"
+},
+{
+"token": "chhoti",
+"tag": "ADJ"
+},
+{
+"token": "kar",
+"tag": "VERB"
+},
+{
+"token": "di",
+"tag": "VERB"
+},
+{
+"token": "aur",
+"tag": "CCONJ"
+},
+{
+"token": "aantankvaadiyon",
+"tag": "NOUN"
+},
+{
+"token": "ne",
+"tag": "ADP"
+},
+{
+"token": "Parrikar",
+"tag": "PROPN"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "This",
+"tag": "DET"
+},
+{
+"token": "is",
+"tag": "VERB"
+},
+{
+"token": "not",
+"tag": "PART"
+},
+{
+"token": "only",
+"tag": "ADJ"
+},
+{
+"token": "attack",
+"tag": "NOUN"
+},
+{
+"token": "this",
+"tag": "DET"
+},
+{
+"token": "is",
+"tag": "VERB"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "ques",
+"tag": "NOUN"
+},
+{
+"token": "came",
+"tag": "VERB"
+},
+{
+"token": "frm",
+"tag": "ADP"
+},
+{
+"token": "pak",
+"tag": "PROPN"
+}
+],
+[
+{
+"token": "Hum",
+"tag": "PRON"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "aise",
+"tag": "ADV"
+},
+{
+"token": "hi",
+"tag": "PART"
+},
+{
+"token": "marenge",
+"tag": "VERB"
+},
+{
+"token": "'",
+"tag": "X"
+},
+{
+"token": "Tm",
+"tag": "PRON"
+},
+{
+"token": "kya",
+"tag": "PRON"
+},
+{
+"token": "kroge",
+"tag": "VERB"
+},
+{
+"token": "?",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "only",
+"tag": "ADJ"
+},
+{
+"token": "meeting",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+}
+],
+[
+{
+"token": "Ghar",
+"tag": "NOUN"
+},
+{
+"token": "mae",
+"tag": "ADP"
+},
+{
+"token": "Ghus",
+"tag": "VERB"
+},
+{
+"token": "kar",
+"tag": "VERB"
+},
+{
+"token": "Maaro",
+"tag": "VERB"
+}
+],
+[
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "we",
+"tag": "PRON"
+},
+{
+"token": "used",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "say",
+"tag": "VERB"
+},
+{
+"token": "when",
+"tag": "ADV"
+},
+{
+"token": "there",
+"tag": "DET"
+},
+{
+"token": "were",
+"tag": "VERB"
+},
+{
+"token": "fights",
+"tag": "NOUN"
+},
+{
+"token": "in",
+"tag": "ADP"
+},
+{
+"token": "mohalla's",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Time",
+"tag": "NOUN"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "do",
+"tag": "VERB"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "same",
+"tag": "ADJ"
+},
+{
+"token": "#ShittyPakis",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@jalajboy",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Will",
+"tag": "VERB"
+},
+{
+"token": "someone",
+"tag": "PRON"
+},
+{
+"token": "at",
+"tag": "ADP"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "top",
+"tag": "NOUN"
+},
+{
+"token": "PM",
+"tag": "PROPN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "DM",
+"tag": "PROPN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "HM",
+"tag": "PROPN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "NSA",
+"tag": "PROPN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "IB",
+"tag": "PROPN"
+},
+{
+"token": "take",
+"tag": "VERB"
+},
+{
+"token": "responsibility",
+"tag": "NOUN"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "&",
+"tag": "CCONJ"
+},
+{
+"token": "will",
+"tag": "VERB"
+},
+{
+"token": "govt",
+"tag": "NOUN"
+},
+{
+"token": "change",
+"tag": "VERB"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "leadership",
+"tag": "ADJ"
+},
+{
+"token": "team",
+"tag": "NOUN"
+},
+{
+"token": "?",
+"tag": "X"
+}
+],
+[
+{
+"token": "@sudhirchaudhary",
+"tag": "X"
+},
+{
+"token": "@dhruva91",
+"tag": "X"
+},
+{
+"token": "SHould",
+"tag": "VERB"
+},
+{
+"token": "be",
+"tag": "VERB"
+},
+{
+"token": "burnt",
+"tag": "VERB"
+},
+{
+"token": "like",
+"tag": "ADP"
+},
+{
+"token": "turkey",
+"tag": "PROPN"
+},
+{
+"token": "did",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "ADP"
+},
+{
+"token": "militia",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Hoor",
+"tag": "NOUN"
+},
+{
+"token": "nahin",
+"tag": "PART"
+},
+{
+"token": "milegi",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Potent",
+"tag": "ADJ"
+},
+{
+"token": "weapon",
+"tag": "NOUN"
+},
+{
+"token": "indeed",
+"tag": "PART"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@AfghanJourno",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "watching",
+"tag": "VERB"
+},
+{
+"token": "retired",
+"tag": "ADJ"
+},
+{
+"token": "army",
+"tag": "ADJ"
+},
+{
+"token": "guys",
+"tag": "NOUN"
+},
+{
+"token": "on",
+"tag": "ADP"
+},
+{
+"token": "Pakistani",
+"tag": "ADJ"
+},
+{
+"token": "TVs",
+"tag": "PROPN"
+},
+{
+"token": "'",
+"tag": "X"
+},
+{
+"token": "Choori",
+"tag": "NOUN"
+},
+{
+"token": "Upper",
+"tag": "ADP"
+},
+{
+"token": "Se",
+"tag": "ADP"
+},
+{
+"token": "Sena",
+"tag": "ADJ"
+},
+{
+"token": "Zoori",
+"tag": "NOUN"
+},
+{
+"token": "'",
+"tag": "X"
+},
+{
+"token": "?",
+"tag": "X"
+},
+{
+"token": "Who",
+"tag": "PRON"
+},
+{
+"token": "can",
+"tag": "VERB"
+},
+{
+"token": "attack",
+"tag": "VERB"
+},
+{
+"token": "Indian",
+"tag": "ADJ"
+},
+{
+"token": "forces",
+"tag": "NOUN"
+},
+{
+"token": "in",
+"tag": "ADP"
+},
+{
+"token": "Kash",
+"tag": "PROPN"
+}
+],
+[
+{
+"token": "Hon",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Pradhan",
+"tag": "ADJ"
+},
+{
+"token": "Sevak",
+"tag": "NOUN"
+},
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "ji",
+"tag": "PART"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "please",
+"tag": "ADV"
+},
+{
+"token": "please",
+"tag": "ADV"
+},
+{
+"token": "act",
+"tag": "VERB"
+},
+{
+"token": "...",
+"tag": "X"
+},
+{
+"token": "plz",
+"tag": "ADV"
+},
+{
+"token": "take",
+"tag": "VERB"
+},
+{
+"token": "action",
+"tag": "NOUN"
+},
+{
+"token": "..",
+"tag": "X"
+},
+{
+"token": "We",
+"tag": "PRON"
+},
+{
+"token": "all",
+"tag": "DET"
+},
+{
+"token": "Indians",
+"tag": "NOUN"
+},
+{
+"token": "want",
+"tag": "VERB"
+},
+{
+"token": "this",
+"tag": "DET"
+},
+{
+"token": "...",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "https://t.co/uixrsAJ1QO",
+"tag": "X"
+}
+],
+[
+{
+"token": "@mrsgandhi",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "Some",
+"tag": "PRON"
+},
+{
+"token": "people",
+"tag": "NOUN"
+},
+{
+"token": "doesn't",
+"tag": "VERB"
+},
+{
+"token": "want",
+"tag": "VERB"
+},
+{
+"token": "2",
+"tag": "PART"
+},
+{
+"token": "see",
+"tag": "VERB"
+},
+{
+"token": "what",
+"tag": "PRON"
+},
+{
+"token": "happen",
+"tag": "VERB"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "it's",
+"tag": "VERB"
+},
+{
+"token": "right",
+"tag": "ADJ"
+},
+{
+"token": "or",
+"tag": "CCONJ"
+},
+{
+"token": "wrong",
+"tag": "ADJ"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "vo",
+"tag": "PRON"
+},
+{
+"token": "bs",
+"tag": "PART"
+},
+{
+"token": "aankh",
+"tag": "NOUN"
+},
+{
+"token": "band",
+"tag": "VERB"
+},
+{
+"token": "krke",
+"tag": "VERB"
+},
+{
+"token": "chamchagiri",
+"tag": "NOUN"
+},
+{
+"token": "krte",
+"tag": "VERB"
+},
+{
+"token": "h",
+"tag": "VERB"
+}
+],
+[
+{
+"token": "I",
+"tag": "PRON"
+},
+{
+"token": "m",
+"tag": "VERB"
+},
+{
+"token": "surprised",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "see",
+"tag": "VERB"
+},
+{
+"token": "Amir",
+"tag": "PROPN"
+},
+{
+"token": "Khan",
+"tag": "PROPN"
+},
+{
+"token": "has",
+"tag": "VERB"
+},
+{
+"token": "no",
+"tag": "PART"
+},
+{
+"token": "tweet",
+"tag": "NOUN"
+},
+{
+"token": "in",
+"tag": "ADP"
+},
+{
+"token": "his",
+"tag": "PRON"
+},
+{
+"token": "Twitter",
+"tag": "ADJ"
+},
+{
+"token": "Handle",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@hirathegenius",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "4",
+"tag": "NUM"
+},
+{
+"token": "against",
+"tag": "ADP"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "whole",
+"tag": "ADJ"
+},
+{
+"token": "camp",
+"tag": "NOUN"
+},
+{
+"token": "and",
+"tag": "CCONJ"
+},
+{
+"token": "Modi",
+"tag": "PROPN"
+},
+{
+"token": "is",
+"tag": "VERB"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "fan",
+"tag": "NOUN"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "war",
+"tag": "NOUN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "khudkushi",
+"tag": "NOUN"
+},
+{
+"token": "karlo",
+"tag": "VERB"
+},
+{
+"token": "yar",
+"tag": "NOUN"
+},
+{
+"token": "?",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "Retweeted",
+"tag": "VERB"
+},
+{
+"token": "YS",
+"tag": "PROPN"
+},
+{
+"token": "Jagan",
+"tag": "PROPN"
+},
+{
+"token": "Mohan",
+"tag": "PROPN"
+},
+{
+"token": "Reddy",
+"tag": "PROPN"
+},
+{
+"token": "(",
+"tag": "X"
+},
+{
+"token": "@ysjagan",
+"tag": "X"
+},
+{
+"token": "):",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@_VikasChaudhary",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "V",
+"tag": "PRON"
+},
+{
+"token": "condemn",
+"tag": "VERB"
+},
+{
+"token": "ur",
+"tag": "PRON"
+},
+{
+"token": "condemn",
+"tag": "NOUN"
+},
+{
+"token": "..",
+"tag": "X"
+},
+{
+"token": "Its",
+"tag": "VERB"
+},
+{
+"token": "time",
+"tag": "NOUN"
+},
+{
+"token": "2take",
+"tag": "X"
+},
+{
+"token": "action",
+"tag": "NOUN"
+},
+{
+"token": "&",
+"tag": "CCONJ"
+},
+{
+"token": "kill",
+"tag": "VERB"
+},
+{
+"token": "de",
+"tag": "DET"
+},
+{
+"token": "killer",
+"tag": "NOUN"
+},
+{
+"token": "or",
+"tag": "CCONJ"
+},
+{
+"token": "say",
+"tag": "VERB"
+},
+{
+"token": "sorry",
+"tag": "ADJ"
+},
+{
+"token": "2",
+"tag": "ADP"
+},
+{
+"token": "de",
+"tag": "DET"
+},
+{
+"token": "nation",
+"tag": "NOUN"
+},
+{
+"token": "&",
+"tag": "CCONJ"
+},
+{
+"token": "resign",
+"tag": "VERB"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "@vidyarthee",
+"tag": "X"
+},
+{
+"token": "h",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@rajranjan12",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "@ZeeNews",
+"tag": "X"
+},
+{
+"token": "PM",
+"tag": "PROPN"
+},
+{
+"token": "has",
+"tag": "VERB"
+},
+{
+"token": "given",
+"tag": "VERB"
+},
+{
+"token": "(",
+"tag": "X"
+},
+{
+"token": "Karaa",
+"tag": "ADJ"
+},
+{
+"token": "jawab",
+"tag": "NOUN"
+},
+{
+"token": ")",
+"tag": "X"
+},
+{
+"token": "to",
+"tag": "ADP"
+},
+{
+"token": "pakistan",
+"tag": "PROPN"
+},
+{
+"token": "n",
+"tag": "CCONJ"
+},
+{
+"token": "Karaa",
+"tag": "ADJ"
+},
+{
+"token": "Jawab",
+"tag": "NOUN"
+},
+{
+"token": "is",
+"tag": "VERB"
+},
+{
+"token": "PM",
+"tag": "PROPN"
+},
+{
+"token": "Tweets",
+"tag": "VERB"
+},
+{
+"token": "!",
+"tag": "X"
+},
+{
+"token": "What",
+"tag": "PRON"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "Fuck",
+"tag": "NOUN"
+},
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "@PMOIndia",
+"tag": "X"
+},
+{
+"token": "#UriAt",
+"tag": "X"
+}
+],
+[
+{
+"token": "Kuch",
+"tag": "DET"
+},
+{
+"token": "hoga",
+"tag": "VERB"
+},
+{
+"token": "ab",
+"tag": "ADV"
+},
+{
+"token": "#Uriattack",
+"tag": "X"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "!",
+"tag": "X"
+},
+{
+"token": "Are",
+"tag": "VERB"
+},
+{
+"token": "u",
+"tag": "PRON"
+},
+{
+"token": "capable",
+"tag": "ADJ"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "think",
+"tag": "VERB"
+},
+{
+"token": "?",
+"tag": "X"
+},
+{
+"token": "Destroy",
+"tag": "VERB"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "terrorism",
+"tag": "NOUN"
+},
+{
+"token": "We",
+"tag": "PRON"
+},
+{
+"token": "Don't",
+"tag": "VERB"
+},
+{
+"token": "need",
+"tag": "VERB"
+},
+{
+"token": "any",
+"tag": "DET"
+},
+{
+"token": "yojna",
+"tag": "NOUN"
+},
+{
+"token": "need",
+"tag": "VERB"
+},
+{
+"token": "secure",
+"tag": "ADJ"
+},
+{
+"token": "life",
+"tag": "NOUN"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "jawans",
+"tag": "NOUN"
+},
+{
+"token": "@narendramodi",
+"tag": "X"
+}
+],
+[
+{
+"token": "@tariq_pirzada",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "chor",
+"tag": "NOUN"
+},
+{
+"token": "ke",
+"tag": "ADP"
+},
+{
+"token": "dari",
+"tag": "NOUN"
+},
+{
+"token": "me",
+"tag": "ADP"
+},
+{
+"token": "tinka",
+"tag": "NOUN"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "rattled",
+"tag": "ADJ"
+},
+{
+"token": "minister",
+"tag": "NOUN"
+},
+{
+"token": "threatens",
+"tag": "VERB"
+},
+{
+"token": "india",
+"tag": "PROPN"
+},
+{
+"token": "with",
+"tag": "ADP"
+},
+{
+"token": "nuclear",
+"tag": "ADJ"
+},
+{
+"token": "attack",
+"tag": "NOUN"
+},
+{
+"token": "you",
+"tag": "PRON"
+},
+{
+"token": "suffer",
+"tag": "VERB"
+},
+{
+"token": "from",
+"tag": "ADP"
+},
+{
+"token": "suicidal",
+"tag": "ADJ"
+},
+{
+"token": "tendencies",
+"tag": "NOUN"
+}
+],
+[
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "lato",
+"tag": "NOUN"
+},
+{
+"token": "ke",
+"tag": "ADP"
+},
+{
+"token": "bhoot",
+"tag": "NOUN"
+},
+{
+"token": "baato",
+"tag": "NOUN"
+},
+{
+"token": "se",
+"tag": "ADP"
+},
+{
+"token": "nhi",
+"tag": "PART"
+},
+{
+"token": "mante",
+"tag": "VERB"
+},
+{
+"token": "....",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "....",
+"tag": "X"
+},
+{
+"token": "India",
+"tag": "PROPN"
+},
+{
+"token": "should",
+"tag": "VERB"
+},
+{
+"token": "retaliate",
+"tag": "VERB"
+},
+{
+"token": "...",
+"tag": "X"
+},
+{
+"token": "#JaiHnd",
+"tag": "X"
+}
+],
+[
+{
+"token": "Present",
+"tag": "ADJ"
+},
+{
+"token": "Indian",
+"tag": "ADJ"
+},
+{
+"token": "Rulers",
+"tag": "NOUN"
+},
+{
+"token": "don't",
+"tag": "VERB"
+},
+{
+"token": "have",
+"tag": "VERB"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "Spine",
+"tag": "NOUN"
+},
+{
+"token": "like",
+"tag": "ADP"
+},
+{
+"token": "Indhira",
+"tag": "PROPN"
+},
+{
+"token": "Gandhi",
+"tag": "PROPN"
+},
+{
+"token": "or",
+"tag": "CCONJ"
+},
+{
+"token": "AB",
+"tag": "PROPN"
+},
+{
+"token": "Vajpayee",
+"tag": "PROPN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#uriattack",
+"tag": "X"
+},
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "@ArvindKejriwal",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@varshasinghmcx",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "People",
+"tag": "NOUN"
+},
+{
+"token": "not",
+"tag": "PART"
+},
+{
+"token": "voted",
+"tag": "VERB"
+},
+{
+"token": "you",
+"tag": "PRON"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "statements",
+"tag": "NOUN"
+},
+{
+"token": "like",
+"tag": "ADP"
+},
+{
+"token": "'",
+"tag": "X"
+},
+{
+"token": "kadi",
+"tag": "ADJ"
+},
+{
+"token": "ninda",
+"tag": "NOUN"
+},
+{
+"token": "karte",
+"tag": "VERB"
+},
+{
+"token": "he",
+"tag": "VERB"
+},
+{
+"token": "'",
+"tag": "X"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "they",
+"tag": "PRON"
+},
+{
+"token": "voted",
+"tag": "VERB"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "'",
+"tag": "X"
+},
+{
+"token": "56",
+"tag": "NUM"
+},
+{
+"token": "inch",
+"tag": "NOUN"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "sina",
+"tag": "NOUN"
+},
+{
+"token": "'",
+"tag": "X"
+},
+{
+"token": "!!",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@ZeeNewsSports",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "After",
+"tag": "ADV"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "@virendersehwag",
+"tag": "X"
+},
+{
+"token": "tells",
+"tag": "VERB"
+},
+{
+"token": "his",
+"tag": "PRON"
+},
+{
+"token": "fan",
+"tag": "NOUN"
+},
+{
+"token": "from",
+"tag": "ADP"
+},
+{
+"token": "Pak",
+"tag": "PROPN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "raise",
+"tag": "VERB"
+},
+{
+"token": "voice",
+"tag": "NOUN"
+},
+{
+"token": "against",
+"tag": "ADP"
+},
+{
+"token": "terrorism",
+"tag": "NOUN"
+}
+],
+[
+{
+"token": "@bhogleharsha",
+"tag": "X"
+},
+{
+"token": "bhai",
+"tag": "NOUN"
+},
+{
+"token": "tu",
+"tag": "PRON"
+},
+{
+"token": "yeh",
+"tag": "DET"
+},
+{
+"token": "bata",
+"tag": "VERB"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "kya",
+"tag": "PRON"
+},
+{
+"token": "agli",
+"tag": "ADJ"
+},
+{
+"token": "baar",
+"tag": "NOUN"
+},
+{
+"token": "jab",
+"tag": "ADV"
+},
+{
+"token": "Paki",
+"tag": "ADJ"
+},
+{
+"token": "player",
+"tag": "NOUN"
+},
+{
+"token": "khelengey",
+"tag": "VERB"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "toh",
+"tag": "PRON"
+},
+{
+"token": "tu",
+"tag": "PRON"
+},
+{
+"token": "kammentaree",
+"tag": "NOUN"
+},
+{
+"token": "deygaa",
+"tag": "VERB"
+},
+{
+"token": "?",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@SaqibAliHaidri",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Somehow",
+"tag": "ADV"
+},
+{
+"token": "India",
+"tag": "PROPN"
+},
+{
+"token": "might",
+"tag": "VERB"
+},
+{
+"token": "thanked",
+"tag": "VERB"
+},
+{
+"token": "and",
+"tag": "CCONJ"
+},
+{
+"token": "feeling",
+"tag": "VERB"
+},
+{
+"token": "relaxed",
+"tag": "VERB"
+},
+{
+"token": "by",
+"tag": "ADP"
+},
+{
+"token": "making",
+"tag": "VERB"
+},
+{
+"token": "an",
+"tag": "DET"
+},
+{
+"token": "excuse",
+"tag": "NOUN"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "this",
+"tag": "DET"
+},
+{
+"token": "that",
+"tag": "DET"
+},
+{
+"token": "they",
+"tag": "PRON"
+},
+{
+"token": "are",
+"tag": "VERB"
+},
+{
+"token": "not",
+"tag": "PART"
+},
+{
+"token": "going",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "ADP"
+},
+{
+"token": "UN",
+"tag": "PROPN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "listen",
+"tag": "VERB"
+},
+{
+"token": "on",
+"tag": "ADP"
+}
+],
+[
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "sir",
+"tag": "NOUN"
+},
+{
+"token": "I've",
+"tag": "VERB"
+},
+{
+"token": "watched",
+"tag": "VERB"
+},
+{
+"token": "you",
+"tag": "PRON"
+},
+{
+"token": "in",
+"tag": "ADP"
+},
+{
+"token": "aapki",
+"tag": "PROPN"
+},
+{
+"token": "adalat",
+"tag": "PROPN"
+},
+{
+"token": "you",
+"tag": "PRON"
+},
+{
+"token": "said",
+"tag": "VERB"
+},
+{
+"token": "'",
+"tag": "X"
+},
+{
+"token": "100",
+"tag": "NUM"
+},
+{
+"token": "cr",
+"tag": "NOUN"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "desh",
+"tag": "NOUN"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": "hum",
+"tag": "PRON"
+},
+{
+"token": "pressure",
+"tag": "NOUN"
+},
+{
+"token": "paida",
+"tag": "VERB"
+},
+{
+"token": "kr",
+"tag": "VERB"
+},
+{
+"token": "Skte",
+"tag": "VERB"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": "'",
+"tag": "X"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Kuchh",
+"tag": "PRON"
+},
+{
+"token": "kro",
+"tag": "VERB"
+},
+{
+"token": "sir",
+"tag": "NOUN"
+}
+],
+[
+{
+"token": "Now",
+"tag": "ADV"
+},
+{
+"token": "Haryana",
+"tag": "PROPN"
+},
+{
+"token": "cm",
+"tag": "PROPN"
+},
+{
+"token": "Mr",
+"tag": "PROPN"
+},
+{
+"token": "khattar",
+"tag": "PROPN"
+},
+{
+"token": "have",
+"tag": "VERB"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "badi",
+"tag": "ADJ"
+},
+{
+"token": "khabar",
+"tag": "NOUN"
+},
+{
+"token": "!!",
+"tag": "X"
+}
+],
+[
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "#IndianArmy",
+"tag": "X"
+},
+{
+"token": "#Kashmir",
+"tag": "X"
+},
+{
+"token": "rachna",
+"tag": "NOUN"
+},
+{
+"token": "nahi",
+"tag": "PART"
+},
+{
+"token": "ab",
+"tag": "ADV"
+},
+{
+"token": "rann",
+"tag": "NOUN"
+},
+{
+"token": "hoga",
+"tag": "VERB"
+},
+{
+"token": "...",
+"tag": "X"
+},
+{
+"token": "jeevan",
+"tag": "NOUN"
+},
+{
+"token": "jai",
+"tag": "VERB"
+},
+{
+"token": "yA",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "maran",
+"tag": "VERB"
+},
+{
+"token": "hoga",
+"tag": "VERB"
+},
+{
+"token": ".....",
+"tag": "X"
+},
+{
+"token": "It's",
+"tag": "VERB"
+},
+{
+"token": "time",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "execute",
+"tag": "VERB"
+},
+{
+"token": "these",
+"tag": "DET"
+},
+{
+"token": "pankti",
+"tag": "NOUN"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "dinkar",
+"tag": "PROPN"
+},
+{
+"token": "jee",
+"tag": "PART"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@HemantRitu7",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "@abpnewstv",
+"tag": "X"
+},
+{
+"token": "@AmitShah",
+"tag": "X"
+},
+{
+"token": "If",
+"tag": "CCONJ"
+},
+{
+"token": "BJP",
+"tag": "PROPN"
+},
+{
+"token": "taking",
+"tag": "VERB"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "seriously",
+"tag": "ADV"
+},
+{
+"token": "then",
+"tag": "PRON"
+},
+{
+"token": "firstly",
+"tag": "ADV"
+},
+{
+"token": "they",
+"tag": "PRON"
+},
+{
+"token": "ask",
+"tag": "VERB"
+},
+{
+"token": "PM",
+"tag": "PROPN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "sack",
+"tag": "VERB"
+},
+{
+"token": "MoD",
+"tag": "PROPN"
+},
+{
+"token": "Parrikar",
+"tag": "PROPN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "HM",
+"tag": "PROPN"
+},
+{
+"token": "Rajnath",
+"tag": "PROPN"
+},
+{
+"token": "Singh",
+"tag": "PROPN"
+},
+{
+"token": "&",
+"tag": "CCONJ"
+}
+],
+[
+{
+"token": "Let's",
+"tag": "VERB"
+},
+{
+"token": "show",
+"tag": "VERB"
+},
+{
+"token": "them",
+"tag": "PRON"
+},
+{
+"token": "ki",
+"tag": "PRON"
+},
+{
+"token": "'",
+"tag": "X"
+},
+{
+"token": "ek",
+"tag": "NUM"
+},
+{
+"token": "gal",
+"tag": "NOUN"
+},
+{
+"token": "pe",
+"tag": "ADP"
+},
+{
+"token": "maroge",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PRON"
+},
+{
+"token": "hath",
+"tag": "NOUN"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "'",
+"tag": "X"
+},
+{
+"token": "It's",
+"tag": "VERB"
+},
+{
+"token": "high",
+"tag": "ADJ"
+},
+{
+"token": "time",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "stop",
+"tag": "VERB"
+},
+{
+"token": "condemning",
+"tag": "VERB"
+},
+{
+"token": "it",
+"tag": "PRON"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Take",
+"tag": "VERB"
+},
+{
+"token": "action",
+"tag": "NOUN"
+},
+{
+"token": "against",
+"tag": "ADP"
+},
+{
+"token": "Pakistan",
+"tag": "PROPN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Nuclear",
+"tag": "ADJ"
+},
+{
+"token": "bomb",
+"tag": "NOUN"
+},
+{
+"token": "se",
+"tag": "ADP"
+},
+{
+"token": "Uda",
+"tag": "VERB"
+},
+{
+"token": "do",
+"tag": "VERB"
+},
+{
+"token": "sir",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "https://t.co/8TfkMkDt6m",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@BushraAamir",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "India",
+"tag": "PROPN"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "support",
+"tag": "VERB"
+},
+{
+"token": "kerne",
+"tag": "VERB"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "ghalat",
+"tag": "ADJ"
+},
+{
+"token": "ilzam",
+"tag": "NOUN"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": "Pakistan",
+"tag": "PROPN"
+},
+{
+"token": "per",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "#IndianArmy",
+"tag": "X"
+},
+{
+"token": "https://t.co/cKLNbBrhpK",
+"tag": "X"
+}
+],
+[
+{
+"token": "Ok",
+"tag": "PART"
+},
+{
+"token": "so",
+"tag": "CCONJ"
+},
+{
+"token": "what",
+"tag": "PRON"
+},
+{
+"token": "do",
+"tag": "VERB"
+},
+{
+"token": "ppl",
+"tag": "NOUN"
+},
+{
+"token": "want",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "do",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "teach",
+"tag": "VERB"
+},
+{
+"token": "Pak",
+"tag": "PROPN"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "lesson",
+"tag": "NOUN"
+},
+{
+"token": "?",
+"tag": "X"
+},
+{
+"token": "Send",
+"tag": "VERB"
+},
+{
+"token": "Army",
+"tag": "NOUN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "Air",
+"tag": "NOUN"
+},
+{
+"token": "Force",
+"tag": "NOUN"
+},
+{
+"token": "and",
+"tag": "CCONJ"
+},
+{
+"token": "start",
+"tag": "VERB"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "war",
+"tag": "NOUN"
+},
+{
+"token": "?",
+"tag": "X"
+},
+{
+"token": "Then",
+"tag": "ADV"
+},
+{
+"token": "what",
+"tag": "PRON"
+},
+{
+"token": "??",
+"tag": "X"
+},
+{
+"token": "All",
+"tag": "DET"
+},
+{
+"token": "will",
+"tag": "VERB"
+},
+{
+"token": "be",
+"tag": "VERB"
+},
+{
+"token": "fine",
+"tag": "ADJ"
+},
+{
+"token": "??",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@amitabhsharmaa",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Samay",
+"tag": "NOUN"
+},
+{
+"token": "AA",
+"tag": "VERB"
+},
+{
+"token": "gya",
+"tag": "VERB"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": "UN",
+"tag": "PRON"
+},
+{
+"token": "terrorist",
+"tag": "NOUN"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "jalane",
+"tag": "VERB"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "Na",
+"tag": "PART"
+},
+{
+"token": "milega",
+"tag": "VERB"
+},
+{
+"token": "72hoor",
+"tag": "X"
+},
+{
+"token": "Na",
+"tag": "PART"
+},
+{
+"token": "wo",
+"tag": "PRON"
+},
+{
+"token": "aayenge",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Justice",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "ADP"
+},
+{
+"token": "martyrs",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#uriattack",
+"tag": "X"
+}
+],
+[
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "stop",
+"tag": "VERB"
+},
+{
+"token": "calling",
+"tag": "VERB"
+},
+{
+"token": "#UN",
+"tag": "X"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "US",
+"tag": "PROPN"
+},
+{
+"token": "or",
+"tag": "CCONJ"
+},
+{
+"token": "Russia",
+"tag": "PROPN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Retaliate",
+"tag": "VERB"
+},
+{
+"token": "like",
+"tag": "ADP"
+},
+{
+"token": "#Israel",
+"tag": "X"
+},
+{
+"token": "or",
+"tag": "CCONJ"
+},
+{
+"token": "start",
+"tag": "VERB"
+},
+{
+"token": "making",
+"tag": "VERB"
+},
+{
+"token": "more",
+"tag": "ADJ"
+},
+{
+"token": "coffins",
+"tag": "NOUN"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "Our",
+"tag": "PRON"
+},
+{
+"token": "Jawans",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "#IndianArmy",
+"tag": "X"
+}
+],
+[
+{
+"token": "Bc",
+"tag": "X"
+},
+{
+"token": "ye",
+"tag": "DET"
+},
+{
+"token": "Pakistani",
+"tag": "ADJ"
+},
+{
+"token": "Actor",
+"tag": "NOUN"
+},
+{
+"token": "or",
+"tag": "CCONJ"
+},
+{
+"token": "Actress",
+"tag": "NOUN"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "Banned",
+"tag": "VERB"
+},
+{
+"token": "karo",
+"tag": "VERB"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "Just",
+"tag": "ADV"
+},
+{
+"token": "visited",
+"tag": "VERB"
+},
+{
+"token": "Kashmir",
+"tag": "PROPN"
+},
+{
+"token": "few",
+"tag": "DET"
+},
+{
+"token": "months",
+"tag": "NOUN"
+},
+{
+"token": "ago",
+"tag": "ADV"
+},
+{
+"token": "and",
+"tag": "CCONJ"
+},
+{
+"token": "it",
+"tag": "PRON"
+},
+{
+"token": "saddens",
+"tag": "VERB"
+},
+{
+"token": "me",
+"tag": "PRON"
+},
+{
+"token": "as",
+"tag": "ADV"
+},
+{
+"token": "to",
+"tag": "ADV"
+},
+{
+"token": "why",
+"tag": "PRON"
+},
+{
+"token": "all",
+"tag": "DET"
+},
+{
+"token": "those",
+"tag": "DET"
+},
+{
+"token": "lovely",
+"tag": "ADJ"
+},
+{
+"token": "people",
+"tag": "NOUN"
+},
+{
+"token": "would",
+"tag": "VERB"
+},
+{
+"token": "have",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "go",
+"tag": "VERB"
+},
+{
+"token": "go",
+"tag": "VERB"
+},
+{
+"token": "through",
+"tag": "ADP"
+},
+{
+"token": "this",
+"tag": "DET"
+},
+{
+"token": ":(",
+"tag": "X"
+}
+],
+[
+{
+"token": "#UnitedAgainstPak",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "#AsalUttartoPak",
+"tag": "X"
+},
+{
+"token": "areey",
+"tag": "PART"
+},
+{
+"token": "Bollywood",
+"tag": "PROPN"
+},
+{
+"token": "ke",
+"tag": "ADP"
+},
+{
+"token": "kutton",
+"tag": "NOUN"
+},
+{
+"token": "paki",
+"tag": "PROPN"
+},
+{
+"token": "ke",
+"tag": "ADP"
+},
+{
+"token": "bhand",
+"tag": "NOUN"
+},
+{
+"token": "(",
+"tag": "X"
+},
+{
+"token": "actor",
+"tag": "NOUN"
+},
+{
+"token": ")",
+"tag": "X"
+},
+{
+"token": "Lena",
+"tag": "VERB"
+},
+{
+"token": "band",
+"tag": "VERB"
+},
+{
+"token": "karo",
+"tag": "VERB"
+},
+{
+"token": "boycott",
+"tag": "VERB"
+},
+{
+"token": "these",
+"tag": "DET"
+},
+{
+"token": "bhooke",
+"tag": "ADJ"
+},
+{
+"token": "nange",
+"tag": "ADJ"
+},
+{
+"token": "log",
+"tag": "NOUN"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@RSS4India",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Shame",
+"tag": "NOUN"
+},
+{
+"token": "on",
+"tag": "ADP"
+},
+{
+"token": "those",
+"tag": "DET"
+},
+{
+"token": "guys",
+"tag": "NOUN"
+},
+{
+"token": "who",
+"tag": "PRON"
+},
+{
+"token": "supported",
+"tag": "VERB"
+},
+{
+"token": "Communist",
+"tag": "ADJ"
+},
+{
+"token": "Kanhaiya",
+"tag": "PROPN"
+},
+{
+"token": "&",
+"tag": "CCONJ"
+},
+{
+"token": "anti",
+"tag": "ADJ"
+},
+{
+"token": "India",
+"tag": "ADJ"
+},
+{
+"token": "chants",
+"tag": "NOUN"
+},
+{
+"token": "in",
+"tag": "ADP"
+},
+{
+"token": "JNU",
+"tag": "PROPN"
+},
+{
+"token": "and",
+"tag": "CCONJ"
+},
+{
+"token": "now",
+"tag": "ADV"
+},
+{
+"token": "raising",
+"tag": "VERB"
+},
+{
+"token": "fingers",
+"tag": "NOUN"
+},
+{
+"token": "on",
+"tag": "ADP"
+},
+{
+"token": "PM",
+"tag": "PROPN"
+},
+{
+"token": "Modi",
+"tag": "PROPN"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "#UriAttacks",
+"tag": "X"
+}
+],
+[
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "Pak",
+"tag": "PROPN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "smjhna",
+"tag": "VERB"
+},
+{
+"token": "chahiye",
+"tag": "VERB"
+},
+{
+"token": "ki",
+"tag": "CCONJ"
+},
+{
+"token": "Papa",
+"tag": "NOUN"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "agr",
+"tag": "CCONJ"
+},
+{
+"token": "gussa",
+"tag": "NOUN"
+},
+{
+"token": "aa",
+"tag": "VERB"
+},
+{
+"token": "gya",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "CCONJ"
+},
+{
+"token": "bete",
+"tag": "NOUN"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "sudhaarne",
+"tag": "VERB"
+},
+{
+"token": "mei",
+"tag": "ADP"
+},
+{
+"token": "koi",
+"tag": "DET"
+},
+{
+"token": "kasar",
+"tag": "VERB"
+},
+{
+"token": "nai",
+"tag": "PART"
+},
+{
+"token": "rhegi",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Pak",
+"tag": "PROPN"
+},
+{
+"token": "is",
+"tag": "VERB"
+},
+{
+"token": "totally",
+"tag": "ADV"
+},
+{
+"token": "NAPAK",
+"tag": "ADJ"
+}
+],
+[
+{
+"token": "@NDA",
+"tag": "X"
+},
+{
+"token": "Deliver",
+"tag": "VERB"
+},
+{
+"token": "TERRORIST",
+"tag": "NOUN"
+},
+{
+"token": "BY",
+"tag": "ADP"
+},
+{
+"token": "PLANE",
+"tag": "NOUN"
+},
+{
+"token": "TO",
+"tag": "ADP"
+},
+{
+"token": "PAK",
+"tag": "PROPN"
+},
+{
+"token": "GET",
+"tag": "VERB"
+},
+{
+"token": "ATTAK",
+"tag": "X"
+},
+{
+"token": "PARLIAMENT",
+"tag": "NOUN"
+},
+{
+"token": "AND",
+"tag": "CCONJ"
+},
+{
+"token": "TRADES",
+"tag": "ADJ"
+},
+{
+"token": "HUB",
+"tag": "NOUN"
+},
+{
+"token": "!",
+"tag": "X"
+},
+{
+"token": "You",
+"tag": "PRON"
+},
+{
+"token": "are",
+"tag": "VERB"
+},
+{
+"token": "most",
+"tag": "ADJ"
+},
+{
+"token": "tolerant",
+"tag": "ADJ"
+},
+{
+"token": "Bharat",
+"tag": "PROPN"
+},
+{
+"token": "mata",
+"tag": "NOUN"
+},
+{
+"token": "KI",
+"tag": "ADP"
+},
+{
+"token": "son",
+"tag": "NOUN"
+},
+{
+"token": "!",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@waglenikhil",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Will",
+"tag": "VERB"
+},
+{
+"token": "do",
+"tag": "VERB"
+},
+{
+"token": "Aajcha",
+"tag": "ADJ"
+},
+{
+"token": "Sawal",
+"tag": "NOUN"
+},
+{
+"token": "on",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "today",
+"tag": "ADV"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Do",
+"tag": "VERB"
+},
+{
+"token": "you",
+"tag": "PRON"
+},
+{
+"token": "want",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "participate",
+"tag": "VERB"
+},
+{
+"token": "?",
+"tag": "X"
+}
+],
+[
+{
+"token": "@ShariqAnsar",
+"tag": "X"
+},
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "&",
+"tag": "CCONJ"
+},
+{
+"token": "he",
+"tag": "PRON"
+},
+{
+"token": "is",
+"tag": "VERB"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "1",
+"tag": "NUM"
+},
+{
+"token": "who",
+"tag": "PRON"
+},
+{
+"token": "ll",
+"tag": "X"
+},
+{
+"token": "tke",
+"tag": "VERB"
+},
+{
+"token": "actn",
+"tag": "VERB"
+},
+{
+"token": "w/o",
+"tag": "ADP"
+},
+{
+"token": "propangding",
+"tag": "VERB"
+},
+{
+"token": "much",
+"tag": "ADV"
+}
+],
+[
+{
+"token": "India",
+"tag": "PROPN"
+},
+{
+"token": "ma",
+"tag": "ADP"
+},
+{
+"token": "tu",
+"tag": "PART"
+},
+{
+"token": "koi",
+"tag": "PRON"
+},
+{
+"token": "kbootar",
+"tag": "NOUN"
+},
+{
+"token": "b",
+"tag": "PART"
+},
+{
+"token": "mar",
+"tag": "VERB"
+},
+{
+"token": "jay",
+"tag": "VERB"
+},
+{
+"token": "tou",
+"tag": "CCONJ"
+},
+{
+"token": "pak",
+"tag": "PROPN"
+},
+{
+"token": "na",
+"tag": "ADP"
+},
+{
+"token": "mara",
+"tag": "VERB"
+},
+{
+"token": "ha",
+"tag": "VERB"
+},
+{
+"token": "na",
+"tag": "PART"
+},
+{
+"token": "koi",
+"tag": "PRON"
+},
+{
+"token": "sboot",
+"tag": "NOUN"
+},
+{
+"token": "na",
+"tag": "PART"
+},
+{
+"token": "koi",
+"tag": "PRON"
+},
+{
+"token": "investigation",
+"tag": "NOUN"
+},
+{
+"token": "bus",
+"tag": "PART"
+},
+{
+"token": "pakistan",
+"tag": "PROPN"
+},
+{
+"token": "na",
+"tag": "ADP"
+},
+{
+"token": "he",
+"tag": "PART"
+},
+{
+"token": "hmla",
+"tag": "VERB"
+},
+{
+"token": "keya",
+"tag": "VERB"
+},
+{
+"token": "ha",
+"tag": "VERB"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "Please",
+"tag": "ADV"
+},
+{
+"token": "attack",
+"tag": "VERB"
+},
+{
+"token": "us",
+"tag": "PRON"
+},
+{
+"token": "but",
+"tag": "CCONJ"
+},
+{
+"token": "only",
+"tag": "ADV"
+},
+{
+"token": "by",
+"tag": "ADP"
+},
+{
+"token": "making",
+"tag": "VERB"
+},
+{
+"token": "Kabir",
+"tag": "PROPN"
+},
+{
+"token": "Khan's",
+"tag": "PROPN"
+},
+{
+"token": "Phantom",
+"tag": "PROPN"
+},
+{
+"token": "like",
+"tag": "ADP"
+},
+{
+"token": "films",
+"tag": "NOUN"
+},
+{
+"token": "with",
+"tag": "ADP"
+},
+{
+"token": "Saif",
+"tag": "PROPN"
+},
+{
+"token": "Ali",
+"tag": "PROPN"
+},
+{
+"token": "Khan",
+"tag": "PROPN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "https://t.co/P0GrRBLWqL",
+"tag": "X"
+}
+],
+[
+{
+"token": "Asl",
+"tag": "ADV"
+},
+{
+"token": "me",
+"tag": "ADP"
+},
+{
+"token": "Modi",
+"tag": "PROPN"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "last",
+"tag": "ADJ"
+},
+{
+"token": "year",
+"tag": "NOUN"
+},
+{
+"token": "se",
+"tag": "ADP"
+},
+{
+"token": "mot",
+"tag": "X"
+},
+{
+"token": "hi",
+"tag": "PART"
+},
+{
+"token": "CPEC",
+"tag": "PROPN"
+},
+{
+"token": "&",
+"tag": "CCONJ"
+},
+{
+"token": "50",
+"tag": "NUM"
+},
+{
+"token": "other",
+"tag": "ADJ"
+},
+{
+"token": "agreements",
+"tag": "NOUN"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "prhi",
+"tag": "VERB"
+},
+{
+"token": "hui",
+"tag": "VERB"
+},
+{
+"token": "hy",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Ab",
+"tag": "ADV"
+},
+{
+"token": "Kashmir",
+"tag": "ADJ"
+},
+{
+"token": "issue",
+"tag": "NOUN"
+},
+{
+"token": "chupane",
+"tag": "VERB"
+},
+{
+"token": "k",
+"tag": "ADP"
+},
+{
+"token": "liye",
+"tag": "ADP"
+},
+{
+"token": "self",
+"tag": "ADJ"
+},
+{
+"token": "c",
+"tag": "X"
+},
+{
+"token": "https://t.co/HEVPqZDxsX",
+"tag": "X"
+}
+],
+[
+{
+"token": "@ArvindKejriwal",
+"tag": "X"
+},
+{
+"token": "Abe",
+"tag": "PART"
+},
+{
+"token": "haramkhor",
+"tag": "ADJ"
+},
+{
+"token": "poore",
+"tag": "ADJ"
+},
+{
+"token": "desh",
+"tag": "NOUN"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "mujhe",
+"tag": "PRON"
+},
+{
+"token": "pata",
+"tag": "VERB"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": ".......",
+"tag": "X"
+},
+{
+"token": "tu",
+"tag": "PRON"
+},
+{
+"token": "apni",
+"tag": "PRON"
+},
+{
+"token": "bata",
+"tag": "VERB"
+},
+{
+"token": "kya",
+"tag": "PRON"
+},
+{
+"token": "abhi",
+"tag": "ADV"
+},
+{
+"token": "bhi",
+"tag": "PART"
+},
+{
+"token": "'",
+"tag": "X"
+},
+{
+"token": "Excellent",
+"tag": "ADJ"
+},
+{
+"token": "Article",
+"tag": "NOUN"
+},
+{
+"token": "on",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "'",
+"tag": "X"
+},
+{
+"token": "padh",
+"tag": "VERB"
+},
+{
+"token": "rha",
+"tag": "VERB"
+},
+{
+"token": "h",
+"tag": "VERB"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@NewPakistan2020",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Only",
+"tag": "ADJ"
+},
+{
+"token": "M",
+"tag": "PROPN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "A",
+"tag": "PROPN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Jinnah",
+"tag": "PROPN"
+},
+{
+"token": "had",
+"tag": "VERB"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "ability",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "tackle",
+"tag": "VERB"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "Hindu-Chankiya",
+"tag": "ADJ"
+},
+{
+"token": "mentality",
+"tag": "NOUN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "got",
+"tag": "VERB"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "safe",
+"tag": "ADJ"
+},
+{
+"token": "homeland",
+"tag": "NOUN"
+},
+{
+"token": "for",
+"tag": "ADP"
+},
+{
+"token": "us",
+"tag": "PRON"
+},
+{
+"token": ".",
+"tag": "X"
+}
+],
+[
+{
+"token": "Shri",
+"tag": "PROPN"
+},
+{
+"token": "@akshaykumar",
+"tag": "X"
+},
+{
+"token": "issued",
+"tag": "VERB"
+},
+{
+"token": "5lakh",
+"tag": "X"
+},
+{
+"token": "each",
+"tag": "ADJ"
+},
+{
+"token": "to",
+"tag": "ADP"
+},
+{
+"token": "17families",
+"tag": "X"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "martyrs",
+"tag": "NOUN"
+},
+{
+"token": "I'm",
+"tag": "VERB"
+},
+{
+"token": "proud",
+"tag": "ADJ"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "say",
+"tag": "VERB"
+},
+{
+"token": "tat",
+"tag": "CCONJ"
+},
+{
+"token": "he",
+"tag": "PRON"
+},
+{
+"token": "is",
+"tag": "VERB"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "real",
+"tag": "ADJ"
+},
+{
+"token": "human",
+"tag": "ADJ"
+},
+{
+"token": "being",
+"tag": "NOUN"
+},
+{
+"token": "in",
+"tag": "ADP"
+},
+{
+"token": "#Bollywood",
+"tag": "X"
+},
+{
+"token": "#Respect",
+"tag": "X"
+},
+{
+"token": "https://t.co/vCvb60BkT8",
+"tag": "X"
+}
+],
+[
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "We",
+"tag": "PRON"
+},
+{
+"token": "need",
+"tag": "VERB"
+},
+{
+"token": "tit4tat",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "attack",
+"tag": "NOUN"
+},
+{
+"token": "on",
+"tag": "ADP"
+},
+{
+"token": "pakistan",
+"tag": "PROPN"
+},
+{
+"token": "or",
+"tag": "CCONJ"
+},
+{
+"token": "allow",
+"tag": "VERB"
+},
+{
+"token": "me",
+"tag": "PRON"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "do",
+"tag": "VERB"
+},
+{
+"token": "that",
+"tag": "PRON"
+},
+{
+"token": "...",
+"tag": "X"
+},
+{
+"token": "will",
+"tag": "VERB"
+},
+{
+"token": "fight",
+"tag": "VERB"
+},
+{
+"token": "till",
+"tag": "ADV"
+},
+{
+"token": "my",
+"tag": "PRON"
+},
+{
+"token": "last",
+"tag": "ADJ"
+},
+{
+"token": "breath",
+"tag": "NOUN"
+},
+{
+"token": "@RashtrapatiBhvn",
+"tag": "X"
+}
+],
+[
+{
+"token": "People",
+"tag": "NOUN"
+},
+{
+"token": "just",
+"tag": "ADV"
+},
+{
+"token": "condemning",
+"tag": "VERB"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "seems",
+"tag": "VERB"
+},
+{
+"token": "like",
+"tag": "ADP"
+},
+{
+"token": "mujhe",
+"tag": "PRON"
+},
+{
+"token": "lauki",
+"tag": "NOUN"
+},
+{
+"token": "pasand",
+"tag": "VERB"
+},
+{
+"token": "nhii",
+"tag": "PART"
+},
+{
+"token": "haii",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Stand",
+"tag": "VERB"
+},
+{
+"token": "against",
+"tag": "ADP"
+},
+{
+"token": "terrorist",
+"tag": "NOUN"
+},
+{
+"token": "and",
+"tag": "CCONJ"
+},
+{
+"token": "also",
+"tag": "ADV"
+},
+{
+"token": "country",
+"tag": "NOUN"
+},
+{
+"token": "sponsoring",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#oneindia",
+"tag": "X"
+}
+],
+[
+{
+"token": "Indian",
+"tag": "ADJ"
+},
+{
+"token": "Macho",
+"tag": "ADJ"
+},
+{
+"token": "Journalists",
+"tag": "NOUN"
+},
+{
+"token": "from",
+"tag": "ADP"
+},
+{
+"token": "Times",
+"tag": "PROPN"
+},
+{
+"token": "Now",
+"tag": "PROPN"
+},
+{
+"token": "To",
+"tag": "ADP"
+},
+{
+"token": "India",
+"tag": "PROPN"
+},
+{
+"token": "Today",
+"tag": "PROPN"
+},
+{
+"token": "Network",
+"tag": "PROPN"
+},
+{
+"token": "18",
+"tag": "NUM"
+},
+{
+"token": "and",
+"tag": "CCONJ"
+},
+{
+"token": "that",
+"tag": "PRON"
+},
+{
+"token": "Aj",
+"tag": "PROPN"
+},
+{
+"token": "Takh",
+"tag": "PROPN"
+},
+{
+"token": "and",
+"tag": "CCONJ"
+},
+{
+"token": "KalTakh",
+"tag": "X"
+},
+{
+"token": "..",
+"tag": "X"
+},
+{
+"token": "Kitna",
+"tag": "PRON"
+},
+{
+"token": "Phankta",
+"tag": "X"
+},
+{
+"token": "Ho",
+"tag": "VERB"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "Modi",
+"tag": "PROPN"
+},
+{
+"token": "Ji",
+"tag": "PART"
+},
+{
+"token": "jab",
+"tag": "ADV"
+},
+{
+"token": "haramkhor",
+"tag": "ADJ"
+},
+{
+"token": "beta",
+"tag": "NOUN"
+},
+{
+"token": "aur",
+"tag": "ADJ"
+},
+{
+"token": "harami",
+"tag": "ADJ"
+},
+{
+"token": "ho",
+"tag": "VERB"
+},
+{
+"token": "jae",
+"tag": "VERB"
+},
+{
+"token": "tho",
+"tag": "CCONJ"
+},
+{
+"token": "usse",
+"tag": "PRON"
+},
+{
+"token": "jaan",
+"tag": "NOUN"
+},
+{
+"token": "se",
+"tag": "ADP"
+},
+{
+"token": "maar",
+"tag": "VERB"
+},
+{
+"token": "dene",
+"tag": "VERB"
+},
+{
+"token": "mai",
+"tag": "ADP"
+},
+{
+"token": "bhalai",
+"tag": "VERB"
+},
+{
+"token": "hai",
+"tag": "VERB"
+},
+{
+"token": "...",
+"tag": "X"
+},
+{
+"token": "don't",
+"tag": "VERB"
+},
+{
+"token": "gve",
+"tag": "VERB"
+},
+{
+"token": "devlpmrnt",
+"tag": "NOUN"
+},
+{
+"token": "finish",
+"tag": "VERB"
+},
+{
+"token": "pakistan",
+"tag": "PROPN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "Politics",
+"tag": "NOUN"
+},
+{
+"token": "me",
+"tag": "ADP"
+},
+{
+"token": "se",
+"tag": "ADP"
+},
+{
+"token": "politics",
+"tag": "NOUN"
+},
+{
+"token": "nikal",
+"tag": "VERB"
+},
+{
+"token": "kar",
+"tag": "VERB"
+},
+{
+"token": "dekho",
+"tag": "VERB"
+},
+{
+"token": "....",
+"tag": "X"
+},
+{
+"token": "Karachi",
+"tag": "PROPN"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "gali",
+"tag": "NOUN"
+},
+{
+"token": "gali",
+"tag": "NOUN"
+},
+{
+"token": "me",
+"tag": "ADP"
+},
+{
+"token": "Tiranga",
+"tag": "NOUN"
+},
+{
+"token": "lahrayega",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Kab",
+"tag": "PRON"
+},
+{
+"token": "tak",
+"tag": "ADV"
+},
+{
+"token": "intzaar",
+"tag": "NOUN"
+},
+{
+"token": "?",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": ".",
+"tag": "X"
+}
+],
+[
+{
+"token": "I",
+"tag": "PRON"
+},
+{
+"token": "believe",
+"tag": "VERB"
+},
+{
+"token": "in",
+"tag": "ADP"
+},
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "Ji",
+"tag": "PART"
+},
+{
+"token": "&",
+"tag": "X"
+},
+{
+"token": "@rajnathsingh",
+"tag": "X"
+},
+{
+"token": "Ji",
+"tag": "PART"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "I",
+"tag": "PRON"
+},
+{
+"token": "shall",
+"tag": "VERB"
+},
+{
+"token": "never",
+"tag": "PART"
+},
+{
+"token": "lose",
+"tag": "VERB"
+},
+{
+"token": "my",
+"tag": "PRON"
+},
+{
+"token": "faith",
+"tag": "NOUN"
+},
+{
+"token": "in",
+"tag": "ADP"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "team",
+"tag": "NOUN"
+},
+{
+"token": "led",
+"tag": "VERB"
+},
+{
+"token": "by",
+"tag": "ADP"
+},
+{
+"token": "NaMo",
+"tag": "PROPN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "Please",
+"tag": "ADV"
+},
+{
+"token": "play",
+"tag": "VERB"
+},
+{
+"token": "your",
+"tag": "PRON"
+},
+{
+"token": "game",
+"tag": "NOUN"
+},
+{
+"token": "well",
+"tag": "ADV"
+}
+],
+[
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "@manoharparrikar",
+"tag": "X"
+},
+{
+"token": "Sirjee",
+"tag": "X"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "agar",
+"tag": "CCONJ"
+},
+{
+"token": "ab",
+"tag": "ADV"
+},
+{
+"token": "bhi",
+"tag": "PART"
+},
+{
+"token": "koi",
+"tag": "PROPN"
+},
+{
+"token": "jawaab",
+"tag": "NOUN"
+},
+{
+"token": "nahin",
+"tag": "PART"
+},
+{
+"token": "diya",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "CCONJ"
+},
+{
+"token": "kab",
+"tag": "PRON"
+},
+{
+"token": "diya",
+"tag": "VERB"
+},
+{
+"token": "jayega",
+"tag": "VERB"
+},
+{
+"token": "?",
+"tag": "X"
+},
+{
+"token": "bacha",
+"tag": "VERB"
+},
+{
+"token": "hua",
+"tag": "VERB"
+},
+{
+"token": "kashmir",
+"tag": "PROPN"
+},
+{
+"token": "jaane",
+"tag": "VERB"
+},
+{
+"token": "ke",
+"tag": "ADP"
+},
+{
+"token": "baad",
+"tag": "ADP"
+},
+{
+"token": "?",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "@narendramodi",
+"tag": "X"
+},
+{
+"token": "MR",
+"tag": "PROPN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "PM",
+"tag": "PROPN"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "k",
+"tag": "ADP"
+},
+{
+"token": "itne",
+"tag": "DET"
+},
+{
+"token": "time",
+"tag": "NOUN"
+},
+{
+"token": "bad",
+"tag": "ADP"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "ordr",
+"tag": "NOUN"
+},
+{
+"token": "dedo",
+"tag": "VERB"
+},
+{
+"token": "ya",
+"tag": "CCONJ"
+},
+{
+"token": "vote",
+"tag": "NOUN"
+},
+{
+"token": "k",
+"tag": "ADP"
+},
+{
+"token": "liye",
+"tag": "ADP"
+},
+{
+"token": "56",
+"tag": "NUM"
+},
+{
+"token": "inch",
+"tag": "NOUN"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "sina",
+"tag": "NOUN"
+},
+{
+"token": "h",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "sbki",
+"tag": "X"
+},
+{
+"token": "najar",
+"tag": "NOUN"
+},
+{
+"token": "apke",
+"tag": "PRON"
+},
+{
+"token": "ordr",
+"tag": "NOUN"
+},
+{
+"token": "ki",
+"tag": "ADP"
+},
+{
+"token": "trf",
+"tag": "ADP"
+},
+{
+"token": "h",
+"tag": "VERB"
+}
+],
+[
+{
+"token": "Ab",
+"tag": "ADV"
+},
+{
+"token": "waqt",
+"tag": "NOUN"
+},
+{
+"token": "aa",
+"tag": "VERB"
+},
+{
+"token": "gya",
+"tag": "VERB"
+},
+{
+"token": "h",
+"tag": "VERB"
+},
+{
+"token": "ki",
+"tag": "CCONJ"
+},
+{
+"token": "feku",
+"tag": "ADJ"
+},
+{
+"token": "PM",
+"tag": "PROPN"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "border",
+"tag": "NOUN"
+},
+{
+"token": "per",
+"tag": "ADP"
+},
+{
+"token": "RSS",
+"tag": "PROPN"
+},
+{
+"token": "walon",
+"tag": "PART"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "bhejna",
+"tag": "VERB"
+},
+{
+"token": "chahiye",
+"tag": "VERB"
+},
+{
+"token": ".",
+"tag": "X"
+}
+],
+[
+{
+"token": "Before",
+"tag": "ADV"
+},
+{
+"token": "addressing",
+"tag": "VERB"
+},
+{
+"token": "nation",
+"tag": "NOUN"
+},
+{
+"token": "after",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "from",
+"tag": "ADP"
+},
+{
+"token": "#Kozhikode",
+"tag": "X"
+},
+{
+"token": "@PMOIndia",
+"tag": "X"
+},
+{
+"token": "meets",
+"tag": "VERB"
+},
+{
+"token": "Army",
+"tag": "NOUN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "Navy",
+"tag": "NOUN"
+},
+{
+"token": "and",
+"tag": "CCONJ"
+},
+{
+"token": "Air",
+"tag": "PROPN"
+},
+{
+"token": "Force",
+"tag": "PROPN"
+},
+{
+"token": "Chiefs",
+"tag": "NOUN"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "Staff",
+"tag": "NOUN"
+},
+{
+"token": "at",
+"tag": "ADP"
+},
+{
+"token": "7",
+"tag": "NUM"
+},
+{
+"token": "Lok",
+"tag": "PROPN"
+},
+{
+"token": "Kalyan",
+"tag": "PROPN"
+},
+{
+"token": "Marg",
+"tag": "PROPN"
+},
+{
+"token": ".",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@arunmsk",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "Feku",
+"tag": "NOUN"
+},
+{
+"token": "is",
+"tag": "VERB"
+},
+{
+"token": "busy",
+"tag": "ADJ"
+},
+{
+"token": "in",
+"tag": "ADP"
+},
+{
+"token": "releasing",
+"tag": "VERB"
+},
+{
+"token": "terrorists",
+"tag": "NOUN"
+},
+{
+"token": "Asemanand",
+"tag": "PROPN"
+},
+{
+"token": "and",
+"tag": "CCONJ"
+},
+{
+"token": "#MasratAlam",
+"tag": "X"
+},
+{
+"token": "Ji",
+"tag": "PART"
+},
+{
+"token": "Giving",
+"tag": "VERB"
+},
+{
+"token": "clean",
+"tag": "ADJ"
+},
+{
+"token": "chits",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "ADP"
+},
+{
+"token": "Tunda",
+"tag": "PROPN"
+},
+{
+"token": "Ji",
+"tag": "PART"
+},
+{
+"token": "&",
+"tag": "CCONJ"
+},
+{
+"token": "citizen",
+"tag": "NOUN"
+},
+{
+"token": "ship",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "ADP"
+},
+{
+"token": "Adnan",
+"tag": "PROPN"
+},
+{
+"token": "Sami",
+"tag": "PROPN"
+}
+],
+[
+{
+"token": "Sir",
+"tag": "NOUN"
+},
+{
+"token": "Dengue",
+"tag": "PROPN"
+},
+{
+"token": "ke",
+"tag": "ADP"
+},
+{
+"token": "liye",
+"tag": "ADP"
+},
+{
+"token": "kejri",
+"tag": "PROPN"
+},
+{
+"token": "n",
+"tag": "CCONJ"
+},
+{
+"token": "Manish",
+"tag": "PROPN"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "criticize",
+"tag": "VERB"
+},
+{
+"token": "kiya",
+"tag": "VERB"
+},
+{
+"token": "..",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "k",
+"tag": "ADP"
+},
+{
+"token": "liye",
+"tag": "ADP"
+},
+{
+"token": "modi",
+"tag": "ADJ"
+},
+{
+"token": "govt",
+"tag": "NOUN"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "criticize",
+"tag": "VERB"
+},
+{
+"token": "nhi",
+"tag": "PART"
+},
+{
+"token": "karoge",
+"tag": "VERB"
+},
+{
+"token": "kya",
+"tag": "PRON"
+},
+{
+"token": "?",
+"tag": "X"
+},
+{
+"token": "https://t.co/skQrv0HXet",
+"tag": "X"
+}
+],
+[
+{
+"token": "@MurtazaGeoNews",
+"tag": "X"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "is",
+"tag": "VERB"
+},
+{
+"token": "a",
+"tag": "DET"
+},
+{
+"token": "#FalseFlagBeforeUN",
+"tag": "X"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "divert",
+"tag": "VERB"
+},
+{
+"token": "world's",
+"tag": "NOUN"
+},
+{
+"token": "attention",
+"tag": "NOUN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "blame",
+"tag": "VERB"
+},
+{
+"token": "militants",
+"tag": "NOUN"
+},
+{
+"token": "&",
+"tag": "CCONJ"
+},
+{
+"token": "malign",
+"tag": "VERB"
+},
+{
+"token": "Pakistan",
+"tag": "PROPN"
+},
+{
+"token": "before",
+"tag": "ADV"
+},
+{
+"token": "speech",
+"tag": "NOUN"
+},
+{
+"token": "of",
+"tag": "ADP"
+},
+{
+"token": "Paki",
+"tag": "ADJ"
+},
+{
+"token": "PM",
+"tag": "PROPN"
+}
+],
+[
+{
+"token": "@RANl_MUKERJl",
+"tag": "X"
+},
+{
+"token": "bache",
+"tag": "NOUN"
+},
+{
+"token": "pardarshn",
+"tag": "NOUN"
+},
+{
+"token": "nhi",
+"tag": "PART"
+},
+{
+"token": "kar",
+"tag": "VERB"
+},
+{
+"token": "re",
+"tag": "VERB"
+},
+{
+"token": "the",
+"tag": "VERB"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "ye",
+"tag": "DET"
+},
+{
+"token": "bol",
+"tag": "VERB"
+},
+{
+"token": "rahe",
+"tag": "VERB"
+},
+{
+"token": "the",
+"tag": "VERB"
+},
+{
+"token": "ki",
+"tag": "CCONJ"
+},
+{
+"token": "ye",
+"tag": "DET"
+},
+{
+"token": "Kahsmir",
+"tag": "PROPN"
+},
+{
+"token": "hamare",
+"tag": "PRON"
+},
+{
+"token": "mullo",
+"tag": "NOUN"
+},
+{
+"token": "ke",
+"tag": "ADP"
+},
+{
+"token": "bap",
+"tag": "NOUN"
+},
+{
+"token": "ka",
+"tag": "ADP"
+},
+{
+"token": "ho",
+"tag": "VERB"
+},
+{
+"token": "gya",
+"tag": "VERB"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "hinduo",
+"tag": "NOUN"
+},
+{
+"token": "ko",
+"tag": "ADP"
+},
+{
+"token": "patthar",
+"tag": "NOUN"
+},
+{
+"token": "marege",
+"tag": "VERB"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+}
+],
+[
+{
+"token": "RT",
+"tag": "X"
+},
+{
+"token": "@PanditRamJoshi",
+"tag": "X"
+},
+{
+"token": ":",
+"tag": "X"
+},
+{
+"token": "We",
+"tag": "PRON"
+},
+{
+"token": "can",
+"tag": "VERB"
+},
+{
+"token": "arm",
+"tag": "VERB"
+},
+{
+"token": "&",
+"tag": "CCONJ"
+},
+{
+"token": "pay",
+"tag": "VERB"
+},
+{
+"token": "Baloch",
+"tag": "PROPN"
+},
+{
+"token": ",",
+"tag": "X"
+},
+{
+"token": "Pushtun",
+"tag": "PROPN"
+},
+{
+"token": "separatists",
+"tag": "NOUN"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "do",
+"tag": "VERB"
+},
+{
+"token": "attacks",
+"tag": "NOUN"
+},
+{
+"token": "inside",
+"tag": "ADP"
+},
+{
+"token": "Pak",
+"tag": "PROPN"
+},
+{
+"token": "as",
+"tag": "ADP"
+},
+{
+"token": "#UriAttack",
+"tag": "X"
+},
+{
+"token": "revenge",
+"tag": "NOUN"
+},
+{
+"token": ".",
+"tag": "X"
+},
+{
+"token": "We",
+"tag": "PRON"
+},
+{
+"token": "dont",
+"tag": "VERB"
+},
+{
+"token": "have",
+"tag": "VERB"
+},
+{
+"token": "to",
+"tag": "PART"
+},
+{
+"token": "do",
+"tag": "VERB"
+},
+{
+"token": "the",
+"tag": "DET"
+},
+{
+"token": "war",
+"tag": "NOUN"
+}
+]
+]

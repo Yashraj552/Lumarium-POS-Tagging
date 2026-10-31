@@ -1,0 +1,114 @@
+/*
+  frontend/css/responsive.css — Lumarium Responsive Media Queries
+*/
+
+@media (max-width: 992px) {
+  .hero-title {
+    font-size: 2.3rem;
+  }
+
+  .analysis-columns-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .controls-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .header-inner {
+    height: auto;
+    padding: 0.75rem 0;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .nav-menu {
+    width: 100%;
+    justify-content: center;
+    overflow-x: auto;
+  }
+
+  .nav-link {
+    padding: 0.4rem 0.75rem;
+    font-size: 0.82rem;
+    white-space: nowrap;
+  }
+
+  .hero-card {
+    padding: 2rem 1.25rem;
+  }
+
+  .hero-title {
+    font-size: 1.85rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .sentence-input-group {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .btn-primary {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .token-stream-container {
+    gap: 0.5rem;
+  }
+
+  .token-tile {
+    min-width: 80px;
+    padding: 0.6rem 0.75rem;
+  }
+
+  .token-tile-word {
+    font-size: 1.1rem;
+  }
+
+  .inspector-card {
+    padding: 1.25rem 1rem;
+  }
+
+  .inspector-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .inspector-word-title {
+    font-size: 1.7rem;
+  }
+
+  .triptych-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .quiz-chamber-card {
+    padding: 1.5rem 1.25rem;
+  }
+
+  .quiz-score-banner {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .compendium-cards-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .brand-title {
+    font-size: 1.25rem;
+  }
+
+  .header-status-badge {
+    display: none;
+  }
+}
